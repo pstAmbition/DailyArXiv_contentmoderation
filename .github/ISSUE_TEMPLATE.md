@@ -2,62 +2,126 @@
 title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
 
-## Time Series
+## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KarmaTS: A Universal Simulation Platform for Multivariate Time Series with Functional Causal Dynamics](https://arxiv.org/abs/2511.11357v2)** | 2025-12-18 |  |
-| **[Exponentially weighted estimands and the exponential family: filtering, prediction and smoothing](https://arxiv.org/abs/2512.16745v1)** | 2025-12-18 |  |
-| **[SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting](https://arxiv.org/abs/2507.16145v2)** | 2025-12-18 |  |
-| **[TimeSeries2Report prompting enables adaptive large language model management of lithium-ion batteries](https://arxiv.org/abs/2512.16453v1)** | 2025-12-18 |  |
-| **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://arxiv.org/abs/2412.08435v5)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by KDD 2025. This version fixed typos in Eq. (3)</p></details> |
-| **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
-| **[Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting](https://arxiv.org/abs/2512.16022v1)** | 2025-12-17 | 31Pages |
-| **[Enhancing Line Density Plots with Outlier Control and Bin-based Illumination](https://arxiv.org/abs/2512.16017v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by PacificVis 2026 (TVCG Journal Track)</p></details> |
-| **[Concurrence: A dependence criterion for time series, applied to biological data](https://arxiv.org/abs/2512.16001v1)** | 2025-12-17 |  |
-| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v3)** | 2025-12-17 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
-| **[Scientific Machine Learning of Chaotic Systems Discovers Governing Equations for Neural Populations](https://arxiv.org/abs/2507.03631v3)** | 2025-12-17 | 46 pages, 9 figures |
-| **[A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks](https://arxiv.org/abs/2512.15685v1)** | 2025-12-17 | <details><summary>48 pa...</summary><p>48 pages, 18 figures, 3 tables</p></details> |
-| **[ST-DETrack: Identity-Preserving Branch Tracking in Entangled Plant Canopies via Dual Spatiotemporal Evidence](https://arxiv.org/abs/2512.15445v1)** | 2025-12-17 | <details><summary>Under...</summary><p>Under Review at IEEE Transactions on Image Processing</p></details> |
-| **[A Regime-Aware Fusion Framework for Time Series Classification](https://arxiv.org/abs/2512.15378v1)** | 2025-12-17 |  |
-| **[CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity](https://arxiv.org/abs/2504.17913v2)** | 2025-12-17 |  |
+| **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
+| **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
+| **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
+| **[Emotion-Driven Personalized Recommendation for AI-Generated Content Using Multi-Modal Sentiment and Intent Analysis](https://arxiv.org/abs/2512.10963v1)** | 2025-11-25 |  |
+| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v2)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. To appear in: Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, Vol. 413. DOI: 10.3233/FAIA251182</p></details> |
+| **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v1)** | 2025-11-16 |  |
+| **[A Modular, Data-Free Pipeline for Multi-Label Intention Recognition in Transportation Agentic AI Applications](https://arxiv.org/abs/2511.03363v1)** | 2025-11-05 | <details><summary>Prese...</summary><p>Present in the Transportation Research Board (TRB) Annual Meeting 2026</p></details> |
+| **[RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763v3)** | 2025-11-01 |  |
+| **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
+| **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
+| **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
+| **[ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386v2)** | 2025-10-24 |  |
+| **[TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, 9 pages, 19 figures, 7 tables, 18 trained models Project Website: https://abirharrasse.github.io/tinysql/ Code Repository: https://github.com/withmartian/TinySQL Datasets and Models Viewer: https://huggingface.co/spaces/abir-hr196/tinysql-demo</p></details> |
+| **[DROID: Dual Representation for Out-of-Scope Intent Detection](https://arxiv.org/abs/2510.14110v1)** | 2025-10-15 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 Tables. Preprint submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
+| **[DFAMS: Dynamic-flow guided Federated Alignment based Multi-prototype Search](https://arxiv.org/abs/2508.20353v2)** | 2025-10-14 | 8 pages, 3 figures |
 
-## Trajectory
+## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text](https://arxiv.org/abs/2512.16924v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page and code: https://worldcanvas.github.io/</p></details> |
-| **[Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos](https://arxiv.org/abs/2512.16907v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website: https://egoman-project.github.io</p></details> |
-| **[R3ST: A Synthetic 3D Dataset With Realistic Trajectories](https://arxiv.org/abs/2512.16784v1)** | 2025-12-18 |  |
-| **[dLITE: Differentiable Lighting-Informed Trajectory Evaluation for On-Orbit Inspection](https://arxiv.org/abs/2512.16011v1)** | 2025-12-17 | 13 pages, 9 images |
-| **[MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity (Extension)](https://arxiv.org/abs/2511.12061v2)** | 2025-12-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures; accepted by AAAI 2026 as an Oral paper</p></details> |
-| **[Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](https://arxiv.org/abs/2512.15347v1)** | 2025-12-17 | 10 pages, 5 figures |
-| **[SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](https://arxiv.org/abs/2511.22039v2)** | 2025-12-17 |  |
-| **[TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training](https://arxiv.org/abs/2512.15123v1)** | 2025-12-17 |  |
-| **[QoS-Aware Hierarchical Reinforcement Learning for Joint Link Selection and Trajectory Optimization in SAGIN-Supported UAV Mobility Management](https://arxiv.org/abs/2512.15119v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Beyond Proximity: A Keypoint-Trajectory Framework for Classifying Affiliative and Agonistic Social Networks in Dairy Cattle](https://arxiv.org/abs/2512.14998v1)** | 2025-12-17 | <details><summary>36 pa...</summary><p>36 pages, 12 figures, 8 tables</p></details> |
-| **[ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts](https://arxiv.org/abs/2511.23442v2)** | 2025-12-16 |  |
-| **[Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review](https://arxiv.org/abs/2506.14831v2)** | 2025-12-16 | 45 pages |
-| **[DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos](https://arxiv.org/abs/2512.14217v1)** | 2025-12-16 |  |
-| **[Trajectory Tracking for Multi-Manipulator Systems in Constrained Environments](https://arxiv.org/abs/2512.14206v1)** | 2025-12-16 |  |
-| **[DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation](https://arxiv.org/abs/2512.14036v1)** | 2025-12-16 | Under Review |
+| **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
+| **[ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure](https://arxiv.org/abs/2309.03103v2)** | 2024-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, accepted for the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</p></details> |
+| **[Finding Challenging Metaphors that Confuse Pretrained Language Models](https://arxiv.org/abs/2401.16012v1)** | 2024-01-29 |  |
+| **[Construction Artifacts in Metaphor Identification Datasets](https://arxiv.org/abs/2311.00790v2)** | 2023-11-15 | <details><summary>Short...</summary><p>Short paper accepted to EMNLP 2023 main conference</p></details> |
+| **[Metaphor Detection via Explicit Basic Meanings Modelling](https://arxiv.org/abs/2305.17268v1)** | 2023-05-26 | ACL 2023 |
+| **[Adversarial Multi-task Learning for End-to-end Metaphor Detection](https://arxiv.org/abs/2305.16638v1)** | 2023-05-26 | <details><summary>Findi...</summary><p>Findings of ACL 2023 Accepted</p></details> |
+| **[Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195v3)** | 2022-08-17 |  |
+| **[MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615v1)** | 2021-04-28 | <details><summary>In Pr...</summary><p>In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics. 11 pages</p></details> |
+| **[Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification](https://arxiv.org/abs/2104.03285v1)** | 2021-04-07 |  |
+| **[Contextual Modulation for Relation-Level Metaphor Identification](https://arxiv.org/abs/2010.05633v1)** | 2020-10-12 | <details><summary>accep...</summary><p>accepted at Findings of EMNLP 2020</p></details> |
+| **[Learning Outside the Box: Discourse-level Features Improve Metaphor Identification](https://arxiv.org/abs/1904.02246v2)** | 2019-04-09 | <details><summary>NAACL...</summary><p>NAACL 2019; 6 pages; code available at https://github.com/jayelm/broader-metaphor; v2 updates affiliations and acknowledgments</p></details> |
+| **[Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575v1)** | 2017-09-02 | EMNLP 2017 |
 
-## Graph Neural Networks
+## Multimodal harmful content
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v1)** | 2025-12-18 | 5 pages, 3 figures |
-| **[Riemannian Stochastic Interpolants for Amorphous Particle Systems](https://arxiv.org/abs/2512.16607v1)** | 2025-12-18 |  |
-| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](https://arxiv.org/abs/2508.15216v2)** | 2025-12-18 | <details><summary>Publi...</summary><p>Published in IEEE Access (Early Access)</p></details> |
-| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v1)** | 2025-12-18 | 21 pages, 15 figures |
-| **[Sharpness-aware Federated Graph Learning](https://arxiv.org/abs/2512.16247v1)** | 2025-12-18 | Accepted by WSDM'26 |
-| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models](https://arxiv.org/abs/2512.16236v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, Accepted in CLNLP'25</p></details> |
-| **[A Multi-scale Fused Graph Neural Network with Inter-view Contrastive Learning for Spatial Transcriptomics Data Clustering](https://arxiv.org/abs/2512.16188v1)** | 2025-12-18 | 15 pages, 3 figures |
-| **[A Multimodal Approach to Alzheimer's Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments](https://arxiv.org/abs/2512.16184v1)** | 2025-12-18 |  |
-| **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
-| **[Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations](https://arxiv.org/abs/2506.14850v2)** | 2025-12-18 |  |
-| **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v1)** | 2025-12-18 |  |
-| **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v2)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
-| **[Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks](https://arxiv.org/abs/2509.21735v2)** | 2025-12-17 |  |
-| **[Structure-Aligned Protein Language Model](https://arxiv.org/abs/2505.16896v2)** | 2025-12-17 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 9 tables</p></details> |
+| **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
+| **[MTikGuard System: A Transformer-Based Multimodal System for Child-Safe Content Moderation on TikTok](https://arxiv.org/abs/2511.17955v1)** | 2025-11-22 | Accepted at PACLIC39 |
+| **[MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media](https://arxiv.org/abs/2508.05557v3)** | 2025-09-07 |  |
+| **[BigTokDetect: A Clinically-Informed Vision-Language Modeling Framework for Detecting Pro-Bigorexia Videos on TikTok](https://arxiv.org/abs/2508.06515v2)** | 2025-08-12 |  |
+
+## Misinformation Detection
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
+| **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
+| **[Exploring Health Misinformation Detection with Multi-Agent Debate](https://arxiv.org/abs/2512.09935v1)** | 2025-11-29 |  |
+| **[TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs](https://arxiv.org/abs/2511.21624v1)** | 2025-11-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Yesterday's News: Benchmarking Multi-Dimensional Out-of-Distribution Generalization of Misinformation Detection Models](https://arxiv.org/abs/2410.18122v4)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for publication in Computational Linguistics on November 23, 2025. This is the pre-MIT Press publication version</p></details> |
+| **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
+| **[A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa](https://arxiv.org/abs/2511.17682v1)** | 2025-11-21 |  |
+| **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
+| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v3)** | 2025-11-19 |  |
+| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
+| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
+| **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
+| **[T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768v2)** | 2025-11-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 (Oral)</p></details> |
+| **[Insight-A: Attribution-aware for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.21705v1)** | 2025-11-17 |  |
+| **[Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training](https://arxiv.org/abs/2511.10213v2)** | 2025-11-15 | <details><summary>accep...</summary><p>accepted by the AAAI Conference on Artificial Intelligence (AAAI) 2026</p></details> |
+
+## Rumor
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Verifying Rumors via Stance-Aware Structural Modeling](https://arxiv.org/abs/2512.13559v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, published in The 24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025), London, UK, 2025</p></details> |
+| **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
+| **[Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained](https://arxiv.org/abs/2510.27165v1)** | 2025-10-31 | 32 pages,3 figures |
+| **[Towards Constant Time Multi-Call Rumor Spreading on Small-Set Expanders](https://arxiv.org/abs/2508.18017v2)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear at DISC 2025</p></details> |
+| **[TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities](https://arxiv.org/abs/2509.19352v1)** | 2025-09-18 |  |
+| **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
+| **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
+| **[RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation](https://arxiv.org/abs/2509.02172v1)** | 2025-09-02 |  |
+| **[Insight Rumors: A Novel Textual Rumor Locating and Marking Model Leveraging Att_BiMamba2 Network](https://arxiv.org/abs/2508.12574v1)** | 2025-08-18 |  |
+| **[A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations](https://arxiv.org/abs/2508.11141v1)** | 2025-08-15 |  |
+| **[CLMIR: A Textual Dataset for Rumor Identification and Marking](https://arxiv.org/abs/2508.11138v1)** | 2025-08-15 |  |
+| **[Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model](https://arxiv.org/abs/2508.07209v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
+| **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](https://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
+| **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](https://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
+| **[Graph Representation Learning with Massive Unlabeled Data for Rumor Detection](https://arxiv.org/abs/2508.04252v1)** | 2025-08-06 | 9 pages, 3 figures |
+
+## Position Detection
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[AuthenLoRA: Entangling Stylization with Imperceptible Watermarks for Copyright-Secure LoRA Adapters](https://arxiv.org/abs/2511.21216v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 12 tables</p></details> |
+| **[Uncertainty-Aware Federated Learning for Cyber-Resilient Microgrid Energy Management](https://arxiv.org/abs/2511.17968v1)** | 2025-11-22 | 6 pages |
+| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638v3)** | 2025-11-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; published in EMNLP 2025 ; Code at: https://github.com/dsbuddy/GAP-LLM-Safety</p></details> |
+| **[Endpoint Security Agent: A Comprehensive Approach to Real-time System Monitoring and Threat Detection](https://arxiv.org/abs/2511.08352v1)** | 2025-11-11 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 4 tables</p></details> |
+| **[Multi-Agent AI Framework for Road Situation Detection and C-ITS Message Generation](https://arxiv.org/abs/2511.06892v1)** | 2025-11-10 | <details><summary>submi...</summary><p>submitted to TRA 2026</p></details> |
+| **[ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs](https://arxiv.org/abs/2508.04201v2)** | 2025-11-05 |  |
+| **[Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models](https://arxiv.org/abs/2510.27679v1)** | 2025-10-31 |  |
+| **[Multi-Representation Attention Framework for Underwater Bioacoustic Denoising and Recognition](https://arxiv.org/abs/2510.26838v1)** | 2025-10-29 |  |
+| **[WhaleVAD-BPN: Improving Baleen Whale Call Detection with Boundary Proposal Networks and Post-processing Optimisation](https://arxiv.org/abs/2510.21280v2)** | 2025-10-27 |  |
+| **[DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios](https://arxiv.org/abs/2510.23144v1)** | 2025-10-27 |  |
+| **[Precise classification of low quality G-banded Chromosome Images by reliability metrics and data pruning classifier](https://arxiv.org/abs/2510.21827v1)** | 2025-10-22 |  |
+| **[DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection](https://arxiv.org/abs/2408.06123v2)** | 2025-10-01 |  |
+| **[Unsupervised Defect Detection for Surgical Instruments](https://arxiv.org/abs/2509.21561v1)** | 2025-09-25 |  |
+| **[SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2411.19860v2)** | 2025-09-24 | 18 pages, 11 figures |
+| **[Plane Detection and Ranking via Model Information Optimization](https://arxiv.org/abs/2508.09625v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted as contributed paper in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+
+## Content Moderation
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v2)** | 2025-12-15 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
+| **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v2)** | 2025-12-12 |  |
+| **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v1)** | 2025-12-11 |  |
+| **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
+| **[Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530v2)** | 2025-12-09 | <details><summary>https...</summary><p>https://github.com/Herrieson/Aetheria</p></details> |
+| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
+| **[Mapping Data Labour Supply Chain in Africa in an Era of Digital Apartheid: a Struggle for Recognition](https://arxiv.org/abs/2512.04269v1)** | 2025-12-03 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, 1 table</p></details> |
+| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
+| **[Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation](https://arxiv.org/abs/2512.02141v1)** | 2025-12-01 |  |
+| **[Benchmarking and Understanding Safety Risks in AI Character Platforms](https://arxiv.org/abs/2512.01247v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NDSS '26: The Network and Distributed System Security Symposium 2026</p></details> |
+| **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
+| **[Will Power Return to the Clouds? From Divine Authority to GenAI Authority](https://arxiv.org/abs/2512.03076v1)** | 2025-11-27 |  |
+| **[Token-Level Marginalization for Multi-Label LLM Classifiers](https://arxiv.org/abs/2511.22312v1)** | 2025-11-27 |  |
+| **[SGM: A Framework for Building Specification-Guided Moderation Filters](https://arxiv.org/abs/2505.19766v2)** | 2025-11-24 |  |
+| **[FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models](https://arxiv.org/abs/2511.18852v1)** | 2025-11-24 |  |
 

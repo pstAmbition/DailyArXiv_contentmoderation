@@ -4,43 +4,6 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
 
-## Intent Recognition
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
-| **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
-| **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
-| **[Emotion-Driven Personalized Recommendation for AI-Generated Content Using Multi-Modal Sentiment and Intent Analysis](https://arxiv.org/abs/2512.10963v1)** | 2025-11-25 |  |
-| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v2)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. To appear in: Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, Vol. 413. DOI: 10.3233/FAIA251182</p></details> |
-| **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v1)** | 2025-11-16 |  |
-| **[A Modular, Data-Free Pipeline for Multi-Label Intention Recognition in Transportation Agentic AI Applications](https://arxiv.org/abs/2511.03363v1)** | 2025-11-05 | <details><summary>Prese...</summary><p>Present in the Transportation Research Board (TRB) Annual Meeting 2026</p></details> |
-| **[RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763v3)** | 2025-11-01 |  |
-| **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
-| **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
-| **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
-| **[ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386v2)** | 2025-10-24 |  |
-| **[TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, 9 pages, 19 figures, 7 tables, 18 trained models Project Website: https://abirharrasse.github.io/tinysql/ Code Repository: https://github.com/withmartian/TinySQL Datasets and Models Viewer: https://huggingface.co/spaces/abir-hr196/tinysql-demo</p></details> |
-| **[DROID: Dual Representation for Out-of-Scope Intent Detection](https://arxiv.org/abs/2510.14110v1)** | 2025-10-15 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 Tables. Preprint submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
-| **[DFAMS: Dynamic-flow guided Federated Alignment based Multi-prototype Search](https://arxiv.org/abs/2508.20353v2)** | 2025-10-14 | 8 pages, 3 figures |
-
-## Metaphor Identification
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
-| **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
-| **[ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure](https://arxiv.org/abs/2309.03103v2)** | 2024-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, accepted for the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</p></details> |
-| **[Finding Challenging Metaphors that Confuse Pretrained Language Models](https://arxiv.org/abs/2401.16012v1)** | 2024-01-29 |  |
-| **[Construction Artifacts in Metaphor Identification Datasets](https://arxiv.org/abs/2311.00790v2)** | 2023-11-15 | <details><summary>Short...</summary><p>Short paper accepted to EMNLP 2023 main conference</p></details> |
-| **[Metaphor Detection via Explicit Basic Meanings Modelling](https://arxiv.org/abs/2305.17268v1)** | 2023-05-26 | ACL 2023 |
-| **[Adversarial Multi-task Learning for End-to-end Metaphor Detection](https://arxiv.org/abs/2305.16638v1)** | 2023-05-26 | <details><summary>Findi...</summary><p>Findings of ACL 2023 Accepted</p></details> |
-| **[Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195v3)** | 2022-08-17 |  |
-| **[MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615v1)** | 2021-04-28 | <details><summary>In Pr...</summary><p>In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics. 11 pages</p></details> |
-| **[Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification](https://arxiv.org/abs/2104.03285v1)** | 2021-04-07 |  |
-| **[Contextual Modulation for Relation-Level Metaphor Identification](https://arxiv.org/abs/2010.05633v1)** | 2020-10-12 | <details><summary>accep...</summary><p>accepted at Findings of EMNLP 2020</p></details> |
-| **[Learning Outside the Box: Discourse-level Features Improve Metaphor Identification](https://arxiv.org/abs/1904.02246v2)** | 2019-04-09 | <details><summary>NAACL...</summary><p>NAACL 2019; 6 pages; code available at https://github.com/jayelm/broader-metaphor; v2 updates affiliations and acknowledgments</p></details> |
-| **[Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575v1)** | 2017-09-02 | EMNLP 2017 |
-
 ## Multimodal harmful content
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
@@ -96,6 +59,43 @@ labels: documentation
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v1)** | 2025-04-03 |  |
 | **[Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434v1)** | 2025-01-05 |  |
 | **[Ring That Bell: A Corpus and Method for Multimodal Metaphor Detection in Videos](https://arxiv.org/abs/2301.01134v1)** | 2022-12-15 | Figlang 2022 |
+
+## Intent Recognition
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
+| **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
+| **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
+| **[Emotion-Driven Personalized Recommendation for AI-Generated Content Using Multi-Modal Sentiment and Intent Analysis](https://arxiv.org/abs/2512.10963v1)** | 2025-11-25 |  |
+| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v2)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. To appear in: Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, Vol. 413. DOI: 10.3233/FAIA251182</p></details> |
+| **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v1)** | 2025-11-16 |  |
+| **[A Modular, Data-Free Pipeline for Multi-Label Intention Recognition in Transportation Agentic AI Applications](https://arxiv.org/abs/2511.03363v1)** | 2025-11-05 | <details><summary>Prese...</summary><p>Present in the Transportation Research Board (TRB) Annual Meeting 2026</p></details> |
+| **[RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763v3)** | 2025-11-01 |  |
+| **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
+| **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
+| **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
+| **[ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386v2)** | 2025-10-24 |  |
+| **[TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, 9 pages, 19 figures, 7 tables, 18 trained models Project Website: https://abirharrasse.github.io/tinysql/ Code Repository: https://github.com/withmartian/TinySQL Datasets and Models Viewer: https://huggingface.co/spaces/abir-hr196/tinysql-demo</p></details> |
+| **[DROID: Dual Representation for Out-of-Scope Intent Detection](https://arxiv.org/abs/2510.14110v1)** | 2025-10-15 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 Tables. Preprint submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
+| **[DFAMS: Dynamic-flow guided Federated Alignment based Multi-prototype Search](https://arxiv.org/abs/2508.20353v2)** | 2025-10-14 | 8 pages, 3 figures |
+
+## Metaphor Identification
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
+| **[ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure](https://arxiv.org/abs/2309.03103v2)** | 2024-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, accepted for the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</p></details> |
+| **[Finding Challenging Metaphors that Confuse Pretrained Language Models](https://arxiv.org/abs/2401.16012v1)** | 2024-01-29 |  |
+| **[Construction Artifacts in Metaphor Identification Datasets](https://arxiv.org/abs/2311.00790v2)** | 2023-11-15 | <details><summary>Short...</summary><p>Short paper accepted to EMNLP 2023 main conference</p></details> |
+| **[Metaphor Detection via Explicit Basic Meanings Modelling](https://arxiv.org/abs/2305.17268v1)** | 2023-05-26 | ACL 2023 |
+| **[Adversarial Multi-task Learning for End-to-end Metaphor Detection](https://arxiv.org/abs/2305.16638v1)** | 2023-05-26 | <details><summary>Findi...</summary><p>Findings of ACL 2023 Accepted</p></details> |
+| **[Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195v3)** | 2022-08-17 |  |
+| **[MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615v1)** | 2021-04-28 | <details><summary>In Pr...</summary><p>In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics. 11 pages</p></details> |
+| **[Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification](https://arxiv.org/abs/2104.03285v1)** | 2021-04-07 |  |
+| **[Contextual Modulation for Relation-Level Metaphor Identification](https://arxiv.org/abs/2010.05633v1)** | 2020-10-12 | <details><summary>accep...</summary><p>accepted at Findings of EMNLP 2020</p></details> |
+| **[Learning Outside the Box: Discourse-level Features Improve Metaphor Identification](https://arxiv.org/abs/1904.02246v2)** | 2019-04-09 | <details><summary>NAACL...</summary><p>NAACL 2019; 6 pages; code available at https://github.com/jayelm/broader-metaphor; v2 updates affiliations and acknowledgments</p></details> |
+| **[Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://arxiv.org/abs/1709.00575v1)** | 2017-09-02 | EMNLP 2017 |
 
 ## Content Moderation
 | **Title** | **Date** | **Comment** |

@@ -45,7 +45,7 @@ f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**\n\n")
+f_is.write("**Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))

@@ -5,7 +5,8 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+      - cron: '0 1 * * *' # 09:00 Beijing time everyday
+  workflow_dispatch: # 手动触发
 
 permissions:
   contents: write
@@ -38,8 +39,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: pstAmbition
+        email: 2583009344@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2

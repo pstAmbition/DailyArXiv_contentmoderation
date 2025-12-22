@@ -87,24 +87,15 @@ labels: documentation
 | **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](https://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
 | **[Graph Representation Learning with Massive Unlabeled Data for Rumor Detection](https://arxiv.org/abs/2508.04252v1)** | 2025-08-06 | 9 pages, 3 figures |
 
-## Position Detection
+## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AuthenLoRA: Entangling Stylization with Imperceptible Watermarks for Copyright-Secure LoRA Adapters](https://arxiv.org/abs/2511.21216v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 12 tables</p></details> |
-| **[Uncertainty-Aware Federated Learning for Cyber-Resilient Microgrid Energy Management](https://arxiv.org/abs/2511.17968v1)** | 2025-11-22 | 6 pages |
-| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638v3)** | 2025-11-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; published in EMNLP 2025 ; Code at: https://github.com/dsbuddy/GAP-LLM-Safety</p></details> |
-| **[Endpoint Security Agent: A Comprehensive Approach to Real-time System Monitoring and Threat Detection](https://arxiv.org/abs/2511.08352v1)** | 2025-11-11 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 4 tables</p></details> |
-| **[Multi-Agent AI Framework for Road Situation Detection and C-ITS Message Generation](https://arxiv.org/abs/2511.06892v1)** | 2025-11-10 | <details><summary>submi...</summary><p>submitted to TRA 2026</p></details> |
-| **[ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs](https://arxiv.org/abs/2508.04201v2)** | 2025-11-05 |  |
-| **[Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models](https://arxiv.org/abs/2510.27679v1)** | 2025-10-31 |  |
-| **[Multi-Representation Attention Framework for Underwater Bioacoustic Denoising and Recognition](https://arxiv.org/abs/2510.26838v1)** | 2025-10-29 |  |
-| **[WhaleVAD-BPN: Improving Baleen Whale Call Detection with Boundary Proposal Networks and Post-processing Optimisation](https://arxiv.org/abs/2510.21280v2)** | 2025-10-27 |  |
-| **[DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios](https://arxiv.org/abs/2510.23144v1)** | 2025-10-27 |  |
-| **[Precise classification of low quality G-banded Chromosome Images by reliability metrics and data pruning classifier](https://arxiv.org/abs/2510.21827v1)** | 2025-10-22 |  |
-| **[DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection](https://arxiv.org/abs/2408.06123v2)** | 2025-10-01 |  |
-| **[Unsupervised Defect Detection for Surgical Instruments](https://arxiv.org/abs/2509.21561v1)** | 2025-09-25 |  |
-| **[SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2411.19860v2)** | 2025-09-24 | 18 pages, 11 figures |
-| **[Plane Detection and Ranking via Model Information Optimization](https://arxiv.org/abs/2508.09625v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted as contributed paper in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483v1)** | 2025-05-12 |  |
+| **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v1)** | 2025-04-03 |  |
+| **[Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434v1)** | 2025-01-05 |  |
+| **[Ring That Bell: A Corpus and Method for Multimodal Metaphor Detection in Videos](https://arxiv.org/abs/2301.01134v1)** | 2022-12-15 | Figlang 2022 |
 
 ## Content Moderation
 | **Title** | **Date** | **Comment** |

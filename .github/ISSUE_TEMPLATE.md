@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 | **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
 | **[Exploring Health Misinformation Detection with Multi-Agent Debate](https://arxiv.org/abs/2512.09935v1)** | 2025-11-29 |  |
@@ -23,7 +24,6 @@ labels: documentation
 | **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
 | **[A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa](https://arxiv.org/abs/2511.17682v1)** | 2025-11-21 |  |
 | **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v3)** | 2025-11-19 |  |
 | **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
 | **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
 | **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v1)** | 2025-12-23 |  |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
 | **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
@@ -77,7 +78,6 @@ labels: documentation
 | **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
 | **[ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386v2)** | 2025-10-24 |  |
 | **[TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, 9 pages, 19 figures, 7 tables, 18 trained models Project Website: https://abirharrasse.github.io/tinysql/ Code Repository: https://github.com/withmartian/TinySQL Datasets and Models Viewer: https://huggingface.co/spaces/abir-hr196/tinysql-demo</p></details> |
-| **[DROID: Dual Representation for Out-of-Scope Intent Detection](https://arxiv.org/abs/2510.14110v1)** | 2025-10-15 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 Tables. Preprint submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v1)** | 2025-12-23 |  |
+| **[Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061v1)** | 2025-12-23 |  |
 | **[AI reasoning effort predicts human decision time in content moderation](https://arxiv.org/abs/2508.20262v2)** | 2025-12-20 |  |
 | **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v2)** | 2025-12-15 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
 | **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v2)** | 2025-12-12 |  |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Benchmarking and Understanding Safety Risks in AI Character Platforms](https://arxiv.org/abs/2512.01247v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NDSS '26: The Network and Distributed System Security Symposium 2026</p></details> |
 | **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
 | **[Will Power Return to the Clouds? From Divine Authority to GenAI Authority](https://arxiv.org/abs/2512.03076v1)** | 2025-11-27 |  |
-| **[Token-Level Marginalization for Multi-Label LLM Classifiers](https://arxiv.org/abs/2511.22312v1)** | 2025-11-27 |  |
-| **[SGM: A Framework for Building Specification-Guided Moderation Filters](https://arxiv.org/abs/2505.19766v2)** | 2025-11-24 |  |
 

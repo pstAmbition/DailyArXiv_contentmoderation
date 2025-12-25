@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,8 +63,10 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v1)** | 2025-12-23 |  |
+| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v2)** | 2025-12-24 |  |
+| **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v1)** | 2025-12-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
+| **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v1)** | 2025-12-08 |  |
 | **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
 | **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
 | **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
@@ -76,8 +78,6 @@ labels: documentation
 | **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
 | **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
 | **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
-| **[ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386v2)** | 2025-10-24 |  |
-| **[TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, 9 pages, 19 figures, 7 tables, 18 trained models Project Website: https://abirharrasse.github.io/tinysql/ Code Repository: https://github.com/withmartian/TinySQL Datasets and Models Viewer: https://huggingface.co/spaces/abir-hr196/tinysql-demo</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107v1)** | 2025-12-24 |  |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v1)** | 2025-12-23 |  |
 | **[Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061v1)** | 2025-12-23 |  |
 | **[AI reasoning effort predicts human decision time in content moderation](https://arxiv.org/abs/2508.20262v2)** | 2025-12-20 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation](https://arxiv.org/abs/2512.02141v1)** | 2025-12-01 |  |
 | **[Benchmarking and Understanding Safety Risks in AI Character Platforms](https://arxiv.org/abs/2512.01247v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NDSS '26: The Network and Distributed System Security Symposium 2026</p></details> |
 | **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
-| **[Will Power Return to the Clouds? From Divine Authority to GenAI Authority](https://arxiv.org/abs/2512.03076v1)** | 2025-11-27 |  |
 

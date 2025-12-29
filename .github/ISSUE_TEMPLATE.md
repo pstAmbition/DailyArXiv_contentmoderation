@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,7 +63,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v2)** | 2025-12-24 |  |
+| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v3)** | 2025-12-25 |  |
+| **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v1)** | 2025-12-25 | 10pages |
 | **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v1)** | 2025-12-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v1)** | 2025-12-08 |  |
@@ -77,7 +78,6 @@ labels: documentation
 | **[RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763v3)** | 2025-11-01 |  |
 | **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
 | **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
-| **[Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2406.09755v2)** | 2025-10-24 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |

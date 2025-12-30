@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language](https://arxiv.org/abs/2512.22778v1)** | 2025-12-28 |  |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 | **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
@@ -29,7 +30,6 @@ labels: documentation
 | **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
 | **[T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768v2)** | 2025-11-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 (Oral)</p></details> |
 | **[Insight-A: Attribution-aware for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.21705v1)** | 2025-11-17 |  |
-| **[Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training](https://arxiv.org/abs/2511.10213v2)** | 2025-11-15 | <details><summary>accep...</summary><p>accepted by the AAAI Conference on Artificial Intelligence (AAAI) 2026</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -63,7 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v3)** | 2025-12-25 |  |
+| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v1)** | 2025-12-25 | 10pages |
 | **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v1)** | 2025-12-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
 | **[Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107v1)** | 2025-12-24 |  |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v1)** | 2025-12-23 |  |
 | **[Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061v1)** | 2025-12-23 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
 | **[Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation](https://arxiv.org/abs/2512.02141v1)** | 2025-12-01 |  |
 | **[Benchmarking and Understanding Safety Risks in AI Character Platforms](https://arxiv.org/abs/2512.01247v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NDSS '26: The Network and Distributed System Security Symposium 2026</p></details> |
-| **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
 

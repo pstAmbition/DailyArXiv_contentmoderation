@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,9 +63,9 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v2)** | 2025-12-29 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v1)** | 2025-12-25 | 10pages |
-| **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v1)** | 2025-12-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v1)** | 2025-12-08 |  |
 | **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language](https://arxiv.org/abs/2512.22778v1)** | 2025-12-28 |  |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
 | **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
 | **[T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768v2)** | 2025-11-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 (Oral)</p></details> |
-| **[Insight-A: Attribution-aware for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.21705v1)** | 2025-11-17 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -63,6 +63,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation](https://arxiv.org/abs/2512.24166v1)** | 2025-12-30 |  |
+| **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v1)** | 2025-12-30 |  |
 | **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v2)** | 2025-12-29 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v1)** | 2025-12-25 | 10pages |
@@ -76,8 +78,6 @@ labels: documentation
 | **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v1)** | 2025-11-16 |  |
 | **[A Modular, Data-Free Pipeline for Multi-Label Intention Recognition in Transportation Agentic AI Applications](https://arxiv.org/abs/2511.03363v1)** | 2025-11-05 | <details><summary>Prese...</summary><p>Present in the Transportation Research Board (TRB) Annual Meeting 2026</p></details> |
 | **[RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763v3)** | 2025-11-01 |  |
-| **[RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation](https://arxiv.org/abs/2510.22113v1)** | 2025-10-25 | <details><summary>5 pag...</summary><p>5 pages, 5 figures; Accepted to: 2025 IEEE 4th International Conference on Intelligent Reality (ICIR 2025); Zitiantao Lin and Yongpeng Sang contributed equally to this work (co-first authors). Corresponding author: Yang Ye (y.ye@northeastern.edu)</p></details> |
-| **[Performance Trade-offs of Optimizing Small Language Models for E-Commerce](https://arxiv.org/abs/2510.21970v1)** | 2025-10-24 | 15 pages, 9 figures |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044v1)** | 2025-12-30 | <details><summary>26 pa...</summary><p>26 pages,11 tables, 7 figures</p></details> |
 | **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
 | **[Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107v1)** | 2025-12-24 |  |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v1)** | 2025-12-23 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Mapping Data Labour Supply Chain in Africa in an Era of Digital Apartheid: a Struggle for Recognition](https://arxiv.org/abs/2512.04269v1)** | 2025-12-03 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, 1 table</p></details> |
 | **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
 | **[Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation](https://arxiv.org/abs/2512.02141v1)** | 2025-12-01 |  |
-| **[Benchmarking and Understanding Safety Risks in AI Character Platforms](https://arxiv.org/abs/2512.01247v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NDSS '26: The Network and Distributed System Security Symposium 2026</p></details> |
 

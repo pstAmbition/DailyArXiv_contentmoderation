@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Gray Area: Characterizing Moderator Disagreement on Reddit](https://arxiv.org/abs/2601.01620v1)** | 2026-01-04 | 16 pages, 11 figures |
+| **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v2)** | 2026-01-04 |  |
+| **[Critical Challenges in Content Moderation for People Who Use Drugs (PWUD): Insights into Online Harm Reduction Practices from Moderators](https://arxiv.org/abs/2508.02868v2)** | 2026-01-04 | 27 pages |
 | **[Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044v1)** | 2025-12-30 | <details><summary>26 pa...</summary><p>26 pages,11 tables, 7 figures</p></details> |
 | **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
 | **[Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107v1)** | 2025-12-24 |  |
@@ -112,7 +115,4 @@ labels: documentation
 | **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
 | **[Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530v2)** | 2025-12-09 | <details><summary>https...</summary><p>https://github.com/Herrieson/Aetheria</p></details> |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
-| **[Mapping Data Labour Supply Chain in Africa in an Era of Digital Apartheid: a Struggle for Recognition](https://arxiv.org/abs/2512.04269v1)** | 2025-12-03 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, 1 table</p></details> |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
-| **[Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation](https://arxiv.org/abs/2512.02141v1)** | 2025-12-01 |  |
 

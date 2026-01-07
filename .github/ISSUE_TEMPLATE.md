@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boosting Accuracy and Interpretability in Multilingual Hate Speech Detection Through Layer Freezing and Explainable AI](https://arxiv.org/abs/2601.02697v1)** | 2026-01-06 | 19 pages, 7 figures |
 | **[The Gray Area: Characterizing Moderator Disagreement on Reddit](https://arxiv.org/abs/2601.01620v1)** | 2026-01-04 | 16 pages, 11 figures |
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v2)** | 2026-01-04 |  |
 | **[Critical Challenges in Content Moderation for People Who Use Drugs (PWUD): Insights into Online Harm Reduction Practices from Moderators](https://arxiv.org/abs/2508.02868v2)** | 2026-01-04 | 27 pages |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v1)** | 2025-12-11 |  |
 | **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
 | **[Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530v2)** | 2025-12-09 | <details><summary>https...</summary><p>https://github.com/Herrieson/Aetheria</p></details> |
-| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
 

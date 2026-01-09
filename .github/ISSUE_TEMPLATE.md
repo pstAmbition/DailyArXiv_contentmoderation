@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,10 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection](https://arxiv.org/abs/2601.04160v2)** | 2026-01-08 | 49 pages; 24 figures |
+| **[MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News](https://arxiv.org/abs/2601.04857v1)** | 2026-01-08 | Work in progress |
+| **[RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853v1)** | 2026-01-08 |  |
+| **[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This paper has been accepted to AAAI 2026</p></details> |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language](https://arxiv.org/abs/2512.22778v1)** | 2025-12-28 |  |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
@@ -26,14 +30,11 @@ labels: documentation
 | **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
 | **[A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa](https://arxiv.org/abs/2511.17682v1)** | 2025-11-21 |  |
 | **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
-| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
-| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
-| **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
-| **[T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768v2)** | 2025-11-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 (Oral)</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election](https://arxiv.org/abs/2601.04631v1)** | 2026-01-08 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v1)** | 2025-12-20 |  |
 | **[Verifying Rumors via Stance-Aware Structural Modeling](https://arxiv.org/abs/2512.13559v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, published in The 24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025), London, UK, 2025</p></details> |
 | **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
@@ -48,7 +49,6 @@ labels: documentation
 | **[CLMIR: A Textual Dataset for Rumor Identification and Marking](https://arxiv.org/abs/2508.11138v1)** | 2025-08-15 |  |
 | **[Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model](https://arxiv.org/abs/2508.07209v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 | **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](https://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
-| **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](https://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -100,8 +100,12 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v2)** | 2026-01-08 |  |
+| **[AI red-teaming is a sociotechnical problem: on values, labor, and harms](https://arxiv.org/abs/2412.09751v3)** | 2026-01-07 | 10 pages |
+| **[Criminal Liability of Generative Artificial Intelligence Providers for User-Generated Child Sexual Abuse Material](https://arxiv.org/abs/2601.03788v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on AI Engineering</p></details> |
+| **[The Gray Area: Characterizing Moderator Disagreement on Reddit](https://arxiv.org/abs/2601.01620v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at ICWSM 2026</p></details> |
+| **[Soft Contextualized Encoder For User Defined Text Classification](https://arxiv.org/abs/2601.03450v1)** | 2026-01-06 |  |
 | **[Boosting Accuracy and Interpretability in Multilingual Hate Speech Detection Through Layer Freezing and Explainable AI](https://arxiv.org/abs/2601.02697v1)** | 2026-01-06 | 19 pages, 7 figures |
-| **[The Gray Area: Characterizing Moderator Disagreement on Reddit](https://arxiv.org/abs/2601.01620v1)** | 2026-01-04 | 16 pages, 11 figures |
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v2)** | 2026-01-04 |  |
 | **[Critical Challenges in Content Moderation for People Who Use Drugs (PWUD): Insights into Online Harm Reduction Practices from Moderators](https://arxiv.org/abs/2508.02868v2)** | 2026-01-04 | 27 pages |
 | **[Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044v1)** | 2025-12-30 | <details><summary>26 pa...</summary><p>26 pages,11 tables, 7 figures</p></details> |
@@ -109,10 +113,6 @@ labels: documentation
 | **[Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107v1)** | 2025-12-24 |  |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v1)** | 2025-12-23 |  |
 | **[Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061v1)** | 2025-12-23 |  |
+| **[GuardEval: A Multi-Perspective Benchmark for Evaluating Safety, Fairness, and Robustness in LLM Moderators](https://arxiv.org/abs/2601.03273v1)** | 2025-12-22 |  |
 | **[AI reasoning effort predicts human decision time in content moderation](https://arxiv.org/abs/2508.20262v2)** | 2025-12-20 |  |
-| **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v2)** | 2025-12-15 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
-| **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v2)** | 2025-12-12 |  |
-| **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v1)** | 2025-12-11 |  |
-| **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
-| **[Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530v2)** | 2025-12-09 | <details><summary>https...</summary><p>https://github.com/Herrieson/Aetheria</p></details> |
 

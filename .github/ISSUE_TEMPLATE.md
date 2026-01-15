@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v2)** | 2026-01-14 |  |
 | **[MEMEWEAVER: Inter-Meme Graph Reasoning for Sexism and Misogyny Detection](https://arxiv.org/abs/2601.08684v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 Findings</p></details> |
 | **[An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English](https://arxiv.org/abs/2601.08457v1)** | 2026-01-13 |  |
 | **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v2)** | 2026-01-04 |  |
 | **[Critical Challenges in Content Moderation for People Who Use Drugs (PWUD): Insights into Online Harm Reduction Practices from Moderators](https://arxiv.org/abs/2508.02868v2)** | 2026-01-04 | 27 pages |
 | **[Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044v1)** | 2025-12-30 | <details><summary>26 pa...</summary><p>26 pages,11 tables, 7 figures</p></details> |
-| **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
 

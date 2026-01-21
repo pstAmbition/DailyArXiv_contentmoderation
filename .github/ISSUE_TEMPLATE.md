@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -34,6 +34,7 @@ labels: documentation
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
 | **[RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation](https://arxiv.org/abs/2509.02172v2)** | 2026-01-09 |  |
 | **[Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election](https://arxiv.org/abs/2601.04631v1)** | 2026-01-08 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v1)** | 2025-12-20 |  |
@@ -48,7 +49,6 @@ labels: documentation
 | **[A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations](https://arxiv.org/abs/2508.11141v1)** | 2025-08-15 |  |
 | **[CLMIR: A Textual Dataset for Rumor Identification and Marking](https://arxiv.org/abs/2508.11138v1)** | 2025-08-15 |  |
 | **[Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model](https://arxiv.org/abs/2508.07209v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
-| **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](https://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
+| **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
+| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v3)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
+| **[When Hallucination Costs Millions: Benchmarking AI Agents in High-Stakes Adversarial Financial Markets](https://arxiv.org/abs/2510.00332v2)** | 2026-01-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 4 tables; Accepted to AAAI 2026 (AI-4-Finance Workshop - Oral, top 10%); In submission to ICML 2026</p></details> |
 | **[Understanding Help Seeking for Digital Privacy, Safety, and Security](https://arxiv.org/abs/2601.11398v1)** | 2026-01-16 |  |
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v1)** | 2026-01-16 |  |
 | **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v1)** | 2026-01-16 |  |
@@ -111,8 +115,4 @@ labels: documentation
 | **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v1)** | 2026-01-11 |  |
 | **[LLM Performance Predictors: Learning When to Escalate in Hybrid Human-AI Moderation Systems](https://arxiv.org/abs/2601.07006v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 | **[AI red-teaming is a sociotechnical problem: on values, labor, and harms](https://arxiv.org/abs/2412.09751v3)** | 2026-01-07 | 10 pages |
-| **[Criminal Liability of Generative Artificial Intelligence Providers for User-Generated Child Sexual Abuse Material](https://arxiv.org/abs/2601.03788v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on AI Engineering</p></details> |
-| **[The Gray Area: Characterizing Moderator Disagreement on Reddit](https://arxiv.org/abs/2601.01620v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at ICWSM 2026</p></details> |
-| **[Soft Contextualized Encoder For User Defined Text Classification](https://arxiv.org/abs/2601.03450v1)** | 2026-01-06 |  |
-| **[Boosting Accuracy and Interpretability in Multilingual Hate Speech Detection Through Layer Freezing and Explainable AI](https://arxiv.org/abs/2601.02697v1)** | 2026-01-06 | 19 pages, 7 figures |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
 | **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
 | **[Conformity Dynamics in LLM Multi-Agent Systems: The Roles of Topology and Self-Social Weighting](https://arxiv.org/abs/2601.05606v1)** | 2026-01-09 | Under Review |
@@ -29,11 +30,11 @@ labels: documentation
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 | **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
 | **[Exploring Health Misinformation Detection with Multi-Agent Debate](https://arxiv.org/abs/2512.09935v1)** | 2025-11-29 |  |
-| **[TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs](https://arxiv.org/abs/2511.21624v1)** | 2025-11-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v1)** | 2026-01-21 | 19 pages,10 figures |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
 | **[RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation](https://arxiv.org/abs/2509.02172v2)** | 2026-01-09 |  |
 | **[Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election](https://arxiv.org/abs/2601.04631v1)** | 2026-01-08 |  |
@@ -48,26 +49,25 @@ labels: documentation
 | **[Insight Rumors: A Novel Textual Rumor Locating and Marking Model Leveraging Att_BiMamba2 Network](https://arxiv.org/abs/2508.12574v1)** | 2025-08-18 |  |
 | **[A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations](https://arxiv.org/abs/2508.11141v1)** | 2025-08-15 |  |
 | **[CLMIR: A Textual Dataset for Rumor Identification and Marking](https://arxiv.org/abs/2508.11138v1)** | 2025-08-15 |  |
-| **[Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model](https://arxiv.org/abs/2508.07209v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v2)** | 2026-01-20 |  |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483v1)** | 2025-05-12 |  |
-| **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v1)** | 2025-04-03 |  |
 | **[Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434v1)** | 2025-01-05 |  |
 | **[Ring That Bell: A Corpus and Method for Multimodal Metaphor Detection in Videos](https://arxiv.org/abs/2301.01134v1)** | 2022-12-15 | Figlang 2022 |
 
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v2)** | 2026-01-20 |  |
 | **[How DDAIR you? Disambiguated Data Augmentation for Intent Recognition](https://arxiv.org/abs/2601.11234v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication at EACL 2026</p></details> |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v1)** | 2026-01-12 |  |
 | **[MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757v1)** | 2026-01-11 | <details><summary>A ben...</summary><p>A benchmark of realistic images and multi-turn conversations that evaluates contextual safety in MLLMs under two complementary settings</p></details> |
 | **[External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation](https://arxiv.org/abs/2512.24166v1)** | 2025-12-30 |  |
-| **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v1)** | 2025-12-30 |  |
 | **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v2)** | 2025-12-29 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 | **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v1)** | 2025-12-25 | 10pages |
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
+| **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
 | **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
 | **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v3)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
 | **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v2)** | 2026-01-12 |  |
 | **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v1)** | 2026-01-11 |  |
-| **[LLM Performance Predictors: Learning When to Escalate in Hybrid Human-AI Moderation Systems](https://arxiv.org/abs/2601.07006v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
-| **[AI red-teaming is a sociotechnical problem: on values, labor, and harms](https://arxiv.org/abs/2412.09751v3)** | 2026-01-07 | 10 pages |
 

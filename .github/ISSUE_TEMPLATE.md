@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
 | **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 | **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
-| **[Exploring Health Misinformation Detection with Multi-Agent Debate](https://arxiv.org/abs/2512.09935v1)** | 2025-11-29 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
+| **[Abusive music and song transformation using GenAI and LLMs](https://arxiv.org/abs/2601.15348v1)** | 2026-01-21 |  |
 | **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
 | **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
 | **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English](https://arxiv.org/abs/2601.08457v1)** | 2026-01-13 |  |
 | **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
 | **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v2)** | 2026-01-12 |  |
-| **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v1)** | 2026-01-11 |  |
 

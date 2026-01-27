@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -10,7 +10,6 @@ labels: documentation
 | **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
 | **[MTikGuard System: A Transformer-Based Multimodal System for Child-Safe Content Moderation on TikTok](https://arxiv.org/abs/2511.17955v1)** | 2025-11-22 | Accepted at PACLIC39 |
 | **[MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media](https://arxiv.org/abs/2508.05557v3)** | 2025-09-07 |  |
-| **[BigTokDetect: A Clinically-Informed Vision-Language Modeling Framework for Detecting Pro-Bigorexia Videos on TikTok](https://arxiv.org/abs/2508.06515v2)** | 2025-08-12 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -100,6 +99,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679v3)** | 2026-01-25 | 20 pages, 1 figures |
+| **[Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations](https://arxiv.org/abs/2601.17786v1)** | 2026-01-25 | <details><summary>17 pa...</summary><p>17 pages, 7 tables, and 5 figures</p></details> |
 | **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
 | **[Abusive music and song transformation using GenAI and LLMs](https://arxiv.org/abs/2601.15348v1)** | 2026-01-21 |  |
 | **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
@@ -113,6 +114,4 @@ labels: documentation
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v2)** | 2026-01-14 |  |
 | **[MEMEWEAVER: Inter-Meme Graph Reasoning for Sexism and Misogyny Detection](https://arxiv.org/abs/2601.08684v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 Findings</p></details> |
 | **[An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English](https://arxiv.org/abs/2601.08457v1)** | 2026-01-13 |  |
-| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
-| **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v2)** | 2026-01-12 |  |
 

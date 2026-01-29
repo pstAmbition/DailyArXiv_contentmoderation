@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -99,6 +99,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v2)** | 2026-01-28 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
+| **[Read as You See: Guiding Unimodal LLMs for Low-Resource Explainable Harmful Meme Detection](https://arxiv.org/abs/2506.08477v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ACM Web Conference 2026 (WWW '26)</p></details> |
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v2)** | 2026-01-27 |  |
 | **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679v3)** | 2026-01-25 | 20 pages, 1 figures |
 | **[Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations](https://arxiv.org/abs/2601.17786v1)** | 2026-01-25 | <details><summary>17 pa...</summary><p>17 pages, 7 tables, and 5 figures</p></details> |
@@ -112,6 +114,4 @@ labels: documentation
 | **[Understanding Help Seeking for Digital Privacy, Safety, and Security](https://arxiv.org/abs/2601.11398v1)** | 2026-01-16 |  |
 | **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v1)** | 2026-01-16 |  |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v2)** | 2026-01-14 |  |
-| **[MEMEWEAVER: Inter-Meme Graph Reasoning for Sexism and Misogyny Detection](https://arxiv.org/abs/2601.08684v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 Findings</p></details> |
-| **[An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English](https://arxiv.org/abs/2601.08457v1)** | 2026-01-13 |  |
 

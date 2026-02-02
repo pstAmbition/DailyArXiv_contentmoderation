@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 01, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -99,6 +99,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StreamSense: Streaming Social Task Detection with Selective Vision-Language Model Routing](https://arxiv.org/abs/2601.22738v1)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, The Web Conference 2026</p></details> |
+| **[Language Models That Walk the Talk: A Framework for Formal Fairness Certificates](https://arxiv.org/abs/2505.12767v2)** | 2026-01-29 |  |
+| **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v1)** | 2026-01-29 |  |
 | **[KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection](https://arxiv.org/abs/2601.21796v1)** | 2026-01-29 |  |
 | **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v2)** | 2026-01-28 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
 | **[Read as You See: Guiding Unimodal LLMs for Low-Resource Explainable Harmful Meme Detection](https://arxiv.org/abs/2506.08477v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ACM Web Conference 2026 (WWW '26)</p></details> |
@@ -111,7 +114,4 @@ labels: documentation
 | **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
 | **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v3)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
-| **[When Hallucination Costs Millions: Benchmarking AI Agents in High-Stakes Adversarial Financial Markets](https://arxiv.org/abs/2510.00332v2)** | 2026-01-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 4 tables; Accepted to AAAI 2026 (AI-4-Finance Workshop - Oral, top 10%); In submission to ICML 2026</p></details> |
-| **[Understanding Help Seeking for Digital Privacy, Safety, and Security](https://arxiv.org/abs/2601.11398v1)** | 2026-01-16 |  |
-| **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v1)** | 2026-01-16 |  |
 

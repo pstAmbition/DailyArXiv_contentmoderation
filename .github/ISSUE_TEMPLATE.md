@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
@@ -28,7 +29,6 @@ labels: documentation
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language](https://arxiv.org/abs/2512.22778v1)** | 2025-12-28 |  |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
-| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -62,7 +62,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v2)** | 2026-01-27 | 10pages |
+| **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v3)** | 2026-02-02 | 10pages |
+| **[Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction](https://arxiv.org/abs/2602.00675v1)** | 2026-01-31 |  |
 | **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v2)** | 2026-01-20 |  |
 | **[How DDAIR you? Disambiguated Data Augmentation for Intent Recognition](https://arxiv.org/abs/2601.11234v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication at EACL 2026</p></details> |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v1)** | 2026-01-12 |  |
@@ -76,7 +77,6 @@ labels: documentation
 | **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
 | **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
 | **[Emotion-Driven Personalized Recommendation for AI-Generated Content Using Multi-Modal Sentiment and Intent Analysis](https://arxiv.org/abs/2512.10963v1)** | 2025-11-25 |  |
-| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v2)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. To appear in: Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, Vol. 413. DOI: 10.3233/FAIA251182</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -99,6 +99,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v3)** | 2026-01-31 |  |
 | **[StreamSense: Streaming Social Task Detection with Selective Vision-Language Model Routing](https://arxiv.org/abs/2601.22738v1)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, The Web Conference 2026</p></details> |
 | **[Language Models That Walk the Talk: A Framework for Formal Fairness Certificates](https://arxiv.org/abs/2505.12767v2)** | 2026-01-29 |  |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v1)** | 2026-01-29 |  |
@@ -113,5 +114,4 @@ labels: documentation
 | **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
 | **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
 | **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
-| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v3)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
 

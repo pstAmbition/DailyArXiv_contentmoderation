@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,8 +14,10 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
+| **[GASTON: Graph-Aware Social Transformer for Online Networks](https://arxiv.org/abs/2602.02524v1)** | 2026-01-26 | Submitted to ICWSM |
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
@@ -27,8 +29,6 @@ labels: documentation
 | **[RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853v1)** | 2026-01-08 |  |
 | **[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This paper has been accepted to AAAI 2026</p></details> |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
-| **[Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language](https://arxiv.org/abs/2512.22778v1)** | 2025-12-28 |  |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -99,6 +99,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by EACL 2026 SIGTURK</p></details> |
 | **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v3)** | 2026-01-31 |  |
 | **[StreamSense: Streaming Social Task Detection with Selective Vision-Language Model Routing](https://arxiv.org/abs/2601.22738v1)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, The Web Conference 2026</p></details> |
 | **[Language Models That Walk the Talk: A Framework for Formal Fairness Certificates](https://arxiv.org/abs/2505.12767v2)** | 2026-01-29 |  |
@@ -113,5 +114,4 @@ labels: documentation
 | **[Abusive music and song transformation using GenAI and LLMs](https://arxiv.org/abs/2601.15348v1)** | 2026-01-21 |  |
 | **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
 | **[HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations](https://arxiv.org/abs/2601.13547v1)** | 2026-01-20 | <details><summary>EACL ...</summary><p>EACL 2026 Main Conference</p></details> |
-| **[EVADE-Bench: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](https://arxiv.org/abs/2505.17654v3)** | 2026-01-19 |  |
 

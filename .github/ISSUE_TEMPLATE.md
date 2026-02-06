@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -81,6 +81,7 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v1)** | 2026-02-05 |  |
 | **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
@@ -99,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
+| **[Fine-Tuning Large Language Models for Automatic Detection of Sexually Explicit Content in Spanish-Language Song Lyrics](https://arxiv.org/abs/2602.05485v1)** | 2026-02-05 |  |
 | **[Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive](https://arxiv.org/abs/2301.12534v5)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2023</p></details> |
 | **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by EACL 2026 SIGTURK</p></details> |
 | **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v3)** | 2026-01-31 |  |
@@ -112,6 +115,4 @@ labels: documentation
 | **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679v3)** | 2026-01-25 | 20 pages, 1 figures |
 | **[Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations](https://arxiv.org/abs/2601.17786v1)** | 2026-01-25 | <details><summary>17 pa...</summary><p>17 pages, 7 tables, and 5 figures</p></details> |
 | **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
-| **[Abusive music and song transformation using GenAI and LLMs](https://arxiv.org/abs/2601.15348v1)** | 2026-01-21 |  |
-| **[When Generative AI Is Intimate, Sexy, and Violent: Examining Not-Safe-For-Work (NSFW) Chatbots on FlowGPT](https://arxiv.org/abs/2601.14324v1)** | 2026-01-20 |  |
 

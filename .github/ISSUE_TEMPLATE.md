@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Trial-and-Error: Predicting User Abandonment After a Moderation Intervention](https://arxiv.org/abs/2404.14846v4)** | 2026-02-06 | <details><summary>Artic...</summary><p>Article published in Engineering Applications of Artificial Intelligence. Please cite the correct version</p></details> |
 | **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
 | **[Fine-Tuning Large Language Models for Automatic Detection of Sexually Explicit Content in Spanish-Language Song Lyrics](https://arxiv.org/abs/2602.05485v1)** | 2026-02-05 |  |
 | **[Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive](https://arxiv.org/abs/2301.12534v5)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2023</p></details> |
@@ -114,5 +115,4 @@ labels: documentation
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v2)** | 2026-01-27 |  |
 | **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679v3)** | 2026-01-25 | 20 pages, 1 figures |
 | **[Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations](https://arxiv.org/abs/2601.17786v1)** | 2026-01-25 | <details><summary>17 pa...</summary><p>17 pages, 7 tables, and 5 figures</p></details> |
-| **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
 

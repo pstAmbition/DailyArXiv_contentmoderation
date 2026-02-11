@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v3)** | 2026-02-10 | Accepted to CHI 2026 |
+| **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462v3)** | 2026-02-09 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
+| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v1)** | 2026-02-08 |  |
+| **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v1)** | 2026-02-08 |  |
 | **[Beyond Trial-and-Error: Predicting User Abandonment After a Moderation Intervention](https://arxiv.org/abs/2404.14846v4)** | 2026-02-06 | <details><summary>Artic...</summary><p>Article published in Engineering Applications of Artificial Intelligence. Please cite the correct version</p></details> |
 | **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
 | **[Fine-Tuning Large Language Models for Automatic Detection of Sexually Explicit Content in Spanish-Language Song Lyrics](https://arxiv.org/abs/2602.05485v1)** | 2026-02-05 |  |
@@ -111,8 +115,4 @@ labels: documentation
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v1)** | 2026-01-29 |  |
 | **[KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection](https://arxiv.org/abs/2601.21796v1)** | 2026-01-29 |  |
 | **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v2)** | 2026-01-28 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
-| **[Read as You See: Guiding Unimodal LLMs for Low-Resource Explainable Harmful Meme Detection](https://arxiv.org/abs/2506.08477v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ACM Web Conference 2026 (WWW '26)</p></details> |
-| **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v2)** | 2026-01-27 |  |
-| **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679v3)** | 2026-01-25 | 20 pages, 1 figures |
-| **[Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations](https://arxiv.org/abs/2601.17786v1)** | 2026-01-25 | <details><summary>17 pa...</summary><p>17 pages, 7 tables, and 5 figures</p></details> |
 

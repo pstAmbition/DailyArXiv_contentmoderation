@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v1)** | 2026-02-11 |  |
 | **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
@@ -28,7 +29,6 @@ labels: documentation
 | **[MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News](https://arxiv.org/abs/2601.04857v1)** | 2026-01-08 | Work in progress |
 | **[RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853v1)** | 2026-01-08 |  |
 | **[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This paper has been accepted to AAAI 2026</p></details> |
-| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -100,10 +100,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v2)** | 2026-02-11 |  |
+| **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v2)** | 2026-02-11 |  |
 | **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v3)** | 2026-02-10 | Accepted to CHI 2026 |
 | **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462v3)** | 2026-02-09 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
-| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v1)** | 2026-02-08 |  |
-| **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v1)** | 2026-02-08 |  |
 | **[Beyond Trial-and-Error: Predicting User Abandonment After a Moderation Intervention](https://arxiv.org/abs/2404.14846v4)** | 2026-02-06 | <details><summary>Artic...</summary><p>Article published in Engineering Applications of Artificial Intelligence. Please cite the correct version</p></details> |
 | **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
 | **[Fine-Tuning Large Language Models for Automatic Detection of Sexually Explicit Content in Spanish-Language Song Lyrics](https://arxiv.org/abs/2602.05485v1)** | 2026-02-05 |  |

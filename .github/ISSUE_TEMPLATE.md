@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,7 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v1)** | 2026-02-11 |  |
+| **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v2)** | 2026-02-12 |  |
 | **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
@@ -62,6 +62,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v3)** | 2026-02-02 | 10pages |
 | **[Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction](https://arxiv.org/abs/2602.00675v1)** | 2026-01-31 |  |
 | **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v2)** | 2026-01-20 |  |
@@ -76,7 +77,6 @@ labels: documentation
 | **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
 | **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
 | **[Beyond Real versus Fake Towards Intent-Aware Video Analysis](https://arxiv.org/abs/2511.22455v1)** | 2025-11-27 |  |
-| **[Emotion-Driven Personalized Recommendation for AI-Generated Content Using Multi-Modal Sentiment and Intent Analysis](https://arxiv.org/abs/2512.10963v1)** | 2025-11-25 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v1)** | 2026-02-12 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich, supported by the DIZH Innovation Program: 2nd Founder-Call. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
+| **[Capability-Oriented Training Induced Alignment Risk](https://arxiv.org/abs/2602.12124v1)** | 2026-02-12 |  |
 | **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v2)** | 2026-02-11 |  |
 | **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v2)** | 2026-02-11 |  |
 | **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v3)** | 2026-02-10 | Accepted to CHI 2026 |
@@ -113,6 +115,4 @@ labels: documentation
 | **[StreamSense: Streaming Social Task Detection with Selective Vision-Language Model Routing](https://arxiv.org/abs/2601.22738v1)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, The Web Conference 2026</p></details> |
 | **[Language Models That Walk the Talk: A Framework for Formal Fairness Certificates](https://arxiv.org/abs/2505.12767v2)** | 2026-01-29 |  |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v1)** | 2026-01-29 |  |
-| **[KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection](https://arxiv.org/abs/2601.21796v1)** | 2026-01-29 |  |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v2)** | 2026-01-28 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
 

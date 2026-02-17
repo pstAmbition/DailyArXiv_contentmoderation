@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
+| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v3)** | 2026-02-15 |  |
 | **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v2)** | 2026-02-12 |  |
 | **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
@@ -27,12 +29,11 @@ labels: documentation
 | **[All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection](https://arxiv.org/abs/2601.04160v3)** | 2026-01-09 | 48 pages; 24 figures |
 | **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v1)** | 2026-01-08 | Work in progress |
 | **[MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News](https://arxiv.org/abs/2601.04857v1)** | 2026-01-08 | Work in progress |
-| **[RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853v1)** | 2026-01-08 |  |
-| **[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This paper has been accepted to AAAI 2026</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v1)** | 2026-02-06 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
 | **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v1)** | 2026-01-21 | 19 pages,10 figures |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
@@ -47,7 +48,6 @@ labels: documentation
 | **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
 | **[Insight Rumors: A Novel Textual Rumor Locating and Marking Model Leveraging Att_BiMamba2 Network](https://arxiv.org/abs/2508.12574v1)** | 2025-08-18 |  |
 | **[A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations](https://arxiv.org/abs/2508.11141v1)** | 2025-08-15 |  |
-| **[CLMIR: A Textual Dataset for Rumor Identification and Marking](https://arxiv.org/abs/2508.11138v1)** | 2025-08-15 |  |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |

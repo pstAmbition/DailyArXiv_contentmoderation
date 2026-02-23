@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 22, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v2)** | 2026-02-19 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v3)** | 2026-02-15 |  |
 | **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v2)** | 2026-02-12 |  |
@@ -28,7 +29,6 @@ labels: documentation
 | **[Conformity Dynamics in LLM Multi-Agent Systems: The Roles of Topology and Self-Social Weighting](https://arxiv.org/abs/2601.05606v1)** | 2026-01-09 | Under Review |
 | **[All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection](https://arxiv.org/abs/2601.04160v3)** | 2026-01-09 | 48 pages; 24 figures |
 | **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v1)** | 2026-01-08 | Work in progress |
-| **[MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News](https://arxiv.org/abs/2601.04857v1)** | 2026-01-08 | Work in progress |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)** | 2026-02-20 |  |
 | **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v2)** | 2026-02-18 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
 | **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544v4)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 14 tables</p></details> |
 | **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v3)** | 2026-02-13 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive](https://arxiv.org/abs/2301.12534v5)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2023</p></details> |
 | **[TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://arxiv.org/abs/2601.07020v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by EACL 2026 SIGTURK</p></details> |
 | **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v3)** | 2026-01-31 |  |
-| **[StreamSense: Streaming Social Task Detection with Selective Vision-Language Model Routing](https://arxiv.org/abs/2601.22738v1)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, The Web Conference 2026</p></details> |
 

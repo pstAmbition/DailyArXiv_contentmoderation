@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 | --- | --- | --- |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v1)** | 2026-02-06 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
+| **[Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts](https://arxiv.org/abs/2602.21214v1)** | 2026-01-28 |  |
 | **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v1)** | 2026-01-21 | 19 pages,10 figures |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
 | **[RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation](https://arxiv.org/abs/2509.02172v2)** | 2026-01-09 |  |
@@ -47,7 +48,6 @@ labels: documentation
 | **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
 | **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
 | **[Insight Rumors: A Novel Textual Rumor Locating and Marking Model Leveraging Att_BiMamba2 Network](https://arxiv.org/abs/2508.12574v1)** | 2025-08-18 |  |
-| **[A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations](https://arxiv.org/abs/2508.11141v1)** | 2025-08-15 |  |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |

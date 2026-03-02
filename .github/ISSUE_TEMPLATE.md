@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 01, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v1)** | 2026-02-27 |  |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
 | **[Governing Social Media as a Public Utility](https://arxiv.org/abs/2602.12535v2)** | 2026-02-23 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462v3)** | 2026-02-09 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
 | **[Beyond Trial-and-Error: Predicting User Abandonment After a Moderation Intervention](https://arxiv.org/abs/2404.14846v4)** | 2026-02-06 | <details><summary>Artic...</summary><p>Article published in Engineering Applications of Artificial Intelligence. Please cite the correct version</p></details> |
 | **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
-| **[Fine-Tuning Large Language Models for Automatic Detection of Sexually Explicit Content in Spanish-Language Song Lyrics](https://arxiv.org/abs/2602.05485v1)** | 2026-02-05 |  |
 

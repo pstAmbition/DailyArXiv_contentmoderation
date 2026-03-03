@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -62,6 +62,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR](https://arxiv.org/abs/2603.00522v1)** | 2026-02-28 | <details><summary>Virtu...</summary><p>Virtual reality, spatial interaction, intent recognition, agent-based execution, large language models</p></details> |
+| **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v2)** | 2026-02-28 | Ongoing Work |
 | **[Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.19585v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This study has been Accepted by CVPR 2026</p></details> |
 | **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v3)** | 2026-02-02 | 10pages |
@@ -75,8 +77,6 @@ labels: documentation
 | **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v2)** | 2025-12-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v1)** | 2025-12-08 |  |
-| **[Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data](https://arxiv.org/abs/2512.06730v1)** | 2025-12-07 |  |
-| **[Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm](https://arxiv.org/abs/2309.14779v2)** | 2025-12-05 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GMP: A Benchmark for Content Moderation under Co-occurring Violations and Dynamic Rules](https://arxiv.org/abs/2603.01724v1)** | 2026-03-02 |  |
+| **[The Disintegration of Free Speech](https://arxiv.org/abs/2603.00754v1)** | 2026-02-28 |  |
+| **[CaptionFool: Universal Image Captioning Model Attacks](https://arxiv.org/abs/2603.00529v1)** | 2026-02-28 |  |
 | **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v1)** | 2026-02-27 |  |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
@@ -112,7 +115,4 @@ labels: documentation
 | **[Capability-Oriented Training Induced Alignment Risk](https://arxiv.org/abs/2602.12124v1)** | 2026-02-12 |  |
 | **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v2)** | 2026-02-11 |  |
 | **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v3)** | 2026-02-10 | Accepted to CHI 2026 |
-| **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462v3)** | 2026-02-09 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
-| **[Beyond Trial-and-Error: Predicting User Abandonment After a Moderation Intervention](https://arxiv.org/abs/2404.14846v4)** | 2026-02-06 | <details><summary>Artic...</summary><p>Article published in Engineering Applications of Artificial Intelligence. Please cite the correct version</p></details> |
-| **[xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection](https://arxiv.org/abs/2602.05874v1)** | 2026-02-05 |  |
 

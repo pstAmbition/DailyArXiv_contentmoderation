@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling](https://arxiv.org/abs/2603.02519v1)** | 2026-03-03 |  |
 | **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v2)** | 2026-02-19 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
@@ -28,7 +29,6 @@ labels: documentation
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
 | **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
 | **[Conformity Dynamics in LLM Multi-Agent Systems: The Roles of Topology and Self-Social Weighting](https://arxiv.org/abs/2601.05606v1)** | 2026-01-09 | Under Review |
-| **[All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection](https://arxiv.org/abs/2601.04160v3)** | 2026-01-09 | 48 pages; 24 figures |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -62,13 +62,13 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v3)** | 2026-03-03 | Ongoing Work |
+| **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v3)** | 2026-03-03 |  |
 | **[SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR](https://arxiv.org/abs/2603.00522v1)** | 2026-02-28 | <details><summary>Virtu...</summary><p>Virtual reality, spatial interaction, intent recognition, agent-based execution, large language models</p></details> |
-| **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v2)** | 2026-02-28 | Ongoing Work |
 | **[Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.19585v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This study has been Accepted by CVPR 2026</p></details> |
 | **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
 | **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v3)** | 2026-02-02 | 10pages |
 | **[Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction](https://arxiv.org/abs/2602.00675v1)** | 2026-01-31 |  |
-| **[Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework](https://arxiv.org/abs/2512.24075v2)** | 2026-01-20 |  |
 | **[How DDAIR you? Disambiguated Data Augmentation for Intent Recognition](https://arxiv.org/abs/2601.11234v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication at EACL 2026</p></details> |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v1)** | 2026-01-12 |  |
 | **[MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757v1)** | 2026-01-11 | <details><summary>A ben...</summary><p>A benchmark of realistic images and multi-turn conversations that evaluates contextual safety in MLLMs under two complementary settings</p></details> |
@@ -100,10 +100,12 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v2)** | 2026-03-03 |  |
+| **[ExpGuard: LLM Content Moderation in Specialized Domains](https://arxiv.org/abs/2603.02588v1)** | 2026-03-03 | ICLR 2026 |
+| **[The Content Moderator's Dilemma: Removal of Toxic Content and Distortions to Online Discourse](https://arxiv.org/abs/2412.16114v3)** | 2026-03-03 |  |
 | **[GMP: A Benchmark for Content Moderation under Co-occurring Violations and Dynamic Rules](https://arxiv.org/abs/2603.01724v1)** | 2026-03-02 |  |
 | **[The Disintegration of Free Speech](https://arxiv.org/abs/2603.00754v1)** | 2026-02-28 |  |
 | **[CaptionFool: Universal Image Captioning Model Attacks](https://arxiv.org/abs/2603.00529v1)** | 2026-02-28 |  |
-| **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v1)** | 2026-02-27 |  |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
 | **[Governing Social Media as a Public Utility](https://arxiv.org/abs/2602.12535v2)** | 2026-02-23 |  |
@@ -113,6 +115,4 @@ labels: documentation
 | **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544v4)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 14 tables</p></details> |
 | **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v3)** | 2026-02-13 |  |
 | **[Capability-Oriented Training Induced Alignment Risk](https://arxiv.org/abs/2602.12124v1)** | 2026-02-12 |  |
-| **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v2)** | 2026-02-11 |  |
-| **[What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation](https://arxiv.org/abs/2509.22861v3)** | 2026-02-10 | Accepted to CHI 2026 |
 

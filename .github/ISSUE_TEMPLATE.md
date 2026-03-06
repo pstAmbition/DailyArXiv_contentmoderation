@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
+| **[Detection of Illicit Content on Online Marketplaces using Large Language Models](https://arxiv.org/abs/2603.04707v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Natural Language Processing (ICNLP 2026)</p></details> |
 | **[MuSaG: A Multimodal German Sarcasm Dataset with Full-Modal Annotations](https://arxiv.org/abs/2510.24178v2)** | 2026-03-04 |  |
 | **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v2)** | 2026-03-03 |  |
 | **[ExpGuard: LLM Content Moderation in Specialized Domains](https://arxiv.org/abs/2603.02588v1)** | 2026-03-03 | ICLR 2026 |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Quantifying Automation Risk in High-Automation AI Systems: A Bayesian Framework for Failure Propagation and Optimal Oversight](https://arxiv.org/abs/2602.18986v1)** | 2026-02-22 |  |
 | **[Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)** | 2026-02-20 |  |
 | **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v2)** | 2026-02-18 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
-| **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544v4)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 14 tables</p></details> |
-| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v3)** | 2026-02-13 |  |
 

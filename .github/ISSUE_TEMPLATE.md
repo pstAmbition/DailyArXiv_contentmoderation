@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -62,6 +62,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sticky-Glance: Robust Intent Recognition for Human Robot Collaboration via Single-Glance](https://arxiv.org/abs/2603.06121v1)** | 2026-03-06 |  |
 | **[Lightweight Visual Reasoning for Socially-Aware Robots](https://arxiv.org/abs/2603.03942v1)** | 2026-03-04 | ICRA26 |
 | **[Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition](https://arxiv.org/abs/2603.03827v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v3)** | 2026-03-03 | Ongoing Work |
@@ -76,7 +77,6 @@ labels: documentation
 | **[MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757v1)** | 2026-01-11 | <details><summary>A ben...</summary><p>A benchmark of realistic images and multi-turn conversations that evaluates contextual safety in MLLMs under two complementary settings</p></details> |
 | **[External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation](https://arxiv.org/abs/2512.24166v1)** | 2025-12-30 |  |
 | **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v2)** | 2025-12-29 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
-| **[Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491v4)** | 2025-12-29 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks](https://arxiv.org/abs/2603.05801v1)** | 2026-03-06 |  |
 | **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
 | **[Detection of Illicit Content on Online Marketplaces using Large Language Models](https://arxiv.org/abs/2603.04707v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Natural Language Processing (ICNLP 2026)</p></details> |
 | **[MuSaG: A Multimodal German Sarcasm Dataset with Full-Modal Annotations](https://arxiv.org/abs/2510.24178v2)** | 2026-03-04 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[Governing Social Media as a Public Utility](https://arxiv.org/abs/2602.12535v2)** | 2026-02-23 |  |
 | **[Quantifying Automation Risk in High-Automation AI Systems: A Bayesian Framework for Failure Propagation and Optimal Oversight](https://arxiv.org/abs/2602.18986v1)** | 2026-02-22 |  |
 | **[Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)** | 2026-02-20 |  |
-| **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v2)** | 2026-02-18 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
 

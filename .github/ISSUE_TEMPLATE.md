@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Challenges in Restructuring Community-based Moderation](https://arxiv.org/abs/2402.17880v2)** | 2026-03-09 |  |
+| **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v2)** | 2026-03-07 |  |
 | **[Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks](https://arxiv.org/abs/2603.05801v1)** | 2026-03-06 |  |
 | **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
 | **[Detection of Illicit Content on Online Marketplaces using Large Language Models](https://arxiv.org/abs/2603.04707v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Natural Language Processing (ICNLP 2026)</p></details> |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
 | **[Governing Social Media as a Public Utility](https://arxiv.org/abs/2602.12535v2)** | 2026-02-23 |  |
-| **[Quantifying Automation Risk in High-Automation AI Systems: A Bayesian Framework for Failure Propagation and Optimal Oversight](https://arxiv.org/abs/2602.18986v1)** | 2026-02-22 |  |
-| **[Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)** | 2026-02-20 |  |
 

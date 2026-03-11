@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -52,9 +52,9 @@ labels: documentation
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v2)** | 2026-03-10 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v2)** | 2026-01-20 |  |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483v1)** | 2025-05-12 |  |
 | **[Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434v1)** | 2025-01-05 |  |
 | **[Ring That Bell: A Corpus and Method for Multimodal Metaphor Detection in Videos](https://arxiv.org/abs/2301.01134v1)** | 2022-12-15 | Figlang 2022 |
@@ -81,9 +81,9 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v2)** | 2026-03-10 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v1)** | 2026-02-05 |  |
 | **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v1)** | 2025-05-16 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
 | **[ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure](https://arxiv.org/abs/2309.03103v2)** | 2024-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, accepted for the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</p></details> |
 | **[Finding Challenging Metaphors that Confuse Pretrained Language Models](https://arxiv.org/abs/2401.16012v1)** | 2024-01-29 |  |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](https://arxiv.org/abs/2509.25896v3)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Challenges in Restructuring Community-based Moderation](https://arxiv.org/abs/2402.17880v2)** | 2026-03-09 |  |
 | **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v2)** | 2026-03-07 |  |
 | **[Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks](https://arxiv.org/abs/2603.05801v1)** | 2026-03-06 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[CaptionFool: Universal Image Captioning Model Attacks](https://arxiv.org/abs/2603.00529v1)** | 2026-02-28 |  |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
-| **[Governing Social Media as a Public Utility](https://arxiv.org/abs/2602.12535v2)** | 2026-02-23 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs](https://arxiv.org/abs/2603.10862v1)** | 2026-03-11 | 5 pages, 2 figures |
+| **[TATIC: Task-Aware Temporal Learning for Human Intent Inference from Physical Corrections in Human-Robot Collaboration](https://arxiv.org/abs/2603.11077v1)** | 2026-03-10 |  |
 | **[Sticky-Glance: Robust Intent Recognition for Human Robot Collaboration via Single-Glance](https://arxiv.org/abs/2603.06121v1)** | 2026-03-06 |  |
 | **[Lightweight Visual Reasoning for Socially-Aware Robots](https://arxiv.org/abs/2603.03942v1)** | 2026-03-04 | ICRA26 |
 | **[Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition](https://arxiv.org/abs/2603.03827v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
@@ -76,7 +77,6 @@ labels: documentation
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v1)** | 2026-01-12 |  |
 | **[MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757v1)** | 2026-01-11 | <details><summary>A ben...</summary><p>A benchmark of realistic images and multi-turn conversations that evaluates contextual safety in MLLMs under two complementary settings</p></details> |
 | **[External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation](https://arxiv.org/abs/2512.24166v1)** | 2025-12-30 |  |
-| **[Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110v2)** | 2025-12-29 | <details><summary>22 pa...</summary><p>22 pages and 23 figures</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program](https://arxiv.org/abs/2603.11120v1)** | 2026-03-11 | 52 pages, 10 figures |
 | **[LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](https://arxiv.org/abs/2509.25896v3)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Challenges in Restructuring Community-based Moderation](https://arxiv.org/abs/2402.17880v2)** | 2026-03-09 |  |
 | **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v2)** | 2026-03-07 |  |
@@ -114,5 +115,4 @@ labels: documentation
 | **[The Disintegration of Free Speech](https://arxiv.org/abs/2603.00754v1)** | 2026-02-28 |  |
 | **[CaptionFool: Universal Image Captioning Model Attacks](https://arxiv.org/abs/2603.00529v1)** | 2026-02-28 |  |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
-| **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
 

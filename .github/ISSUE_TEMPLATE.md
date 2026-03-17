@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2026
+title: Latest 15 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills](https://arxiv.org/abs/2510.01537v2)** | 2026-03-13 | Accepted at CHI'2026 |
 | **[Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling](https://arxiv.org/abs/2603.02519v1)** | 2026-03-03 |  |
 | **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v2)** | 2026-02-19 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
@@ -28,15 +29,14 @@ labels: documentation
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
 | **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
-| **[Conformity Dynamics in LLM Multi-Agent Systems: The Roles of Topology and Self-Social Weighting](https://arxiv.org/abs/2601.05606v1)** | 2026-01-09 | Under Review |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v1)** | 2026-02-06 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
 | **[Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts](https://arxiv.org/abs/2602.21214v1)** | 2026-01-28 |  |
-| **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v1)** | 2026-01-21 | 19 pages,10 figures |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
 | **[RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation](https://arxiv.org/abs/2509.02172v2)** | 2026-01-09 |  |
 | **[Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election](https://arxiv.org/abs/2601.04631v1)** | 2026-01-08 |  |
@@ -100,6 +100,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v3)** | 2026-03-16 |  |
+| **[STEMTOX: From Social Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v2)** | 2026-03-16 |  |
+| **[Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences](https://arxiv.org/abs/2603.14531v1)** | 2026-03-15 |  |
+| **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v1)** | 2026-03-14 |  |
 | **[The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program](https://arxiv.org/abs/2603.11120v1)** | 2026-03-11 | 52 pages, 10 figures |
 | **[LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](https://arxiv.org/abs/2509.25896v3)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Challenges in Restructuring Community-based Moderation](https://arxiv.org/abs/2402.17880v2)** | 2026-03-09 |  |
@@ -111,8 +115,4 @@ labels: documentation
 | **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v2)** | 2026-03-03 |  |
 | **[ExpGuard: LLM Content Moderation in Specialized Domains](https://arxiv.org/abs/2603.02588v1)** | 2026-03-03 | ICLR 2026 |
 | **[The Content Moderator's Dilemma: Removal of Toxic Content and Distortions to Online Discourse](https://arxiv.org/abs/2412.16114v3)** | 2026-03-03 |  |
-| **[GMP: A Benchmark for Content Moderation under Co-occurring Violations and Dynamic Rules](https://arxiv.org/abs/2603.01724v1)** | 2026-03-02 |  |
-| **[The Disintegration of Free Speech](https://arxiv.org/abs/2603.00754v1)** | 2026-02-28 |  |
-| **[CaptionFool: Universal Image Captioning Model Attacks](https://arxiv.org/abs/2603.00529v1)** | 2026-02-28 |  |
-| **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v1)** | 2026-02-24 |  |
 

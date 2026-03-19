@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Theoretical Foundations of δ-margin Majority Voting](https://arxiv.org/abs/2111.06390v4)** | 2026-03-18 |  |
+| **[Probing Association Biases in LLM Moderation Over-Sensitivity](https://arxiv.org/abs/2505.23914v2)** | 2026-03-17 | Preprint |
 | **[KidsNanny: A Two-Stage Multimodal Content Moderation Pipeline Integrating Visual Classification, Object Detection, OCR, and Contextual Reasoning for Child Safety](https://arxiv.org/abs/2603.16181v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables</p></details> |
 | **[SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Southeast Asia](https://arxiv.org/abs/2603.16070v1)** | 2026-03-17 | TALLIP Accepted |
 | **[Generate Any Scene: Scene Graph Driven Data Synthesis for Visual Generation Training](https://arxiv.org/abs/2412.08221v4)** | 2026-03-17 | ICLR 2026 |
@@ -113,6 +115,4 @@ labels: documentation
 | **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v2)** | 2026-03-07 |  |
 | **[Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks](https://arxiv.org/abs/2603.05801v1)** | 2026-03-06 |  |
 | **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
-| **[Detection of Illicit Content on Online Marketplaces using Large Language Models](https://arxiv.org/abs/2603.04707v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Natural Language Processing (ICNLP 2026)</p></details> |
-| **[MuSaG: A Multimodal German Sarcasm Dataset with Full-Modal Annotations](https://arxiv.org/abs/2510.24178v2)** | 2026-03-04 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harmful Visual Content Manipulation Matters in Misinformation Detection Under Multimedia Scenarios](https://arxiv.org/abs/2603.21054v1)** | 2026-03-22 |  |
 | **[Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills](https://arxiv.org/abs/2510.01537v2)** | 2026-03-13 | Accepted at CHI'2026 |
 | **[Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling](https://arxiv.org/abs/2603.02519v1)** | 2026-03-03 |  |
 | **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
@@ -28,13 +29,12 @@ labels: documentation
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 | **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
-| **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v2)** | 2026-03-22 |  |
 | **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
-| **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v1)** | 2026-02-06 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
 | **[Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts](https://arxiv.org/abs/2602.21214v1)** | 2026-01-28 |  |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
 | **[Harmful Visual Content Manipulation Matters in Misinformation Detection Under Multimedia Scenarios](https://arxiv.org/abs/2603.21054v1)** | 2026-03-22 |  |
 | **[Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills](https://arxiv.org/abs/2510.01537v2)** | 2026-03-13 | Accepted at CHI'2026 |
 | **[Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling](https://arxiv.org/abs/2603.02519v1)** | 2026-03-03 |  |
@@ -28,11 +29,11 @@ labels: documentation
 | **[GASTON: Graph-Aware Social Transformer for Online Networks](https://arxiv.org/abs/2602.02524v1)** | 2026-01-26 | Submitted to ICWSM |
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
 | **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
-| **[MultiCaption: Detecting disinformation using multilingual visual claims](https://arxiv.org/abs/2601.11220v1)** | 2026-01-16 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v2)** | 2026-03-22 |  |
 | **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
@@ -47,7 +48,6 @@ labels: documentation
 | **[TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities](https://arxiv.org/abs/2509.19352v1)** | 2025-09-18 |  |
 | **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
 | **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
-| **[Insight Rumors: A Novel Textual Rumor Locating and Marking Model Leveraging Att_BiMamba2 Network](https://arxiv.org/abs/2508.12574v1)** | 2025-08-18 |  |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
 | **[Rethinking Ground Truth: A Case Study on Human Label Variation in MLLM Benchmarking](https://arxiv.org/abs/2603.19744v1)** | 2026-03-20 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 1 figure</p></details> |
 | **[A Multi-Perspective Benchmark and Moderation Model for Evaluating Safety and Adversarial Robustness](https://arxiv.org/abs/2601.03273v2)** | 2026-03-19 |  |
 | **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v2)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Code and data available at https://github.com/douyipu/ajar</p></details> |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences](https://arxiv.org/abs/2603.14531v1)** | 2026-03-15 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v1)** | 2026-03-14 |  |
 | **[The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program](https://arxiv.org/abs/2603.11120v1)** | 2026-03-11 | 52 pages, 10 figures |
-| **[LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](https://arxiv.org/abs/2509.25896v3)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Challenges in Restructuring Community-based Moderation](https://arxiv.org/abs/2402.17880v2)** | 2026-03-09 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v1)** | 2026-03-25 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
 | **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
 | **[Rethinking Ground Truth: A Case Study on Human Label Variation in MLLM Benchmarking](https://arxiv.org/abs/2603.19744v1)** | 2026-03-20 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 1 figure</p></details> |
@@ -114,5 +115,4 @@ labels: documentation
 | **[STEMTOX: From Social Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v2)** | 2026-03-16 |  |
 | **[Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences](https://arxiv.org/abs/2603.14531v1)** | 2026-03-15 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v1)** | 2026-03-14 |  |
-| **[The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program](https://arxiv.org/abs/2603.11120v1)** | 2026-03-11 | 52 pages, 10 figures |
 

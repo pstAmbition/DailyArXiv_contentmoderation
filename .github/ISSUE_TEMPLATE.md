@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild](https://arxiv.org/abs/2603.25423v1)** | 2026-03-26 | Accepted at WWW 2026 |
+| **[Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection](https://arxiv.org/abs/2603.25203v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
 | **[Harmful Visual Content Manipulation Matters in Misinformation Detection Under Multimedia Scenarios](https://arxiv.org/abs/2603.21054v1)** | 2026-03-22 |  |
 | **[Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills](https://arxiv.org/abs/2510.01537v2)** | 2026-03-13 | Accepted at CHI'2026 |
@@ -27,8 +29,6 @@ labels: documentation
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
 | **[GASTON: Graph-Aware Social Transformer for Online Networks](https://arxiv.org/abs/2602.02524v1)** | 2026-01-26 | Submitted to ICWSM |
-| **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v1)** | 2026-01-21 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 11 tables</p></details> |
-| **[Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions](https://arxiv.org/abs/2505.08464v2)** | 2026-01-19 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v1)** | 2026-03-26 |  |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v1)** | 2026-03-25 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
 | **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
@@ -114,5 +115,4 @@ labels: documentation
 | **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v3)** | 2026-03-16 |  |
 | **[STEMTOX: From Social Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v2)** | 2026-03-16 |  |
 | **[Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences](https://arxiv.org/abs/2603.14531v1)** | 2026-03-15 |  |
-| **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v1)** | 2026-03-14 |  |
 

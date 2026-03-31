@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 29, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing the Unseen: Rethinking Illicit Promotion Detection with In-Context Learning](https://arxiv.org/abs/2603.28043v1)** | 2026-03-30 |  |
+| **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v3)** | 2026-03-27 |  |
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v1)** | 2026-03-26 |  |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v1)** | 2026-03-25 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
 | **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
@@ -113,6 +115,4 @@ labels: documentation
 | **[SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Southeast Asia](https://arxiv.org/abs/2603.16070v1)** | 2026-03-17 | TALLIP Accepted |
 | **[Generate Any Scene: Scene Graph Driven Data Synthesis for Visual Generation Training](https://arxiv.org/abs/2412.08221v4)** | 2026-03-17 | ICLR 2026 |
 | **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v3)** | 2026-03-16 |  |
-| **[STEMTOX: From Social Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v2)** | 2026-03-16 |  |
-| **[Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences](https://arxiv.org/abs/2603.14531v1)** | 2026-03-15 |  |
 

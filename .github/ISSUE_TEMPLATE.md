@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work](https://arxiv.org/abs/2505.24246v4)** | 2026-03-31 |  |
+| **[Xuanwu: Evolving General Multimodal Models into an Industrial-Grade Foundation for Content Ecosystems](https://arxiv.org/abs/2603.29211v1)** | 2026-03-31 | 41 pages, 10 figures |
 | **[Seeing the Unseen: Rethinking Illicit Promotion Detection with In-Context Learning](https://arxiv.org/abs/2603.28043v1)** | 2026-03-30 |  |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v3)** | 2026-03-27 |  |
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v1)** | 2026-03-26 |  |
@@ -113,6 +115,4 @@ labels: documentation
 | **[Probing Association Biases in LLM Moderation Over-Sensitivity](https://arxiv.org/abs/2505.23914v2)** | 2026-03-17 | Preprint |
 | **[KidsNanny: A Two-Stage Multimodal Content Moderation Pipeline Integrating Visual Classification, Object Detection, OCR, and Contextual Reasoning for Child Safety](https://arxiv.org/abs/2603.16181v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables</p></details> |
 | **[SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Southeast Asia](https://arxiv.org/abs/2603.16070v1)** | 2026-03-17 | TALLIP Accepted |
-| **[Generate Any Scene: Scene Graph Driven Data Synthesis for Visual Generation Training](https://arxiv.org/abs/2412.08221v4)** | 2026-03-17 | ICLR 2026 |
-| **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v3)** | 2026-03-16 |  |
 

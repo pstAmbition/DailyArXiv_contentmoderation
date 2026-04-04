@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -100,6 +100,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745v1)** | 2026-04-02 |  |
+| **[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354v1)** | 2026-04-01 | EACL 2026 (Findings) |
 | **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
 | **[Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work](https://arxiv.org/abs/2505.24246v4)** | 2026-03-31 |  |
 | **[Xuanwu: Evolving General Multimodal Models into an Industrial-Grade Foundation for Content Ecosystems](https://arxiv.org/abs/2603.29211v1)** | 2026-03-31 | 41 pages, 10 figures |
@@ -113,6 +115,4 @@ labels: documentation
 | **[A Multi-Perspective Benchmark and Moderation Model for Evaluating Safety and Adversarial Robustness](https://arxiv.org/abs/2601.03273v2)** | 2026-03-19 |  |
 | **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v2)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Code and data available at https://github.com/douyipu/ajar</p></details> |
 | **[Theoretical Foundations of δ-margin Majority Voting](https://arxiv.org/abs/2111.06390v4)** | 2026-03-18 |  |
-| **[Probing Association Biases in LLM Moderation Over-Sensitivity](https://arxiv.org/abs/2505.23914v2)** | 2026-03-17 | Preprint |
-| **[KidsNanny: A Two-Stage Multimodal Content Moderation Pipeline Integrating Visual Classification, Object Detection, OCR, and Contextual Reasoning for Child Safety](https://arxiv.org/abs/2603.16181v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables</p></details> |
 

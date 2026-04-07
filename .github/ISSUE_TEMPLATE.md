@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v1)** | 2026-04-06 | ACL 2026 Main |
 | **[From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild](https://arxiv.org/abs/2603.25423v1)** | 2026-03-26 | Accepted at WWW 2026 |
 | **[Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection](https://arxiv.org/abs/2603.25203v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
@@ -28,7 +29,6 @@ labels: documentation
 | **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
 | **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 | **[GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification](https://arxiv.org/abs/2501.02844v4)** | 2026-01-29 | Accepted by WWW 2026 |
-| **[GASTON: Graph-Aware Social Transformer for Online Networks](https://arxiv.org/abs/2602.02524v1)** | 2026-01-26 | Submitted to ICWSM |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -62,6 +62,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385v1)** | 2026-04-06 |  |
 | **[Physics-Guided Temporal Fusion for Lane-Change Intention Prediction](https://arxiv.org/abs/2512.24075v4)** | 2026-03-20 |  |
 | **[OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs](https://arxiv.org/abs/2603.10862v1)** | 2026-03-11 | 5 pages, 2 figures |
 | **[TATIC: Task-Aware Temporal Learning for Human Intent Inference from Physical Corrections in Human-Robot Collaboration](https://arxiv.org/abs/2603.11077v1)** | 2026-03-10 |  |
@@ -76,7 +77,6 @@ labels: documentation
 | **[How DDAIR you? Disambiguated Data Augmentation for Intent Recognition](https://arxiv.org/abs/2601.11234v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication at EACL 2026</p></details> |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v1)** | 2026-01-12 |  |
 | **[MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757v1)** | 2026-01-11 | <details><summary>A ben...</summary><p>A benchmark of realistic images and multi-turn conversations that evaluates contextual safety in MLLMs under two complementary settings</p></details> |
-| **[External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation](https://arxiv.org/abs/2512.24166v1)** | 2025-12-30 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v3)** | 2026-04-05 |  |
+| **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v1)** | 2026-04-05 |  |
+| **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v2)** | 2026-04-04 |  |
 | **[Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745v1)** | 2026-04-02 |  |
 | **[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354v1)** | 2026-04-01 | EACL 2026 (Findings) |
 | **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
@@ -112,7 +115,4 @@ labels: documentation
 | **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
 | **[Rethinking Ground Truth: A Case Study on Human Label Variation in MLLM Benchmarking](https://arxiv.org/abs/2603.19744v1)** | 2026-03-20 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 1 figure</p></details> |
-| **[A Multi-Perspective Benchmark and Moderation Model for Evaluating Safety and Adversarial Robustness](https://arxiv.org/abs/2601.03273v2)** | 2026-03-19 |  |
-| **[AJAR: Adaptive Jailbreak Architecture for Red-teaming](https://arxiv.org/abs/2601.10971v2)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Code and data available at https://github.com/douyipu/ajar</p></details> |
-| **[Theoretical Foundations of δ-margin Majority Voting](https://arxiv.org/abs/2111.06390v4)** | 2026-03-18 |  |
 

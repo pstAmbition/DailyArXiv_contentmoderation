@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -62,6 +62,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](https://arxiv.org/abs/2604.09462v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
 | **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v1)** | 2026-04-09 |  |
 | **[How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385v2)** | 2026-04-07 |  |
 | **[Physics-Guided Temporal Fusion for Lane-Change Intention Prediction](https://arxiv.org/abs/2512.24075v4)** | 2026-03-20 |  |
@@ -76,7 +77,6 @@ labels: documentation
 | **[Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.19585v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This study has been Accepted by CVPR 2026</p></details> |
 | **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
 | **[Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction](https://arxiv.org/abs/2602.00675v1)** | 2026-01-31 |  |
-| **[How DDAIR you? Disambiguated Data Augmentation for Intent Recognition](https://arxiv.org/abs/2601.11234v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication at EACL 2026</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions](https://arxiv.org/abs/2604.07772v1)** | 2026-04-09 |  |
 | **[Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation](https://arxiv.org/abs/2604.06950v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 19 pages, 6 figures</p></details> |
 | **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v3)** | 2026-04-05 |  |
@@ -107,12 +108,11 @@ labels: documentation
 | **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v2)** | 2026-04-04 |  |
 | **[Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745v1)** | 2026-04-02 |  |
 | **[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354v1)** | 2026-04-01 | EACL 2026 (Findings) |
+| **[Act or Escalate? Evaluating Escalation Behavior in Automation with Language Models](https://arxiv.org/abs/2604.08588v1)** | 2026-03-31 |  |
 | **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
 | **[Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work](https://arxiv.org/abs/2505.24246v4)** | 2026-03-31 |  |
 | **[Xuanwu: Evolving General Multimodal Models into an Industrial-Grade Foundation for Content Ecosystems](https://arxiv.org/abs/2603.29211v1)** | 2026-03-31 | 41 pages, 10 figures |
 | **[Seeing the Unseen: Rethinking Illicit Promotion Detection with In-Context Learning](https://arxiv.org/abs/2603.28043v1)** | 2026-03-30 |  |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v3)** | 2026-03-27 |  |
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v1)** | 2026-03-26 |  |
-| **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v1)** | 2026-03-25 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
-| **[Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation](https://arxiv.org/abs/2603.22985v1)** | 2026-03-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 

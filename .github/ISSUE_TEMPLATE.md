@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Multimodal harmful content
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection](https://arxiv.org/abs/2604.10460v1)** | 2026-04-12 | 12 pages, 31 figures |
 | **[When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI](https://arxiv.org/abs/2512.03087v1)** | 2025-11-29 |  |
 | **[MTikGuard System: A Transformer-Based Multimodal System for Child-Safe Content Moderation on TikTok](https://arxiv.org/abs/2511.17955v1)** | 2025-11-22 | Accepted at PACLIC39 |
 | **[MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media](https://arxiv.org/abs/2508.05557v3)** | 2025-09-07 |  |
@@ -14,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](https://arxiv.org/abs/2505.15489v4)** | 2026-04-13 | ICLR 2026 |
 | **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v4)** | 2026-04-08 |  |
 | **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v1)** | 2026-04-06 | ACL 2026 Main |
@@ -28,7 +30,6 @@ labels: documentation
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
 | **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v2)** | 2026-02-12 |  |
 | **[PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection](https://arxiv.org/abs/2602.03158v1)** | 2026-02-03 | 12 pages |
-| **[Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection](https://arxiv.org/abs/2602.01854v1)** | 2026-02-02 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -52,7 +53,7 @@ labels: documentation
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v2)** | 2026-03-10 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v3)** | 2026-04-13 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v2)** | 2026-01-20 |  |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
 | **[EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483v1)** | 2025-05-12 |  |
@@ -62,9 +63,9 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423v1)** | 2026-04-13 |  |
+| **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v2)** | 2026-04-12 |  |
 | **[Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](https://arxiv.org/abs/2604.09462v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
-| **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v1)** | 2026-04-09 |  |
-| **[How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385v2)** | 2026-04-07 |  |
 | **[Physics-Guided Temporal Fusion for Lane-Change Intention Prediction](https://arxiv.org/abs/2512.24075v4)** | 2026-03-20 |  |
 | **[TelcoAgent-Bench: A Multilingual Benchmark for Telecom AI Agents](https://arxiv.org/abs/2604.06209v1)** | 2026-03-16 |  |
 | **[OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs](https://arxiv.org/abs/2603.10862v1)** | 2026-03-11 | 5 pages, 2 figures |
@@ -81,8 +82,8 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v3)** | 2026-04-13 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Interpretable Chinese Metaphor Identification via LLM-Assisted MIPVU Rule Script Generation: A Comparative Protocol Study](https://arxiv.org/abs/2603.10784v1)** | 2026-03-11 |  |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v2)** | 2026-03-10 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v1)** | 2026-02-05 |  |
 | **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
 | **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
@@ -100,6 +101,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation](https://arxiv.org/abs/2604.10504v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 findings; under official publication process</p></details> |
+| **[CHAIRO: Contextual Hierarchical Analogical Induction and Reasoning Optimization for LLMs](https://arxiv.org/abs/2604.10502v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 main conference; under official publication process</p></details> |
+| **[Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection](https://arxiv.org/abs/2604.10460v1)** | 2026-04-12 | 12 pages, 31 figures |
+| **[VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation](https://arxiv.org/abs/2604.10127v1)** | 2026-04-11 | CVPR 2026 |
 | **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions](https://arxiv.org/abs/2604.07772v1)** | 2026-04-09 |  |
 | **[Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation](https://arxiv.org/abs/2604.06950v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 19 pages, 6 figures</p></details> |
@@ -111,8 +116,4 @@ labels: documentation
 | **[Act or Escalate? Evaluating Escalation Behavior in Automation with Language Models](https://arxiv.org/abs/2604.08588v1)** | 2026-03-31 |  |
 | **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
 | **[Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work](https://arxiv.org/abs/2505.24246v4)** | 2026-03-31 |  |
-| **[Xuanwu: Evolving General Multimodal Models into an Industrial-Grade Foundation for Content Ecosystems](https://arxiv.org/abs/2603.29211v1)** | 2026-03-31 | 41 pages, 10 figures |
-| **[Seeing the Unseen: Rethinking Illicit Promotion Detection with In-Context Learning](https://arxiv.org/abs/2603.28043v1)** | 2026-03-30 |  |
-| **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v3)** | 2026-03-27 |  |
-| **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v1)** | 2026-03-26 |  |
 

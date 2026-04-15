@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
 | **[Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423v1)** | 2026-04-13 |  |
 | **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v2)** | 2026-04-12 |  |
 | **[Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](https://arxiv.org/abs/2604.09462v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
@@ -77,7 +78,6 @@ labels: documentation
 | **[SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR](https://arxiv.org/abs/2603.00522v1)** | 2026-02-28 | <details><summary>Virtu...</summary><p>Virtual reality, spatial interaction, intent recognition, agent-based execution, large language models</p></details> |
 | **[Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.19585v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This study has been Accepted by CVPR 2026</p></details> |
 | **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
-| **[Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction](https://arxiv.org/abs/2602.00675v1)** | 2026-01-31 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Narrative over Numbers: The Identifiable Victim Effect and its Amplification Under Alignment and Reasoning in Large Language Models](https://arxiv.org/abs/2604.12076v1)** | 2026-04-13 | <details><summary>Under...</summary><p>Under review, 49 pages, 20 figures, 11 tables</p></details> |
 | **[CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation](https://arxiv.org/abs/2604.10504v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 findings; under official publication process</p></details> |
 | **[CHAIRO: Contextual Hierarchical Analogical Induction and Reasoning Optimization for LLMs](https://arxiv.org/abs/2604.10502v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 main conference; under official publication process</p></details> |
 | **[Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection](https://arxiv.org/abs/2604.10460v1)** | 2026-04-12 | 12 pages, 31 figures |
@@ -115,5 +116,4 @@ labels: documentation
 | **[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354v1)** | 2026-04-01 | EACL 2026 (Findings) |
 | **[Act or Escalate? Evaluating Escalation Behavior in Automation with Language Models](https://arxiv.org/abs/2604.08588v1)** | 2026-03-31 |  |
 | **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
-| **[Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work](https://arxiv.org/abs/2505.24246v4)** | 2026-03-31 |  |
 

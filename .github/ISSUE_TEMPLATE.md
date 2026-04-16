@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
+| **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v3)** | 2026-04-15 | Accepted at ACL 2026 |
 | **[Narrative over Numbers: The Identifiable Victim Effect and its Amplification Under Alignment and Reasoning in Large Language Models](https://arxiv.org/abs/2604.12076v1)** | 2026-04-13 | <details><summary>Under...</summary><p>Under review, 49 pages, 20 figures, 11 tables</p></details> |
 | **[CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation](https://arxiv.org/abs/2604.10504v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 findings; under official publication process</p></details> |
 | **[CHAIRO: Contextual Hierarchical Analogical Induction and Reasoning Optimization for LLMs](https://arxiv.org/abs/2604.10502v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 main conference; under official publication process</p></details> |
@@ -114,6 +116,4 @@ labels: documentation
 | **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v2)** | 2026-04-04 |  |
 | **[Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745v1)** | 2026-04-02 |  |
 | **[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354v1)** | 2026-04-01 | EACL 2026 (Findings) |
-| **[Act or Escalate? Evaluating Escalation Behavior in Automation with Language Models](https://arxiv.org/abs/2604.08588v1)** | 2026-03-31 |  |
-| **[Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work](https://arxiv.org/abs/2509.12140v3)** | 2026-03-31 |  |
 

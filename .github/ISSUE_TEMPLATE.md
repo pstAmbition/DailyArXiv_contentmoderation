@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection](https://arxiv.org/abs/2604.16172v1)** | 2026-04-17 |  |
 | **[Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models](https://arxiv.org/abs/2604.14640v1)** | 2026-04-16 |  |
 | **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](https://arxiv.org/abs/2505.15489v4)** | 2026-04-13 | ICLR 2026 |
 | **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
@@ -29,7 +30,6 @@ labels: documentation
 | **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v2)** | 2026-02-19 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
-| **[TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v2)** | 2026-02-12 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -53,7 +53,7 @@ labels: documentation
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v3)** | 2026-04-13 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v2)** | 2026-01-20 |  |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
 | **[EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483v1)** | 2025-05-12 |  |
@@ -82,7 +82,7 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v3)** | 2026-04-13 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
+| **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Interpretable Chinese Metaphor Identification via LLM-Assisted MIPVU Rule Script Generation: A Comparative Protocol Study](https://arxiv.org/abs/2603.10784v1)** | 2026-03-11 |  |
 | **[LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v1)** | 2026-02-05 |  |
 | **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
@@ -101,6 +101,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation](https://arxiv.org/abs/2503.16505v4)** | 2026-04-17 |  |
 | **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
 | **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v3)** | 2026-04-15 | Accepted at ACL 2026 |
@@ -115,5 +116,4 @@ labels: documentation
 | **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v3)** | 2026-04-05 |  |
 | **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v1)** | 2026-04-05 |  |
 | **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v2)** | 2026-04-04 |  |
-| **[Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745v1)** | 2026-04-02 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,12 +15,14 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v2)** | 2026-04-20 | <details><summary>ACL 2...</summary><p>ACL 2026 Main; Homepage at https://livefact.bebxy.com/</p></details> |
+| **[MFMDQwen: Multilingual Financial Misinformation Detection Based on Large Language Model](https://arxiv.org/abs/2604.18272v1)** | 2026-04-20 | Work in progress |
+| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v5)** | 2026-04-19 |  |
+| **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v2)** | 2026-04-18 |  |
 | **[MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection](https://arxiv.org/abs/2604.16172v1)** | 2026-04-17 |  |
 | **[Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models](https://arxiv.org/abs/2604.14640v1)** | 2026-04-16 |  |
 | **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](https://arxiv.org/abs/2505.15489v4)** | 2026-04-13 | ICLR 2026 |
 | **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
-| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v4)** | 2026-04-08 |  |
-| **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v1)** | 2026-04-06 | ACL 2026 Main |
 | **[From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild](https://arxiv.org/abs/2603.25423v1)** | 2026-03-26 | Accepted at WWW 2026 |
 | **[Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection](https://arxiv.org/abs/2603.25203v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
@@ -28,8 +30,6 @@ labels: documentation
 | **[Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills](https://arxiv.org/abs/2510.01537v2)** | 2026-03-13 | Accepted at CHI'2026 |
 | **[Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling](https://arxiv.org/abs/2603.02519v1)** | 2026-03-03 |  |
 | **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
-| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v2)** | 2026-02-19 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
-| **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v1)** | 2026-02-16 | 12 pages, 2 figures |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI Feedback Enhances Community-Based Content Moderation through Engagement with Counterarguments](https://arxiv.org/abs/2507.08110v4)** | 2026-04-20 |  |
+| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v4)** | 2026-04-20 |  |
+| **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v1)** | 2026-04-17 |  |
 | **[Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation](https://arxiv.org/abs/2503.16505v4)** | 2026-04-17 |  |
 | **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
@@ -113,7 +116,4 @@ labels: documentation
 | **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions](https://arxiv.org/abs/2604.07772v1)** | 2026-04-09 |  |
 | **[Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation](https://arxiv.org/abs/2604.06950v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 19 pages, 6 figures</p></details> |
-| **[HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection](https://arxiv.org/abs/2511.06391v3)** | 2026-04-05 |  |
-| **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v1)** | 2026-04-05 |  |
-| **[Agile Deliberation: Concept Deliberation for Subjective Visual Classification](https://arxiv.org/abs/2512.10821v2)** | 2026-04-04 |  |
 

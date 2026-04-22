@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v2)** | 2026-04-21 |  |
 | **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
 | **[Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423v1)** | 2026-04-13 |  |
 | **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v2)** | 2026-04-12 |  |
@@ -77,7 +78,6 @@ labels: documentation
 | **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v3)** | 2026-03-03 | Ongoing Work |
 | **[SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR](https://arxiv.org/abs/2603.00522v1)** | 2026-02-28 | <details><summary>Virtu...</summary><p>Virtual reality, spatial interaction, intent recognition, agent-based execution, large language models</p></details> |
 | **[Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.19585v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This study has been Accepted by CVPR 2026</p></details> |
-| **[EEG-to-Gait Decoding via Phase-Aware Representation Learning](https://arxiv.org/abs/2506.22488v2)** | 2026-02-12 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -101,9 +101,11 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v2)** | 2026-04-21 |  |
+| **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v1)** | 2026-04-21 |  |
+| **[Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability](https://arxiv.org/abs/2604.18893v1)** | 2026-04-20 |  |
 | **[AI Feedback Enhances Community-Based Content Moderation through Engagement with Counterarguments](https://arxiv.org/abs/2507.08110v4)** | 2026-04-20 |  |
 | **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v4)** | 2026-04-20 |  |
-| **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v1)** | 2026-04-17 |  |
 | **[Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation](https://arxiv.org/abs/2503.16505v4)** | 2026-04-17 |  |
 | **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
@@ -114,6 +116,4 @@ labels: documentation
 | **[Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection](https://arxiv.org/abs/2604.10460v1)** | 2026-04-12 | 12 pages, 31 figures |
 | **[VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation](https://arxiv.org/abs/2604.10127v1)** | 2026-04-11 | CVPR 2026 |
 | **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
-| **[ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions](https://arxiv.org/abs/2604.07772v1)** | 2026-04-09 |  |
-| **[Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation](https://arxiv.org/abs/2604.06950v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 19 pages, 6 figures</p></details> |
 

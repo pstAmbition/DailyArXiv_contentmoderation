@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models](https://arxiv.org/abs/2509.15174v3)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026. NLP, Hate speech detection, explanation, LLM. Version 3</p></details> |
+| **[DistortBench: Benchmarking Vision Language Models on Image Distortion Identification](https://arxiv.org/abs/2604.19966v1)** | 2026-04-21 |  |
 | **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v2)** | 2026-04-21 |  |
 | **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v1)** | 2026-04-21 |  |
 | **[Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability](https://arxiv.org/abs/2604.18893v1)** | 2026-04-20 |  |
@@ -114,6 +116,4 @@ labels: documentation
 | **[CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation](https://arxiv.org/abs/2604.10504v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 findings; under official publication process</p></details> |
 | **[CHAIRO: Contextual Hierarchical Analogical Induction and Reasoning Optimization for LLMs](https://arxiv.org/abs/2604.10502v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 main conference; under official publication process</p></details> |
 | **[Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection](https://arxiv.org/abs/2604.10460v1)** | 2026-04-12 | 12 pages, 31 figures |
-| **[VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation](https://arxiv.org/abs/2604.10127v1)** | 2026-04-11 | CVPR 2026 |
-| **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 

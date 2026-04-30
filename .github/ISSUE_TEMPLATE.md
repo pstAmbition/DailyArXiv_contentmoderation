@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - April 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v4)** | 2026-04-29 | <details><summary>46 pa...</summary><p>46 pages, 13 figures, 13 tables</p></details> |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v2)** | 2026-04-26 |  |
 | **[Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067v1)** | 2026-04-24 |  |
 | **[Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI](https://arxiv.org/abs/2604.20972v1)** | 2026-04-22 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, preprint. Research on Defensibility Index (DI), Ambiguity Index (AI), and Probabilistic Defensibility Signal (PDS) for policy-grounded evaluation of rule-governed AI in content moderation (Reddit production data)</p></details> |
@@ -115,5 +116,4 @@ labels: documentation
 | **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
 | **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v3)** | 2026-04-15 | Accepted at ACL 2026 |
-| **[Narrative over Numbers: The Identifiable Victim Effect and its Amplification Under Alignment and Reasoning in Large Language Models](https://arxiv.org/abs/2604.12076v1)** | 2026-04-13 | <details><summary>Under...</summary><p>Under review, 49 pages, 20 figures, 11 tables</p></details> |
 

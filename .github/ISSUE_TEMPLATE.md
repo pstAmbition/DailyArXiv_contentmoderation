@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](https://arxiv.org/abs/2604.28076v1)** | 2026-04-30 |  |
+| **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
 | **[IntentVLM: Open-Vocabulary Intention Recognition through Forward-Inverse Modeling with Video-Language Models](https://arxiv.org/abs/2604.24002v1)** | 2026-04-27 |  |
 | **[Beyond Context: Large Language Models' Failure to Grasp Users' Intent](https://arxiv.org/abs/2512.21110v3)** | 2026-04-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures; updated authors list and revised manuscript</p></details> |
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v2)** | 2026-04-21 |  |
@@ -76,8 +78,6 @@ labels: documentation
 | **[TATIC: Task-Aware Temporal Learning for Human Intent Inference from Physical Corrections in Human-Robot Collaboration](https://arxiv.org/abs/2603.11077v1)** | 2026-03-10 |  |
 | **[Sticky-Glance: Robust Intent Recognition for Human Robot Collaboration via Single-Glance](https://arxiv.org/abs/2603.06121v1)** | 2026-03-06 |  |
 | **[Lightweight Visual Reasoning for Socially-Aware Robots](https://arxiv.org/abs/2603.03942v1)** | 2026-03-04 | ICRA26 |
-| **[Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition](https://arxiv.org/abs/2603.03827v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558v3)** | 2026-03-03 | Ongoing Work |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Notepad AI to Social Media: How Can Text Style Transformation Mitigate Social Harm?](https://arxiv.org/abs/2604.27365v1)** | 2026-04-30 |  |
 | **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v4)** | 2026-04-29 | <details><summary>46 pa...</summary><p>46 pages, 13 figures, 13 tables</p></details> |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v2)** | 2026-04-26 |  |
 | **[Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067v1)** | 2026-04-24 |  |
@@ -115,5 +116,4 @@ labels: documentation
 | **[Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation](https://arxiv.org/abs/2503.16505v4)** | 2026-04-17 |  |
 | **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 | **[A Large-Scale Study of Telegram Bots](https://arxiv.org/abs/2603.24302v2)** | 2026-04-15 | <details><summary>Proce...</summary><p>Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)</p></details> |
-| **[FlexGuard: Continuous Risk Scoring for Strictness-Adaptive LLM Content Moderation](https://arxiv.org/abs/2602.23636v3)** | 2026-04-15 | Accepted at ACL 2026 |
 

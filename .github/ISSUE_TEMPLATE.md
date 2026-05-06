@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,19 +101,19 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v1)** | 2026-05-04 |  |
+| **[Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE](https://arxiv.org/abs/2605.02641v1)** | 2026-05-04 |  |
+| **[IPS: In-Prompt Process Supervision for Short Video Content Moderation](https://arxiv.org/abs/2412.15251v3)** | 2026-05-03 | <details><summary>7 pag...</summary><p>7 pages(excluding reference and appendix), 8 figures</p></details> |
+| **[Who Decides What Is Harmful? Content Moderation Policy Through A Multi-Agent Personalised Inference Framework](https://arxiv.org/abs/2605.01416v1)** | 2026-05-02 | <details><summary>The p...</summary><p>The paper has been accepted to the 34th European Conference on Information Systems (ECIS 2026). The official paper version will appear in the conference proceedings</p></details> |
 | **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v1)** | 2026-05-01 |  |
 | **[From Notepad AI to Social Media: How Can Text Style Transformation Mitigate Social Harm?](https://arxiv.org/abs/2604.27365v1)** | 2026-04-30 |  |
 | **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v4)** | 2026-04-29 | <details><summary>46 pa...</summary><p>46 pages, 13 figures, 13 tables</p></details> |
 | **[AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications](https://arxiv.org/abs/2512.20164v2)** | 2026-04-26 |  |
+| **[Latent Space Probing for Adult Content Detection in Video Generative Models](https://arxiv.org/abs/2605.00874v1)** | 2026-04-25 | <details><summary>To be...</summary><p>To be published in 2026 56th Annual IEEE International Conference on Dependable Systems and Networks Workshops (DSN-W)</p></details> |
 | **[Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067v1)** | 2026-04-24 |  |
 | **[Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI](https://arxiv.org/abs/2604.20972v1)** | 2026-04-22 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, preprint. Research on Defensibility Index (DI), Ambiguity Index (AI), and Probabilistic Defensibility Signal (PDS) for policy-grounded evaluation of rule-governed AI in content moderation (Reddit production data)</p></details> |
 | **[SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models](https://arxiv.org/abs/2509.15174v3)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026. NLP, Hate speech detection, explanation, LLM. Version 3</p></details> |
 | **[DistortBench: Benchmarking Vision Language Models on Image Distortion Identification](https://arxiv.org/abs/2604.19966v1)** | 2026-04-21 |  |
 | **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v2)** | 2026-04-21 |  |
 | **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v1)** | 2026-04-21 |  |
-| **[Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability](https://arxiv.org/abs/2604.18893v1)** | 2026-04-20 |  |
-| **[AI Feedback Enhances Community-Based Content Moderation through Engagement with Counterarguments](https://arxiv.org/abs/2507.08110v4)** | 2026-04-20 |  |
-| **[Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation](https://arxiv.org/abs/2602.07954v4)** | 2026-04-20 |  |
-| **[Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation](https://arxiv.org/abs/2503.16505v4)** | 2026-04-17 |  |
-| **[Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task](https://arxiv.org/abs/2604.14907v1)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing (Status: Decision in Process)</p></details> |
 

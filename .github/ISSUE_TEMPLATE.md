@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Laundering AI Authority with Adversarial Examples](https://arxiv.org/abs/2605.04261v1)** | 2026-05-05 |  |
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v1)** | 2026-05-04 |  |
 | **[Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE](https://arxiv.org/abs/2605.02641v1)** | 2026-05-04 |  |
 | **[IPS: In-Prompt Process Supervision for Short Video Content Moderation](https://arxiv.org/abs/2412.15251v3)** | 2026-05-03 | <details><summary>7 pag...</summary><p>7 pages(excluding reference and appendix), 8 figures</p></details> |
@@ -115,5 +116,4 @@ labels: documentation
 | **[SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models](https://arxiv.org/abs/2509.15174v3)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026. NLP, Hate speech detection, explanation, LLM. Version 3</p></details> |
 | **[DistortBench: Benchmarking Vision Language Models on Image Distortion Identification](https://arxiv.org/abs/2604.19966v1)** | 2026-04-21 |  |
 | **[IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language](https://arxiv.org/abs/2604.16654v2)** | 2026-04-21 |  |
-| **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v1)** | 2026-04-21 |  |
 

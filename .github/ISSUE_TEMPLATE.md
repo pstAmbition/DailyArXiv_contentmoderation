@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ImageAttributionBench: How Far Are We from Generalizable Attribution?](https://arxiv.org/abs/2605.12967v1)** | 2026-05-13 |  |
+| **[Latent Causal Void: Explicit Missing-Context Reconstruction for Misinformation Detection](https://arxiv.org/abs/2605.12156v1)** | 2026-05-12 |  |
 | **[MERIT: Modular Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](https://arxiv.org/abs/2510.17590v2)** | 2026-04-26 | <details><summary>18 pa...</summary><p>18 pages, 4 tables, 3 figures. Major revision with updated title, framing, methodology, experiments, and error analysis</p></details> |
 | **[Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines](https://arxiv.org/abs/2604.23483v1)** | 2026-04-26 | <details><summary>Submi...</summary><p>Submitted to IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY</p></details> |
 | **[Misinformation Span Detection in Videos via Audio Transcripts](https://arxiv.org/abs/2604.21767v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at ICWSM 2026</p></details> |
@@ -28,8 +30,6 @@ labels: documentation
 | **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
 | **[From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild](https://arxiv.org/abs/2603.25423v1)** | 2026-03-26 | Accepted at WWW 2026 |
 | **[Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection](https://arxiv.org/abs/2603.25203v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube](https://arxiv.org/abs/2603.22977v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Accepted for submission; dataset and code will be released upon publication</p></details> |
-| **[Harmful Visual Content Manipulation Matters in Misinformation Detection Under Multimedia Scenarios](https://arxiv.org/abs/2603.21054v1)** | 2026-03-22 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,11 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mapping the Stochastic Penal Colony](https://arxiv.org/abs/2602.00033v2)** | 2026-05-13 | <details><summary>26 pa...</summary><p>26 pages including appendix, 1 table, 2 figures, ACM FAccT '26</p></details> |
+| **[DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense](https://arxiv.org/abs/2605.13115v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v3)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
+| **[Auditing African Content Moderators' Working Conditions by Using the European General Data Protection Regulation (GDPR)](https://arxiv.org/abs/2605.11699v1)** | 2026-05-12 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper</p></details> |
+| **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v1)** | 2026-05-11 |  |
 | **[Mapping Data Labour Supply Chain in Africa in an Era of Digital Apartheid: a Struggle for Recognition](https://arxiv.org/abs/2512.04269v2)** | 2026-05-11 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper</p></details> |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v4)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)</p></details> |
 | **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544v5)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
@@ -111,9 +116,4 @@ labels: documentation
 | **[Quantifying the Statistical Effect of Rubric Modifications on Human-Autorater Agreement](https://arxiv.org/abs/2605.06283v1)** | 2026-05-07 |  |
 | **[Stego Battlefield: Evaluating Image Steganography Attacks and Steganalysis Defenses](https://arxiv.org/abs/2605.05789v1)** | 2026-05-07 | 23 pages |
 | **[Laundering AI Authority with Adversarial Examples](https://arxiv.org/abs/2605.04261v1)** | 2026-05-05 |  |
-| **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v1)** | 2026-05-04 |  |
-| **[Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE](https://arxiv.org/abs/2605.02641v1)** | 2026-05-04 |  |
-| **[IPS: In-Prompt Process Supervision for Short Video Content Moderation](https://arxiv.org/abs/2412.15251v3)** | 2026-05-03 | <details><summary>7 pag...</summary><p>7 pages(excluding reference and appendix), 8 figures</p></details> |
-| **[Who Decides What Is Harmful? Content Moderation Policy Through A Multi-Agent Personalised Inference Framework](https://arxiv.org/abs/2605.01416v1)** | 2026-05-02 | <details><summary>The p...</summary><p>The paper has been accepted to the 34th European Conference on Information Systems (ECIS 2026). The official paper version will appear in the conference proceedings</p></details> |
-| **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v1)** | 2026-05-01 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -34,6 +34,7 @@ labels: documentation
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 28 pages, 2 tables, 1 figure</p></details> |
 | **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v2)** | 2026-03-22 |  |
 | **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
@@ -48,7 +49,6 @@ labels: documentation
 | **[Towards Constant Time Multi-Call Rumor Spreading on Small-Set Expanders](https://arxiv.org/abs/2508.18017v2)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear at DISC 2025</p></details> |
 | **[TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities](https://arxiv.org/abs/2509.19352v1)** | 2025-09-18 |  |
 | **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
-| **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |

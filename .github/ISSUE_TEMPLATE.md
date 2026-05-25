@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 23, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?](https://arxiv.org/abs/2605.18025v1)** | 2026-05-18 | Accepted by KDD 2026 |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v2)** | 2026-05-18 |  |
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v1)** | 2026-05-11 |  |
@@ -77,7 +78,6 @@ labels: documentation
 | **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
 | **[Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423v1)** | 2026-04-13 |  |
 | **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v2)** | 2026-04-12 |  |
-| **[Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](https://arxiv.org/abs/2604.09462v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |

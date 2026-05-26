@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection](https://arxiv.org/abs/2605.19285v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. 12 pages, 8 figures. Code: https://github.com/wangbing1416/LONSREX</p></details> |
 | **[F2IND-IT! -- Multimodal Fuzzy Fake Indian News Detection using Images and Text](https://arxiv.org/abs/2605.17115v1)** | 2026-05-16 | 10 pages, 1 figure |
 | **[GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/abs/2605.16122v1)** | 2026-05-15 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v2)** | 2026-04-18 |  |
 | **[MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection](https://arxiv.org/abs/2604.16172v1)** | 2026-04-17 |  |
 | **[Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models](https://arxiv.org/abs/2604.14640v1)** | 2026-04-16 |  |
-| **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](https://arxiv.org/abs/2505.15489v4)** | 2026-04-13 | ICLR 2026 |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI Content Moderation in Therapy Conversations](https://arxiv.org/abs/2605.25454v1)** | 2026-05-25 |  |
+| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v2)** | 2026-05-23 |  |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors on SMPL Skeletons](https://arxiv.org/abs/2605.24488v1)** | 2026-05-23 | <details><summary>2 pag...</summary><p>2 pages, 2 figures. Accepted as a Poster at SIGGRAPH 2026</p></details> |
+| **[Improving Labeling Consistency with Detailed Constitutional Definitions and AI-Driven Evaluation](https://arxiv.org/abs/2605.24247v1)** | 2026-05-22 | <details><summary>Under...</summary><p>Under review at ACL Rolling Review (ARR), May 2026 cycle. Also available at https://doi.org/10.5281/zenodo.20125267</p></details> |
 | **[Mitigating Label Bias with Interpretable Rubric Embeddings](https://arxiv.org/abs/2605.21455v1)** | 2026-05-20 |  |
 | **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v1)** | 2026-05-20 |  |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v2)** | 2026-05-20 |  |
@@ -112,8 +116,4 @@ labels: documentation
 | **[DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense](https://arxiv.org/abs/2605.13115v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v3)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
 | **[Auditing African Content Moderators' Working Conditions by Using the European General Data Protection Regulation (GDPR)](https://arxiv.org/abs/2605.11699v1)** | 2026-05-12 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper</p></details> |
-| **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v1)** | 2026-05-11 |  |
-| **[Mapping Data Labour Supply Chain in Africa in an Era of Digital Apartheid: a Struggle for Recognition](https://arxiv.org/abs/2512.04269v2)** | 2026-05-11 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper</p></details> |
-| **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v4)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)</p></details> |
-| **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544v5)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
 

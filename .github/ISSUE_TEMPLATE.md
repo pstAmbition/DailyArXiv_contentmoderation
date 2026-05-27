@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling the Fragility of Vision-Language Models: Multi-Modal Adversarial Synergy via Texture-Constrained Perturbations and Cross-Modal Optimization](https://arxiv.org/abs/2605.26501v1)** | 2026-05-26 | Publish in AAAI 2026 |
+| **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[AI Content Moderation in Therapy Conversations](https://arxiv.org/abs/2605.25454v1)** | 2026-05-25 |  |
 | **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v2)** | 2026-05-23 |  |
 | **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors on SMPL Skeletons](https://arxiv.org/abs/2605.24488v1)** | 2026-05-23 | <details><summary>2 pag...</summary><p>2 pages, 2 figures. Accepted as a Poster at SIGGRAPH 2026</p></details> |
@@ -114,6 +116,4 @@ labels: documentation
 | **[GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/abs/2605.16122v1)** | 2026-05-15 |  |
 | **[Mapping the Stochastic Penal Colony](https://arxiv.org/abs/2602.00033v2)** | 2026-05-13 | <details><summary>26 pa...</summary><p>26 pages including appendix, 1 table, 2 figures, ACM FAccT '26</p></details> |
 | **[DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense](https://arxiv.org/abs/2605.13115v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation](https://arxiv.org/abs/2505.00054v3)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to Computational Approaches to Content Moderation and Platform Governance (COMPASS) at ICWSM'25</p></details> |
-| **[Auditing African Content Moderators' Working Conditions by Using the European General Data Protection Regulation (GDPR)](https://arxiv.org/abs/2605.11699v1)** | 2026-05-12 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper</p></details> |
 

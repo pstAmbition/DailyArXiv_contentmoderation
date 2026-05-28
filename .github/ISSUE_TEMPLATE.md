@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers](https://arxiv.org/abs/2605.28450v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to The Web Conference 2026 (formerly WWW) as an Oral presentation</p></details> |
+| **[When Context Flips, Safety Breaks: Diagnosing Brittle Safety in Aligned Language Models](https://arxiv.org/abs/2605.27851v1)** | 2026-05-27 |  |
+| **[Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention](https://arxiv.org/abs/2605.27584v1)** | 2026-05-26 |  |
 | **[Unveiling the Fragility of Vision-Language Models: Multi-Modal Adversarial Synergy via Texture-Constrained Perturbations and Cross-Modal Optimization](https://arxiv.org/abs/2605.26501v1)** | 2026-05-26 | Publish in AAAI 2026 |
 | **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[AI Content Moderation in Therapy Conversations](https://arxiv.org/abs/2605.25454v1)** | 2026-05-25 |  |
@@ -113,7 +116,4 @@ labels: documentation
 | **[Language Mutations Sustain the Persistences of Conspiracy Theories on Social Media](https://arxiv.org/abs/2605.20050v1)** | 2026-05-19 |  |
 | **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v1)** | 2026-05-17 |  |
 | **[Who, Why, and How: Disentangling the Effects of Moderation Source, Context, and Language on Post-Removal Behavior](https://arxiv.org/abs/2605.16204v1)** | 2026-05-15 |  |
-| **[GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/abs/2605.16122v1)** | 2026-05-15 |  |
-| **[Mapping the Stochastic Penal Colony](https://arxiv.org/abs/2602.00033v2)** | 2026-05-13 | <details><summary>26 pa...</summary><p>26 pages including appendix, 1 table, 2 figures, ACM FAccT '26</p></details> |
-| **[DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense](https://arxiv.org/abs/2605.13115v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 

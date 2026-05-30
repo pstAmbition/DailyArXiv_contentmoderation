@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CommunityFact: A Dynamic, Multilingual, Multi-domain Benchmark for Misinformation Detection in the Wild](https://arxiv.org/abs/2605.30241v1)** | 2026-05-28 |  |
+| **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection](https://arxiv.org/abs/2605.19285v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. 12 pages, 8 figures. Code: https://github.com/wangbing1416/LONSREX</p></details> |
 | **[F2IND-IT! -- Multimodal Fuzzy Fake Indian News Detection using Images and Text](https://arxiv.org/abs/2605.17115v1)** | 2026-05-16 | 10 pages, 1 figure |
@@ -28,8 +30,6 @@ labels: documentation
 | **[MFMDQwen: Multilingual Financial Misinformation Detection Based on Large Language Model](https://arxiv.org/abs/2604.18272v1)** | 2026-04-20 | Work in progress |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v5)** | 2026-04-19 |  |
 | **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v2)** | 2026-04-18 |  |
-| **[MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection](https://arxiv.org/abs/2604.16172v1)** | 2026-04-17 |  |
-| **[Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models](https://arxiv.org/abs/2604.14640v1)** | 2026-04-16 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |

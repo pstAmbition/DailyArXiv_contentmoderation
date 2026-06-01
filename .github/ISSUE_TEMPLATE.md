@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
 | **[CommunityFact: A Dynamic, Multilingual, Multi-domain Benchmark for Misinformation Detection in the Wild](https://arxiv.org/abs/2605.30241v1)** | 2026-05-28 |  |
 | **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
@@ -29,7 +30,6 @@ labels: documentation
 | **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v2)** | 2026-04-20 | <details><summary>ACL 2...</summary><p>ACL 2026 Main; Homepage at https://livefact.bebxy.com/</p></details> |
 | **[MFMDQwen: Multilingual Financial Misinformation Detection Based on Large Language Model](https://arxiv.org/abs/2604.18272v1)** | 2026-04-20 | Work in progress |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v5)** | 2026-04-19 |  |
-| **[Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403v2)** | 2026-04-18 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs](https://arxiv.org/abs/2605.31370v1)** | 2026-05-29 | Under Review |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?](https://arxiv.org/abs/2605.18025v1)** | 2026-05-18 | Accepted by KDD 2026 |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v2)** | 2026-05-18 |  |
@@ -77,7 +78,6 @@ labels: documentation
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v2)** | 2026-04-21 |  |
 | **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
 | **[Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423v1)** | 2026-04-13 |  |
-| **[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765v2)** | 2026-04-12 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Who, Why, and How: Disentangling the Effects of Moderation Source, Context, and Language on Post-Removal Behavior](https://arxiv.org/abs/2605.16204v2)** | 2026-05-29 |  |
+| **[Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems](https://arxiv.org/abs/2605.30392v1)** | 2026-05-28 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 2 appendices. Code: https://github.com/YehudaItkin/delayed-repression-instability</p></details> |
 | **[BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers](https://arxiv.org/abs/2605.28450v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to The Web Conference 2026 (formerly WWW) as an Oral presentation</p></details> |
 | **[When Context Flips, Safety Breaks: Diagnosing Brittle Safety in Aligned Language Models](https://arxiv.org/abs/2605.27851v1)** | 2026-05-27 |  |
 | **[Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention](https://arxiv.org/abs/2605.27584v1)** | 2026-05-26 |  |
@@ -114,6 +116,4 @@ labels: documentation
 | **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v1)** | 2026-05-20 |  |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v2)** | 2026-05-20 |  |
 | **[Language Mutations Sustain the Persistences of Conspiracy Theories on Social Media](https://arxiv.org/abs/2605.20050v1)** | 2026-05-19 |  |
-| **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v1)** | 2026-05-17 |  |
-| **[Who, Why, and How: Disentangling the Effects of Moderation Source, Context, and Language on Post-Removal Behavior](https://arxiv.org/abs/2605.16204v1)** | 2026-05-15 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
 | **[CommunityFact: A Dynamic, Multilingual, Multi-domain Benchmark for Misinformation Detection in the Wild](https://arxiv.org/abs/2605.30241v1)** | 2026-05-28 |  |
 | **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[Misinformation Span Detection in Videos via Audio Transcripts](https://arxiv.org/abs/2604.21767v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at ICWSM 2026</p></details> |
 | **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v2)** | 2026-04-20 | <details><summary>ACL 2...</summary><p>ACL 2026 Main; Homepage at https://livefact.bebxy.com/</p></details> |
 | **[MFMDQwen: Multilingual Financial Misinformation Detection Based on Large Language Model](https://arxiv.org/abs/2604.18272v1)** | 2026-04-20 | Work in progress |
-| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v5)** | 2026-04-19 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FigSIM: A Dataset for Fine-grained Suicide Severity and Figurative Language in Suicide Memes](https://arxiv.org/abs/2606.02523v1)** | 2026-06-01 | <details><summary>Conte...</summary><p>Content warning: contains suicide-related content. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
+| **[Compliance-Scored Best-of-N Guardrail Orchestration for Multimodal Document Generation in Payments Dispute Defense](https://arxiv.org/abs/2606.01513v1)** | 2026-06-01 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Preprint. Applied systems paper on compliance-scored guardrail orchestration for multimodal LLM document generation. Contains aggregate operational readouts; not a randomized A/B test</p></details> |
+| **[Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://arxiv.org/abs/2511.05613v2)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at the Forty-Third International Conference on Machine Learning (ICML), 2026, in Seoul, Korea</p></details> |
 | **[Who, Why, and How: Disentangling the Effects of Moderation Source, Context, and Language on Post-Removal Behavior](https://arxiv.org/abs/2605.16204v2)** | 2026-05-29 |  |
 | **[Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems](https://arxiv.org/abs/2605.30392v1)** | 2026-05-28 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 2 appendices. Code: https://github.com/YehudaItkin/delayed-repression-instability</p></details> |
 | **[BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers](https://arxiv.org/abs/2605.28450v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to The Web Conference 2026 (formerly WWW) as an Oral presentation</p></details> |
@@ -109,11 +112,8 @@ labels: documentation
 | **[Unveiling the Fragility of Vision-Language Models: Multi-Modal Adversarial Synergy via Texture-Constrained Perturbations and Cross-Modal Optimization](https://arxiv.org/abs/2605.26501v1)** | 2026-05-26 | Publish in AAAI 2026 |
 | **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
 | **[AI Content Moderation in Therapy Conversations](https://arxiv.org/abs/2605.25454v1)** | 2026-05-25 |  |
+| **[Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems](https://arxiv.org/abs/2606.00090v1)** | 2026-05-23 | 23 pages |
 | **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v2)** | 2026-05-23 |  |
 | **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors on SMPL Skeletons](https://arxiv.org/abs/2605.24488v1)** | 2026-05-23 | <details><summary>2 pag...</summary><p>2 pages, 2 figures. Accepted as a Poster at SIGGRAPH 2026</p></details> |
 | **[Improving Labeling Consistency with Detailed Constitutional Definitions and AI-Driven Evaluation](https://arxiv.org/abs/2605.24247v1)** | 2026-05-22 | <details><summary>Under...</summary><p>Under review at ACL Rolling Review (ARR), May 2026 cycle. Also available at https://doi.org/10.5281/zenodo.20125267</p></details> |
-| **[Mitigating Label Bias with Interpretable Rubric Embeddings](https://arxiv.org/abs/2605.21455v1)** | 2026-05-20 |  |
-| **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v1)** | 2026-05-20 |  |
-| **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v2)** | 2026-05-20 |  |
-| **[Language Mutations Sustain the Persistences of Conspiracy Theories on Social Media](https://arxiv.org/abs/2605.20050v1)** | 2026-05-19 |  |
 

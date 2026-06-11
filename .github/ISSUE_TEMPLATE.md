@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -63,6 +63,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence](https://arxiv.org/abs/2606.11877v1)** | 2026-06-10 | 20 pages |
 | **[MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion](https://arxiv.org/abs/2509.17446v4)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs](https://arxiv.org/abs/2605.31370v1)** | 2026-05-29 | Under Review |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
@@ -77,7 +78,6 @@ labels: documentation
 | **[IntentVLM: Open-Vocabulary Intention Recognition through Forward-Inverse Modeling with Video-Language Models](https://arxiv.org/abs/2604.24002v1)** | 2026-04-27 |  |
 | **[Beyond Context: Large Language Models' Failure to Grasp Users' Intent](https://arxiv.org/abs/2512.21110v3)** | 2026-04-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures; updated authors list and revised manuscript</p></details> |
 | **[Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows](https://arxiv.org/abs/2512.20640v2)** | 2026-04-21 |  |
-| **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v3)** | 2026-06-10 | <details><summary>Artic...</summary><p>Article published in ICWSM'26 - 20th AAAI Conference on Web and Social Media. Please, cite the published version</p></details> |
+| **[Language Shapes Mental Health Evaluations in Large Language Models](https://arxiv.org/abs/2603.06910v2)** | 2026-06-09 |  |
 | **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
 | **[I Was Scrolling and Then I Saw a Pregnant Strawberry](https://arxiv.org/abs/2606.09589v1)** | 2026-06-08 |  |
 | **[Bridging Expert Knowledge and Automated Feature Engineering via Self-Evolution](https://arxiv.org/abs/2606.08800v1)** | 2026-06-07 |  |
@@ -114,6 +116,4 @@ labels: documentation
 | **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v1)** | 2026-06-01 |  |
 | **[Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems](https://arxiv.org/abs/2605.30392v2)** | 2026-06-01 | <details><summary>32 pa...</summary><p>32 pages, 13 figures, 2 appendices. v2: corrected network parameterization; central result re-anchored on reactive agents; added robustness sweeps; bibliography fixes; structural and language edits. Code: https://github.com/YehudaItkin/delayed-repression-instability</p></details> |
 | **[FigSIM: A Dataset for Fine-grained Suicide Severity and Figurative Language in Suicide Memes](https://arxiv.org/abs/2606.02523v1)** | 2026-06-01 | <details><summary>Conte...</summary><p>Content warning: contains suicide-related content. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
-| **[Compliance-Scored Best-of-N Guardrail Orchestration for Multimodal Document Generation in Payments Dispute Defense](https://arxiv.org/abs/2606.01513v1)** | 2026-06-01 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Preprint. Applied systems paper on compliance-scored guardrail orchestration for multimodal LLM document generation. Contains aggregate operational readouts; not a randomized A/B test</p></details> |
-| **[Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://arxiv.org/abs/2511.05613v2)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at the Forty-Third International Conference on Machine Learning (ICML), 2026, in Seoul, Korea</p></details> |
 

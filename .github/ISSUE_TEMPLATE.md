@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -101,6 +101,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](https://arxiv.org/abs/2606.13397v1)** | 2026-06-11 |  |
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v3)** | 2026-06-10 | <details><summary>Artic...</summary><p>Article published in ICWSM'26 - 20th AAAI Conference on Web and Social Media. Please, cite the published version</p></details> |
 | **[Language Shapes Mental Health Evaluations in Large Language Models](https://arxiv.org/abs/2603.06910v2)** | 2026-06-09 |  |
 | **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
@@ -114,6 +116,4 @@ labels: documentation
 | **[Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal](https://arxiv.org/abs/2606.04223v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to LAMAS&SR workshop at FLoC 2026 (KR + ICPL + LICS + CP + FSCD)</p></details> |
 | **[Scheduling in Queueing Systems with Uncertain and Evolving Holding Costs](https://arxiv.org/abs/2505.21331v2)** | 2026-06-02 |  |
 | **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v1)** | 2026-06-01 |  |
-| **[Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems](https://arxiv.org/abs/2605.30392v2)** | 2026-06-01 | <details><summary>32 pa...</summary><p>32 pages, 13 figures, 2 appendices. v2: corrected network parameterization; central result re-anchored on reactive agents; added robustness sweeps; bibliography fixes; structural and language edits. Code: https://github.com/YehudaItkin/delayed-repression-instability</p></details> |
-| **[FigSIM: A Dataset for Fine-grained Suicide Severity and Figurative Language in Suicide Memes](https://arxiv.org/abs/2606.02523v1)** | 2026-06-01 | <details><summary>Conte...</summary><p>Content warning: contains suicide-related content. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
 

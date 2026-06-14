@@ -12,6 +12,15 @@ labels: documentation
 | **[MTikGuard System: A Transformer-Based Multimodal System for Child-Safe Content Moderation on TikTok](https://arxiv.org/abs/2511.17955v1)** | 2025-11-22 | Accepted at PACLIC39 |
 | **[MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media](https://arxiv.org/abs/2508.05557v3)** | 2025-09-07 |  |
 
+## Harmful video
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation](https://arxiv.org/abs/2606.01481v1)** | 2026-05-31 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
+| **[Jailbreaking on Text-to-Video Models via Scene Splitting Strategy](https://arxiv.org/abs/2509.22292v2)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page at https://velpegor.github.io/SceneSplit/</p></details> |
+| **[VMDT: Decoding the Trustworthiness of Video Foundation Models](https://arxiv.org/abs/2511.05682v1)** | 2025-11-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Datasets & Benchmarks</p></details> |
+| **[Protecting Young Users on Social Media: Evaluating the Effectiveness of Content Moderation and Legal Safeguards on Video Sharing Platforms](https://arxiv.org/abs/2505.11160v1)** | 2025-05-16 |  |
+| **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v1)** | 2024-11-06 |  |
+
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |

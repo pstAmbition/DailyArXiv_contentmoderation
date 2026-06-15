@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -110,6 +110,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v4)** | 2026-06-12 |  |
+| **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v5)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)</p></details> |
 | **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
 | **[Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](https://arxiv.org/abs/2606.13397v1)** | 2026-06-11 |  |
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v3)** | 2026-06-10 | <details><summary>Artic...</summary><p>Article published in ICWSM'26 - 20th AAAI Conference on Web and Social Media. Please, cite the published version</p></details> |
@@ -123,6 +125,4 @@ labels: documentation
 | **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v3)** | 2026-06-03 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
 | **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Industry Track</p></details> |
 | **[Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal](https://arxiv.org/abs/2606.04223v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to LAMAS&SR workshop at FLoC 2026 (KR + ICPL + LICS + CP + FSCD)</p></details> |
-| **[Scheduling in Queueing Systems with Uncertain and Evolving Holding Costs](https://arxiv.org/abs/2505.21331v2)** | 2026-06-02 |  |
-| **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v1)** | 2026-06-01 |  |
 

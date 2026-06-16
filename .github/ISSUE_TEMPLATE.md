@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -110,19 +110,19 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v1)** | 2026-06-15 |  |
+| **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
+| **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v3)** | 2026-06-14 |  |
+| **[Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes](https://arxiv.org/abs/2606.15307v1)** | 2026-06-13 |  |
+| **[Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks](https://arxiv.org/abs/2606.14819v1)** | 2026-06-12 | <details><summary>39 pa...</summary><p>39 pages, 7 figures. Code and data: https://github.com/YehudaItkin/noisy-perception-governance</p></details> |
 | **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v4)** | 2026-06-12 |  |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v5)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)</p></details> |
 | **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
 | **[Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](https://arxiv.org/abs/2606.13397v1)** | 2026-06-11 |  |
+| **[MatchLM2Lite: A Scalable MLLM-to-Lite Framework for Reproduced Content Identification](https://arxiv.org/abs/2606.14786v1)** | 2026-06-10 |  |
+| **[YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories](https://arxiv.org/abs/2606.14780v1)** | 2026-06-10 |  |
 | **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v3)** | 2026-06-10 | <details><summary>Artic...</summary><p>Article published in ICWSM'26 - 20th AAAI Conference on Web and Social Media. Please, cite the published version</p></details> |
 | **[Language Shapes Mental Health Evaluations in Large Language Models](https://arxiv.org/abs/2603.06910v2)** | 2026-06-09 |  |
 | **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
 | **[I Was Scrolling and Then I Saw a Pregnant Strawberry](https://arxiv.org/abs/2606.09589v1)** | 2026-06-08 |  |
-| **[Bridging Expert Knowledge and Automated Feature Engineering via Self-Evolution](https://arxiv.org/abs/2606.08800v1)** | 2026-06-07 |  |
-| **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462v4)** | 2026-06-06 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
-| **[RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140v1)** | 2026-06-04 |  |
-| **[Alignment Risks from Capability-Seeking RL Training](https://arxiv.org/abs/2602.12124v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v3)** | 2026-06-03 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
-| **[Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.21103v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Industry Track</p></details> |
-| **[Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal](https://arxiv.org/abs/2606.04223v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to LAMAS&SR workshop at FLoC 2026 (KR + ICPL + LICS + CP + FSCD)</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -72,6 +72,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](https://arxiv.org/abs/2604.28076v2)** | 2026-06-17 |  |
 | **[LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence](https://arxiv.org/abs/2606.11877v1)** | 2026-06-10 | 20 pages |
 | **[MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion](https://arxiv.org/abs/2509.17446v4)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs](https://arxiv.org/abs/2605.31370v1)** | 2026-05-29 | Under Review |
@@ -82,7 +83,6 @@ labels: documentation
 | **[Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition](https://arxiv.org/abs/2605.09468v1)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026 (Main Track, Long Paper)</p></details> |
 | **[Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology](https://arxiv.org/abs/2605.09152v1)** | 2026-05-09 |  |
 | **[EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams](https://arxiv.org/abs/2605.07299v1)** | 2026-05-08 | 8 pages |
-| **[TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](https://arxiv.org/abs/2604.28076v1)** | 2026-04-30 |  |
 | **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
 | **[IntentVLM: Open-Vocabulary Intention Recognition through Forward-Inverse Modeling with Video-Language Models](https://arxiv.org/abs/2604.24002v1)** | 2026-04-27 |  |
 | **[Beyond Context: Large Language Models' Failure to Grasp Users' Intent](https://arxiv.org/abs/2512.21110v3)** | 2026-04-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures; updated authors list and revised manuscript</p></details> |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -110,6 +110,12 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages](https://arxiv.org/abs/2606.22841v1)** | 2026-06-22 |  |
+| **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v4)** | 2026-06-22 |  |
+| **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v3)** | 2026-06-20 |  |
+| **[Cultural Targets, Structural Frames, Binding Morals: A Cross-Lingual Audit of Online Hate in Multicultural Singapore](https://arxiv.org/abs/2606.21996v1)** | 2026-06-20 |  |
+| **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v3)** | 2026-06-20 |  |
+| **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v2)** | 2026-06-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
 | **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v1)** | 2026-06-15 |  |
 | **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v3)** | 2026-06-14 |  |
@@ -117,12 +123,6 @@ labels: documentation
 | **[Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks](https://arxiv.org/abs/2606.14819v1)** | 2026-06-12 | <details><summary>39 pa...</summary><p>39 pages, 7 figures. Code and data: https://github.com/YehudaItkin/noisy-perception-governance</p></details> |
 | **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v4)** | 2026-06-12 |  |
 | **[The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](https://arxiv.org/abs/2505.11577v5)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)</p></details> |
+| **[BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems](https://arxiv.org/abs/2606.20668v1)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Trustworthy AI for Good (AI4GOOD). 2 figures; main text plus appendices</p></details> |
 | **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
-| **[Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](https://arxiv.org/abs/2606.13397v1)** | 2026-06-11 |  |
-| **[MatchLM2Lite: A Scalable MLLM-to-Lite Framework for Reproduced Content Identification](https://arxiv.org/abs/2606.14786v1)** | 2026-06-10 |  |
-| **[YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories](https://arxiv.org/abs/2606.14780v1)** | 2026-06-10 |  |
-| **[The Big Ban Theory: A Pre- and Post-Intervention Dataset of Online Content Moderation Actions](https://arxiv.org/abs/2601.11128v3)** | 2026-06-10 | <details><summary>Artic...</summary><p>Article published in ICWSM'26 - 20th AAAI Conference on Web and Social Media. Please, cite the published version</p></details> |
-| **[Language Shapes Mental Health Evaluations in Large Language Models](https://arxiv.org/abs/2603.06910v2)** | 2026-06-09 |  |
-| **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
-| **[I Was Scrolling and Then I Saw a Pregnant Strawberry](https://arxiv.org/abs/2606.09589v1)** | 2026-06-08 |  |
 

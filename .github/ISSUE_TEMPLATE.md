@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v1)** | 2026-06-23 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[MERIT: Modular Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](https://arxiv.org/abs/2510.17590v2)** | 2026-04-26 | <details><summary>18 pa...</summary><p>18 pages, 4 tables, 3 figures. Major revision with updated title, framing, methodology, experiments, and error analysis</p></details> |
 | **[Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines](https://arxiv.org/abs/2604.23483v1)** | 2026-04-26 | <details><summary>Submi...</summary><p>Submitted to IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY</p></details> |
 | **[Misinformation Span Detection in Videos via Audio Transcripts](https://arxiv.org/abs/2604.21767v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at ICWSM 2026</p></details> |
-| **[LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection](https://arxiv.org/abs/2604.04815v2)** | 2026-04-20 | <details><summary>ACL 2...</summary><p>ACL 2026 Main; Homepage at https://livefact.bebxy.com/</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |

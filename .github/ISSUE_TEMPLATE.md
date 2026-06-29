@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -73,6 +73,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users](https://arxiv.org/abs/2606.24910v1)** | 2026-06-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), August 24-28, 2026, Kitakyushu, Japan</p></details> |
 | **[TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](https://arxiv.org/abs/2604.28076v2)** | 2026-06-17 |  |
 | **[LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence](https://arxiv.org/abs/2606.11877v1)** | 2026-06-10 | 20 pages |
@@ -87,7 +88,6 @@ labels: documentation
 | **[EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams](https://arxiv.org/abs/2605.07299v1)** | 2026-05-08 | 8 pages |
 | **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
 | **[IntentVLM: Open-Vocabulary Intention Recognition through Forward-Inverse Modeling with Video-Language Models](https://arxiv.org/abs/2604.24002v1)** | 2026-04-27 |  |
-| **[Beyond Context: Large Language Models' Failure to Grasp Users' Intent](https://arxiv.org/abs/2512.21110v3)** | 2026-04-24 | <details><summary>22 pa...</summary><p>22 pages and 23 figures; updated authors list and revised manuscript</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -111,6 +111,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
+| **[MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](https://arxiv.org/abs/2510.10271v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted version. Revised to match the version accepted to the 2026 IEEE Symposium on Security and Privacy (SP); added publication information and DOI</p></details> |
 | **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v1)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
 | **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
 | **[The Pin of Shame: Examining Content Creators' Adoption of Pinning Inappropriate Comments as a Moderation Strategy](https://arxiv.org/abs/2505.14844v2)** | 2026-06-24 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 1 table</p></details> |
@@ -124,6 +126,4 @@ labels: documentation
 | **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v3)** | 2026-06-14 |  |
 | **[Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes](https://arxiv.org/abs/2606.15307v1)** | 2026-06-13 |  |
-| **[Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks](https://arxiv.org/abs/2606.14819v1)** | 2026-06-12 | <details><summary>39 pa...</summary><p>39 pages, 7 figures. Code and data: https://github.com/YehudaItkin/noisy-perception-governance</p></details> |
-| **[From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation](https://arxiv.org/abs/2510.09585v4)** | 2026-06-12 |  |
 

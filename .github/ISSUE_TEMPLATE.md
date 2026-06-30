@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Harmful video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Body as Status: Muscularity, Engagement, and Body Image Risk on #GymTok](https://arxiv.org/abs/2606.29682v1)** | 2026-06-29 |  |
 | **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
 | **[SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation](https://arxiv.org/abs/2606.01481v1)** | 2026-05-31 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
 | **[Jailbreaking on Text-to-Video Models via Scene Splitting Strategy](https://arxiv.org/abs/2509.22292v2)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page at https://velpegor.github.io/SceneSplit/</p></details> |
@@ -26,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v1)** | 2026-06-23 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
+| **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
@@ -39,7 +41,6 @@ labels: documentation
 | **[ImageAttributionBench: How Far Are We from Generalizable Attribution?](https://arxiv.org/abs/2605.12967v1)** | 2026-05-13 |  |
 | **[Latent Causal Void: Explicit Missing-Context Reconstruction for Misinformation Detection](https://arxiv.org/abs/2605.12156v1)** | 2026-05-12 |  |
 | **[MERIT: Modular Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](https://arxiv.org/abs/2510.17590v2)** | 2026-04-26 | <details><summary>18 pa...</summary><p>18 pages, 4 tables, 3 figures. Major revision with updated title, framing, methodology, experiments, and error analysis</p></details> |
-| **[Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines](https://arxiv.org/abs/2604.23483v1)** | 2026-04-26 | <details><summary>Submi...</summary><p>Submitted to IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -73,6 +74,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users](https://arxiv.org/abs/2606.24910v1)** | 2026-06-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), August 24-28, 2026, Kitakyushu, Japan</p></details> |
 | **[TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](https://arxiv.org/abs/2604.28076v2)** | 2026-06-17 |  |
@@ -87,7 +89,6 @@ labels: documentation
 | **[Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology](https://arxiv.org/abs/2605.09152v1)** | 2026-05-09 |  |
 | **[EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams](https://arxiv.org/abs/2605.07299v1)** | 2026-05-08 | 8 pages |
 | **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
-| **[IntentVLM: Open-Vocabulary Intention Recognition through Forward-Inverse Modeling with Video-Language Models](https://arxiv.org/abs/2604.24002v1)** | 2026-04-27 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -111,6 +112,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages](https://arxiv.org/abs/2606.29649v1)** | 2026-06-28 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
 | **[MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](https://arxiv.org/abs/2510.10271v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted version. Revised to match the version accepted to the 2026 IEEE Symposium on Security and Privacy (SP); added publication information and DOI</p></details> |
 | **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v1)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
@@ -125,5 +127,4 @@ labels: documentation
 | **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v1)** | 2026-06-15 |  |
 | **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
 | **[Design and Scheduling of an AI-based Queueing System](https://arxiv.org/abs/2406.06855v3)** | 2026-06-14 |  |
-| **[Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes](https://arxiv.org/abs/2606.15307v1)** | 2026-06-13 |  |
 

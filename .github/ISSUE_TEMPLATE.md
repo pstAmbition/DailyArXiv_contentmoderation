@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -112,6 +112,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hate Speech Detection in Turkish and Arabic Languages: A Comprehensive Study](https://arxiv.org/abs/2607.00143v1)** | 2026-06-30 | 11 Tables |
 | **[How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905v1)** | 2026-06-29 |  |
 | **[Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages](https://arxiv.org/abs/2606.29649v1)** | 2026-06-28 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
@@ -126,5 +127,4 @@ labels: documentation
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v3)** | 2026-06-20 |  |
 | **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v2)** | 2026-06-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
 | **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v1)** | 2026-06-15 |  |
-| **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
 

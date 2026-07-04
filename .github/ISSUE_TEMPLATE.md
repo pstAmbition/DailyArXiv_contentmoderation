@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -74,6 +74,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users](https://arxiv.org/abs/2606.24910v1)** | 2026-06-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), August 24-28, 2026, Kitakyushu, Japan</p></details> |
@@ -88,7 +89,6 @@ labels: documentation
 | **[Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition](https://arxiv.org/abs/2605.09468v1)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026 (Main Track, Long Paper)</p></details> |
 | **[Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology](https://arxiv.org/abs/2605.09152v1)** | 2026-05-09 |  |
 | **[EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams](https://arxiv.org/abs/2605.07299v1)** | 2026-05-08 | 8 pages |
-| **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |

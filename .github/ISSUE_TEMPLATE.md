@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 05, 2026
+title: Latest 15 Papers - July 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity](https://arxiv.org/abs/2607.02734v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication as a book chapter (Taylor & Francis, 2026)</p></details> |
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v1)** | 2026-06-23 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/abs/2605.16122v1)** | 2026-05-15 |  |
 | **[ImageAttributionBench: How Far Are We from Generalizable Attribution?](https://arxiv.org/abs/2605.12967v1)** | 2026-05-13 |  |
 | **[Latent Causal Void: Explicit Missing-Context Reconstruction for Misinformation Detection](https://arxiv.org/abs/2605.12156v1)** | 2026-05-12 |  |
-| **[MERIT: Modular Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](https://arxiv.org/abs/2510.17590v2)** | 2026-04-26 | <details><summary>18 pa...</summary><p>18 pages, 4 tables, 3 figures. Major revision with updated title, framing, methodology, experiments, and error analysis</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -74,6 +74,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
 | **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
@@ -88,7 +89,6 @@ labels: documentation
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v1)** | 2026-05-11 |  |
 | **[Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition](https://arxiv.org/abs/2605.09468v1)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026 (Main Track, Long Paper)</p></details> |
 | **[Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology](https://arxiv.org/abs/2605.09152v1)** | 2026-05-09 |  |
-| **[EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams](https://arxiv.org/abs/2605.07299v1)** | 2026-05-08 | 8 pages |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -112,7 +112,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hate Speech Detection in Turkish and Arabic Languages: A Comprehensive Study](https://arxiv.org/abs/2607.00143v1)** | 2026-06-30 | 11 Tables |
+| **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
+| **[Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](https://arxiv.org/abs/2607.00143v2)** | 2026-07-05 | 11 Tables |
 | **[How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905v1)** | 2026-06-29 |  |
 | **[Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages](https://arxiv.org/abs/2606.29649v1)** | 2026-06-28 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
@@ -126,5 +127,4 @@ labels: documentation
 | **[Cultural Targets, Structural Frames, Binding Morals: A Cross-Lingual Audit of Online Hate in Multicultural Singapore](https://arxiv.org/abs/2606.21996v1)** | 2026-06-20 |  |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v3)** | 2026-06-20 |  |
 | **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v2)** | 2026-06-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
-| **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v1)** | 2026-06-15 |  |
 

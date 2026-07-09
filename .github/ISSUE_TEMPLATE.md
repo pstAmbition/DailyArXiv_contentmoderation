@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -112,6 +112,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
 | **[Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](https://arxiv.org/abs/2607.00143v2)** | 2026-07-05 | 11 Tables |
 | **[How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905v1)** | 2026-06-29 |  |
@@ -126,5 +127,4 @@ labels: documentation
 | **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v3)** | 2026-06-20 |  |
 | **[Cultural Targets, Structural Frames, Binding Morals: A Cross-Lingual Audit of Online Hate in Multicultural Singapore](https://arxiv.org/abs/2606.21996v1)** | 2026-06-20 |  |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v3)** | 2026-06-20 |  |
-| **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v2)** | 2026-06-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
 

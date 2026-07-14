@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -45,10 +45,10 @@ labels: documentation
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal rumor detection enhanced by external evidence and forgery features](https://arxiv.org/abs/2601.14954v3)** | 2026-07-12 | 20pages,10figures |
 | **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 28 pages, 2 tables, 1 figure</p></details> |
 | **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v2)** | 2026-03-22 |  |
-| **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
 | **[Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts](https://arxiv.org/abs/2602.21214v1)** | 2026-01-28 |  |
 | **[TRGCN: A Hybrid Framework for Social Network Rumor Detection](https://arxiv.org/abs/2601.13573v1)** | 2026-01-20 |  |
@@ -74,6 +74,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Series-Elastic Instantiation](https://arxiv.org/abs/2606.13485v2)** | 2026-07-11 |  |
 | **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
 | **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
@@ -88,7 +89,6 @@ labels: documentation
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v2)** | 2026-05-18 |  |
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v1)** | 2026-05-11 |  |
 | **[Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition](https://arxiv.org/abs/2605.09468v1)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026 (Main Track, Long Paper)</p></details> |
-| **[Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology](https://arxiv.org/abs/2605.09152v1)** | 2026-05-09 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -112,6 +112,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
+| **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
+| **[Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](https://arxiv.org/abs/2604.06205v2)** | 2026-07-11 |  |
 | **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
 | **[Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](https://arxiv.org/abs/2607.00143v2)** | 2026-07-05 | 11 Tables |
@@ -124,7 +127,4 @@ labels: documentation
 | **[The Pin of Shame: Examining Content Creators' Adoption of Pinning Inappropriate Comments as a Moderation Strategy](https://arxiv.org/abs/2505.14844v2)** | 2026-06-24 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 1 table</p></details> |
 | **[IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages](https://arxiv.org/abs/2606.22841v1)** | 2026-06-22 |  |
 | **[The Failed Migration of Academic Twitter: A Case Study of Precocious Adopters](https://arxiv.org/abs/2406.04005v4)** | 2026-06-22 |  |
-| **[A Framework for Optimizing Human-Machine Interaction in Classification Systems](https://arxiv.org/abs/2601.05974v3)** | 2026-06-20 |  |
-| **[Cultural Targets, Structural Frames, Binding Morals: A Cross-Lingual Audit of Online Hate in Multicultural Singapore](https://arxiv.org/abs/2606.21996v1)** | 2026-06-20 |  |
-| **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v3)** | 2026-06-20 |  |
 

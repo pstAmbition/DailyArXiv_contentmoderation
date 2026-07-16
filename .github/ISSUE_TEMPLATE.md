@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -112,10 +112,12 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v2)** | 2026-07-15 | <details><summary>The p...</summary><p>The publishing of this preprint is contextual with the ACL ARR cycle system. After an encouraging review in January we revised and submit the paper on Arxiv. However, a new batch of reviewers raised additional issues that will lead to significant revisions of the experimental setting. Therefore, we decide to withdraw the manuscript</p></details> |
 | **[It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance](https://arxiv.org/abs/2607.12149v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted at the Mensch und Computer (MuC) 2026 Workshop "Human-Centered Content Moderation: Expertise, Context & Evaluation"</p></details> |
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
 | **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
 | **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
+| **[Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows](https://arxiv.org/abs/2607.13078v1)** | 2026-07-12 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 6 tables. Ancillary files include the evidence matrix, search note, and numeric claim check</p></details> |
 | **[Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](https://arxiv.org/abs/2604.06205v2)** | 2026-07-11 |  |
 | **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
@@ -125,6 +127,4 @@ labels: documentation
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
 | **[MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](https://arxiv.org/abs/2510.10271v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted version. Revised to match the version accepted to the 2026 IEEE Symposium on Security and Privacy (SP); added publication information and DOI</p></details> |
 | **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v1)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
-| **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
-| **[The Pin of Shame: Examining Content Creators' Adoption of Pinning Inappropriate Comments as a Moderation Strategy](https://arxiv.org/abs/2505.14844v2)** | 2026-06-24 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 1 table</p></details> |
 

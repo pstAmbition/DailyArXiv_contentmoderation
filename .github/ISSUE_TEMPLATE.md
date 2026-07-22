@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -93,10 +93,10 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v2)** | 2026-07-21 |  |
 | **[A Reproducible Multi-Architecture Baseline for Token-Level Chinese Metaphor Identification under the MIPVU Framework](https://arxiv.org/abs/2605.07170v1)** | 2026-05-08 |  |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Interpretable Chinese Metaphor Identification via LLM-Assisted MIPVU Rule Script Generation: A Comparative Protocol Study](https://arxiv.org/abs/2603.10784v1)** | 2026-03-11 |  |
-| **[LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v1)** | 2026-02-05 |  |
 | **[Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning](https://arxiv.org/abs/2509.24866v2)** | 2025-10-01 |  |
 | **[Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification](https://arxiv.org/abs/2404.01029v1)** | 2024-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, accepted in NAACL2024</p></details> |
 | **[ContrastWSD: Enhancing Metaphor Detection with Word Sense Disambiguation Following the Metaphor Identification Procedure](https://arxiv.org/abs/2309.03103v2)** | 2024-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, accepted for the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</p></details> |

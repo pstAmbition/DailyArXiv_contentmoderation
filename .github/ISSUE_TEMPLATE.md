@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Harmful video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](https://arxiv.org/abs/2607.21151v1)** | 2026-07-23 |  |
 | **[The Body as Status: Muscularity, Engagement, and Body Image Risk on #GymTok](https://arxiv.org/abs/2606.29682v1)** | 2026-06-29 |  |
 | **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
 | **[SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation](https://arxiv.org/abs/2606.01481v1)** | 2026-05-31 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |

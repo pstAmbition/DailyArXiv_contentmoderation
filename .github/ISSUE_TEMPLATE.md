@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
 | **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v1)** | 2026-07-20 |  |
 | **[DeLIVeR: Decomposed Learning for Information-grounded Veracity Recognition via Reinforced Knowledge Graph Exploration](https://arxiv.org/abs/2607.17935v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to 7th International Conference on Deep Learning Theory and Applications (DeLTA 2026)</p></details> |
 | **[Financial Audit Assistance using Misinformation Detection and Explanation](https://arxiv.org/abs/2607.17797v1)** | 2026-07-20 |  |
@@ -41,7 +42,6 @@ labels: documentation
 | **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 | **[A Multi-Layer AI Framework for Information Landscape Analysis](https://arxiv.org/abs/2606.26115v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at the Information Disorder (InDor) Workshop, LREC 2026. 10 pages</p></details> |
-| **[Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection](https://arxiv.org/abs/2605.19285v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. 12 pages, 8 figures. Code: https://github.com/wangbing1416/LONSREX</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |

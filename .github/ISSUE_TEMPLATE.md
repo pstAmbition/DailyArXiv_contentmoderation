@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,7 +15,7 @@ labels: documentation
 ## Harmful video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](https://arxiv.org/abs/2607.21151v1)** | 2026-07-23 |  |
+| **[V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](https://arxiv.org/abs/2607.21151v2)** | 2026-07-26 |  |
 | **[The Body as Status: Muscularity, Engagement, and Body Image Risk on #GymTok](https://arxiv.org/abs/2606.29682v1)** | 2026-06-29 |  |
 | **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
 | **[SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation](https://arxiv.org/abs/2606.01481v1)** | 2026-05-31 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
@@ -27,8 +27,9 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
+| **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
 | **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
-| **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v1)** | 2026-07-20 |  |
 | **[DeLIVeR: Decomposed Learning for Information-grounded Veracity Recognition via Reinforced Knowledge Graph Exploration](https://arxiv.org/abs/2607.17935v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to 7th International Conference on Deep Learning Theory and Applications (DeLTA 2026)</p></details> |
 | **[Financial Audit Assistance using Misinformation Detection and Explanation](https://arxiv.org/abs/2607.17797v1)** | 2026-07-20 |  |
 | **[Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)](https://arxiv.org/abs/2607.12336v1)** | 2026-07-14 | 39 pages |
@@ -41,7 +42,6 @@ labels: documentation
 | **[CommunityFact: A Dynamic, Multilingual, Multi-domain Benchmark for Misinformation Detection in the Wild](https://arxiv.org/abs/2605.30241v1)** | 2026-05-28 |  |
 | **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
 | **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
-| **[A Multi-Layer AI Framework for Information Landscape Analysis](https://arxiv.org/abs/2606.26115v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at the Information Disorder (InDor) Workshop, LREC 2026. 10 pages</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 19th International Workshop on Human-Friendly Robotics (HFR 2026), Trento, Italy. The paper will appear in Springer's Proceedings in Advanced Robotics</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Series-Elastic Instantiation](https://arxiv.org/abs/2606.13485v2)** | 2026-07-11 |  |
 | **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
@@ -89,7 +90,6 @@ labels: documentation
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 | **[TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?](https://arxiv.org/abs/2605.18025v1)** | 2026-05-18 | Accepted by KDD 2026 |
 | **[Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework](https://arxiv.org/abs/2601.07122v2)** | 2026-05-18 |  |
-| **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v1)** | 2026-05-11 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -113,8 +113,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
 | **[STEMTOX: From Collaborative Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v3)** | 2026-07-22 |  |
 | **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v1)** | 2026-07-22 |  |
+| **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for the CC-MMD Grand Challenge at the 28th ACM International Conference on Multimodal Interaction (ICMI 2026)</p></details> |
 | **[It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance](https://arxiv.org/abs/2607.12149v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the Mensch und Computer (MuC) 2026 Workshop "Human-Centered Content Moderation: Expertise, Context & Evaluation"</p></details> |
 | **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v2)** | 2026-07-15 | <details><summary>The p...</summary><p>The publishing of this preprint is contextual with the ACL ARR cycle system. After an encouraging review in January we revised and submit the paper on Arxiv. However, a new batch of reviewers raised additional issues that will lead to significant revisions of the experimental setting. Therefore, we decide to withdraw the manuscript</p></details> |
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
@@ -126,6 +128,4 @@ labels: documentation
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
 | **[Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](https://arxiv.org/abs/2607.00143v2)** | 2026-07-05 | 11 Tables |
 | **[How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905v1)** | 2026-06-29 |  |
-| **[Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages](https://arxiv.org/abs/2606.29649v1)** | 2026-06-28 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
-| **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v2)** | 2026-06-26 |  |
 

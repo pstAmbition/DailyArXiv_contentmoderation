@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -113,6 +113,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shieldstral](https://arxiv.org/abs/2607.25857v1)** | 2026-07-28 |  |
+| **[Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v3)** | 2026-07-27 |  |
 | **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
 | **[STEMTOX: From Collaborative Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v3)** | 2026-07-22 |  |
 | **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v1)** | 2026-07-22 |  |
@@ -126,6 +128,4 @@ labels: documentation
 | **[Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](https://arxiv.org/abs/2604.06205v2)** | 2026-07-11 |  |
 | **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
 | **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
-| **[Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](https://arxiv.org/abs/2607.00143v2)** | 2026-07-05 | 11 Tables |
-| **[How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905v1)** | 2026-06-29 |  |
 

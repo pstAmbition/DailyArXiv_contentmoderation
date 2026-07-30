@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -113,6 +113,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](https://arxiv.org/abs/2607.26236v1)** | 2026-07-28 | <details><summary>This ...</summary><p>This work is an extension of this conference paper: Cima, L., Miaschi, A., Trujillo, A., Avvenuti, M., Dell'Orletta, F., & Cresci, S. (2025, April). Contextualized counterspeech: Strategies for adaptation, personalization, and evaluation. In Proceedings of the ACM on Web Conference 2025 (pp. 5022-5033)</p></details> |
+| **[Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting](https://arxiv.org/abs/2607.26200v1)** | 2026-07-28 |  |
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v1)** | 2026-07-28 |  |
 | **[Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v3)** | 2026-07-27 |  |
 | **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
@@ -126,6 +128,4 @@ labels: documentation
 | **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
 | **[Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows](https://arxiv.org/abs/2607.13078v1)** | 2026-07-12 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 6 tables. Ancillary files include the evidence matrix, search note, and numeric claim check</p></details> |
 | **[Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](https://arxiv.org/abs/2604.06205v2)** | 2026-07-11 |  |
-| **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
-| **[Instance-Level Costs for Nuanced Classifier Evaluation](https://arxiv.org/abs/2605.03135v2)** | 2026-07-05 | <details><summary>v2: r...</summary><p>v2: revised experiments and discussion; updated figures and appendix; corrected typos</p></details> |
 

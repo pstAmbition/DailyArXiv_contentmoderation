@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,9 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
+| **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
+| **[Latent States in Neural Networks: Recovering the Temporal Structure of Drifting Data from Model Weights](https://arxiv.org/abs/2607.27482v1)** | 2026-07-29 |  |
 | **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
 | **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
 | **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
@@ -39,9 +42,6 @@ labels: documentation
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 | **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
-| **[CommunityFact: A Dynamic, Multilingual, Multi-domain Benchmark for Misinformation Detection in the Wild](https://arxiv.org/abs/2605.30241v1)** | 2026-05-28 |  |
-| **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/abs/2406.10238v2)** | 2026-05-28 |  |
-| **[WISE: Web Information Satire and Fakeness Evaluation](https://arxiv.org/abs/2512.24000v3)** | 2026-05-23 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -113,6 +113,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
 | **[Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](https://arxiv.org/abs/2607.26236v1)** | 2026-07-28 | <details><summary>This ...</summary><p>This work is an extension of this conference paper: Cima, L., Miaschi, A., Trujillo, A., Avvenuti, M., Dell'Orletta, F., & Cresci, S. (2025, April). Contextualized counterspeech: Strategies for adaptation, personalization, and evaluation. In Proceedings of the ACM on Web Conference 2025 (pp. 5022-5033)</p></details> |
 | **[Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting](https://arxiv.org/abs/2607.26200v1)** | 2026-07-28 |  |
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v1)** | 2026-07-28 |  |
@@ -127,5 +128,4 @@ labels: documentation
 | **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
 | **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
 | **[Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows](https://arxiv.org/abs/2607.13078v1)** | 2026-07-12 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 6 tables. Ancillary files include the evidence matrix, search note, and numeric claim check</p></details> |
-| **[Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](https://arxiv.org/abs/2604.06205v2)** | 2026-07-11 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
 | **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
 | **[Latent States in Neural Networks: Recovering the Temporal Structure of Drifting Data from Model Weights](https://arxiv.org/abs/2607.27482v1)** | 2026-07-29 |  |
@@ -41,13 +42,12 @@ labels: documentation
 | **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 | **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
-| **[D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection](https://arxiv.org/abs/2602.14441v2)** | 2026-05-29 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
 | **[Multimodal rumor detection enhanced by external evidence and forgery features](https://arxiv.org/abs/2601.14954v3)** | 2026-07-12 | 20pages,10figures |
-| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 28 pages, 2 tables, 1 figure</p></details> |
 | **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
 | **[LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction](https://arxiv.org/abs/2602.13279v2)** | 2026-03-22 |  |
 | **[LLM-based Few-Shot Early Rumor Detection with Imitation Agent](https://arxiv.org/abs/2512.18352v2)** | 2026-01-29 | Accepted at KDD 2026 |
@@ -75,9 +75,9 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v3)** | 2026-08-03 |  |
 | **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 19th International Workshop on Human-Friendly Robotics (HFR 2026), Trento, Italy. The paper will appear in Springer's Proceedings in Advanced Robotics</p></details> |
-| **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Series-Elastic Instantiation](https://arxiv.org/abs/2606.13485v2)** | 2026-07-11 |  |
 | **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
 | **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,6 +76,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition](https://arxiv.org/abs/2608.03475v1)** | 2026-08-04 |  |
+| **[Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding](https://arxiv.org/abs/2608.04054v1)** | 2026-08-04 |  |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v3)** | 2026-08-03 |  |
 | **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 19th International Workshop on Human-Friendly Robotics (HFR 2026), Trento, Italy. The paper will appear in Springer's Proceedings in Advanced Robotics</p></details> |
@@ -89,7 +90,6 @@ labels: documentation
 | **[MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion](https://arxiv.org/abs/2509.17446v4)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs](https://arxiv.org/abs/2605.31370v1)** | 2026-05-29 | Under Review |
 | **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
-| **[TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?](https://arxiv.org/abs/2605.18025v1)** | 2026-05-18 | Accepted by KDD 2026 |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -113,10 +113,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
 | **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
 | **[Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](https://arxiv.org/abs/2607.26236v1)** | 2026-07-28 | <details><summary>This ...</summary><p>This work is an extension of this conference paper: Cima, L., Miaschi, A., Trujillo, A., Avvenuti, M., Dell'Orletta, F., & Cresci, S. (2025, April). Contextualized counterspeech: Strategies for adaptation, personalization, and evaluation. In Proceedings of the ACM on Web Conference 2025 (pp. 5022-5033)</p></details> |
 | **[Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting](https://arxiv.org/abs/2607.26200v1)** | 2026-07-28 |  |
-| **[Shieldstral](https://arxiv.org/abs/2607.25857v1)** | 2026-07-28 |  |
 | **[Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v3)** | 2026-07-27 |  |
 | **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
 | **[STEMTOX: From Collaborative Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v3)** | 2026-07-22 |  |

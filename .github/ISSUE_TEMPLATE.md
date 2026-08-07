@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -65,6 +65,7 @@ labels: documentation
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M$^3$R-Bench: A Unified Benchmark for Evidence-Grounded Multimodal Metaphor Understanding](https://arxiv.org/abs/2608.05817v1)** | 2026-08-06 | <details><summary>6 fig...</summary><p>6 figures and 5 tables. Hong Jiang, Junnan Zhu, and Jingwang Huang contributed equally. Jiang Zhong and Kaiwen Wei are corresponding authors. Code and data are available at https://github.com/hongshi4/M3R-Bench</p></details> |
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v3)** | 2026-06-08 |  |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |

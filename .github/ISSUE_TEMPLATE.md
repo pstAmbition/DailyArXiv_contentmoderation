@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 09, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v1)** | 2026-08-05 | 13 pages |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
 | **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
@@ -41,7 +42,6 @@ labels: documentation
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v1)** | 2026-06-23 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
-| **[From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations](https://arxiv.org/abs/2507.05179v6)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |

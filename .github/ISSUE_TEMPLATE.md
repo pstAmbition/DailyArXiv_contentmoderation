@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v1)** | 2026-08-05 | 13 pages |
+| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v2)** | 2026-08-10 | 13 pages |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
 | **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models](https://arxiv.org/abs/2511.18852v2)** | 2026-08-09 |  |
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
 | **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
 | **[Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](https://arxiv.org/abs/2607.26236v1)** | 2026-07-28 | <details><summary>This ...</summary><p>This work is an extension of this conference paper: Cima, L., Miaschi, A., Trujillo, A., Avvenuti, M., Dell'Orletta, F., & Cresci, S. (2025, April). Contextualized counterspeech: Strategies for adaptation, personalization, and evaluation. In Proceedings of the ACM on Web Conference 2025 (pp. 5022-5033)</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
 | **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
 | **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
-| **[Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows](https://arxiv.org/abs/2607.13078v1)** | 2026-07-12 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 6 tables. Ancillary files include the evidence matrix, search note, and numeric claim check</p></details> |
 

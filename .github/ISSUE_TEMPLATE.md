@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v2)** | 2026-08-11 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v2)** | 2026-08-10 | 13 pages |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
@@ -39,7 +40,6 @@ labels: documentation
 | **[Financial Audit Assistance using Misinformation Detection and Explanation](https://arxiv.org/abs/2607.17797v1)** | 2026-07-20 |  |
 | **[Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)](https://arxiv.org/abs/2607.12336v1)** | 2026-07-14 | 39 pages |
 | **[Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity](https://arxiv.org/abs/2607.02734v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication as a book chapter (Taylor & Francis, 2026)</p></details> |
-| **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v1)** | 2026-06-23 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 
@@ -76,6 +76,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition](https://arxiv.org/abs/2608.03475v1)** | 2026-08-04 |  |
 | **[Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding](https://arxiv.org/abs/2608.04054v1)** | 2026-08-04 |  |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v3)** | 2026-08-03 |  |
@@ -90,7 +91,6 @@ labels: documentation
 | **[LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence](https://arxiv.org/abs/2606.11877v1)** | 2026-06-10 | 20 pages |
 | **[MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion](https://arxiv.org/abs/2509.17446v4)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs](https://arxiv.org/abs/2605.31370v1)** | 2026-05-29 | Under Review |
-| **[Joint Object Tracking and Intent Recognition](https://arxiv.org/abs/2311.06139v3)** | 2026-05-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Aerospace and Electronic Systems (T-AES)</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models](https://arxiv.org/abs/2511.18852v2)** | 2026-08-09 |  |
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
 | **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
@@ -128,5 +129,4 @@ labels: documentation
 | **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v2)** | 2026-07-15 | <details><summary>The p...</summary><p>The publishing of this preprint is contextual with the ACL ARR cycle system. After an encouraging review in January we revised and submit the paper on Arxiv. However, a new batch of reviewers raised additional issues that will lead to significant revisions of the experimental setting. Therefore, we decide to withdraw the manuscript</p></details> |
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
 | **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
-| **[FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks](https://arxiv.org/abs/2607.11279v1)** | 2026-07-13 |  |
 

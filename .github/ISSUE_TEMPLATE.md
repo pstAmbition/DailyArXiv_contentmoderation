@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -114,6 +114,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
+| **[Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning](https://arxiv.org/abs/2608.11806v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society). 13 pages, 4 figures, 5 tables. This arXiv version includes the full appendix</p></details> |
+| **[Stigma and Support in Online Sexual Violence Narratives on Reddit](https://arxiv.org/abs/2608.11433v1)** | 2026-08-11 | <details><summary>37th ...</summary><p>37th ACM Conference on Hypertext (HT '26)</p></details> |
 | **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models](https://arxiv.org/abs/2511.18852v2)** | 2026-08-09 |  |
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
@@ -126,7 +129,4 @@ labels: documentation
 | **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v1)** | 2026-07-22 |  |
 | **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for the CC-MMD Grand Challenge at the 28th ACM International Conference on Multimodal Interaction (ICMI 2026)</p></details> |
 | **[It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance](https://arxiv.org/abs/2607.12149v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the Mensch und Computer (MuC) 2026 Workshop "Human-Centered Content Moderation: Expertise, Context & Evaluation"</p></details> |
-| **[The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction](https://arxiv.org/abs/2606.02911v2)** | 2026-07-15 | <details><summary>The p...</summary><p>The publishing of this preprint is contextual with the ACL ARR cycle system. After an encouraging review in January we revised and submit the paper on Arxiv. However, a new batch of reviewers raised additional issues that will lead to significant revisions of the experimental setting. Therefore, we decide to withdraw the manuscript</p></details> |
-| **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
-| **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
 

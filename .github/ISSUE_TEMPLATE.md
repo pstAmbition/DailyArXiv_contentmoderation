@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,8 +27,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v3)** | 2026-08-12 | 13 pages |
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v2)** | 2026-08-11 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
-| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v2)** | 2026-08-10 | 13 pages |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
 | **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models](https://arxiv.org/abs/2510.27152v2)** | 2026-08-13 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
 | **[Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning](https://arxiv.org/abs/2608.11806v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society). 13 pages, 4 figures, 5 tables. This arXiv version includes the full appendix</p></details> |
 | **[Stigma and Support in Online Sexual Violence Narratives on Reddit](https://arxiv.org/abs/2608.11433v1)** | 2026-08-11 | <details><summary>37th ...</summary><p>37th ACM Conference on Hypertext (HT '26)</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[STEMTOX: From Collaborative Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v3)** | 2026-07-22 |  |
 | **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v1)** | 2026-07-22 |  |
 | **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for the CC-MMD Grand Challenge at the 28th ACM International Conference on Multimodal Interaction (ICMI 2026)</p></details> |
-| **[It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance](https://arxiv.org/abs/2607.12149v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the Mensch und Computer (MuC) 2026 Workshop "Human-Centered Content Moderation: Expertise, Context & Evaluation"</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -46,6 +46,7 @@ labels: documentation
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Buy the Rumor, Sell the News: When Is News Priced In?](https://arxiv.org/abs/2608.14014v1)** | 2026-08-14 |  |
 | **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
 | **[Multimodal rumor detection enhanced by external evidence and forgery features](https://arxiv.org/abs/2601.14954v3)** | 2026-07-12 | 20pages,10figures |
 | **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
@@ -60,7 +61,6 @@ labels: documentation
 | **[Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained](https://arxiv.org/abs/2510.27165v1)** | 2025-10-31 | 32 pages,3 figures |
 | **[Towards Constant Time Multi-Call Rumor Spreading on Small-Set Expanders](https://arxiv.org/abs/2508.18017v2)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear at DISC 2025</p></details> |
 | **[TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities](https://arxiv.org/abs/2509.19352v1)** | 2025-09-18 |  |
-| **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v2)** | 2026-08-14 |  |
+| **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v2)** | 2026-08-13 |  |
+| **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v1)** | 2026-08-13 |  |
 | **[Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models](https://arxiv.org/abs/2510.27152v2)** | 2026-08-13 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
 | **[Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning](https://arxiv.org/abs/2608.11806v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society). 13 pages, 4 figures, 5 tables. This arXiv version includes the full appendix</p></details> |
@@ -126,7 +129,4 @@ labels: documentation
 | **[Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting](https://arxiv.org/abs/2607.26200v1)** | 2026-07-28 |  |
 | **[Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v3)** | 2026-07-27 |  |
 | **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
-| **[STEMTOX: From Collaborative Tags to Fine-Grained Toxic Meme Detection via Entropy-Guided Multi-Task Learning](https://arxiv.org/abs/2508.04166v3)** | 2026-07-22 |  |
-| **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v1)** | 2026-07-22 |  |
-| **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for the CC-MMD Grand Challenge at the 28th ACM International Conference on Multimodal Interaction (ICMI 2026)</p></details> |
 

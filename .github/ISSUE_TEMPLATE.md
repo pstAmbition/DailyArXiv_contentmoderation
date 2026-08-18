@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BERTopic-Virality Prioritisation: A Scalable Framework for Thematic and Comparative Analysis of COVID-19 and Monkeypox Misinformation on Twitter](https://arxiv.org/abs/2608.15691v1)** | 2026-08-16 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables. Preprint</p></details> |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v3)** | 2026-08-12 | 13 pages |
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v2)** | 2026-08-11 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
@@ -41,7 +42,6 @@ labels: documentation
 | **[Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)](https://arxiv.org/abs/2607.12336v1)** | 2026-07-14 | 39 pages |
 | **[Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity](https://arxiv.org/abs/2607.02734v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication as a book chapter (Taylor & Francis, 2026)</p></details> |
 | **[Data Provenance for Image Auto-Regressive Generation](https://arxiv.org/abs/2606.28386v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v1)** | 2026-06-02 | 52 pages |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -76,10 +76,10 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v4)** | 2026-08-16 |  |
 | **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition](https://arxiv.org/abs/2608.03475v1)** | 2026-08-04 |  |
 | **[Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding](https://arxiv.org/abs/2608.04054v1)** | 2026-08-04 |  |
-| **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v3)** | 2026-08-03 |  |
 | **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 19th International Workshop on Human-Friendly Robotics (HFR 2026), Trento, Italy. The paper will appear in Springer's Proceedings in Advanced Robotics</p></details> |
 | **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
@@ -114,6 +114,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **["If It Looks Like a User": Measuring Real-Time Moderation Effects via Social Media Simulation](https://arxiv.org/abs/2608.16601v1)** | 2026-08-17 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables. Accepted for presentation at the Social Simulation Conference (SSC) 2026</p></details> |
+| **[Predicting, Evaluating, and Explaining Top Misinformation Spreaders via Archetypal User Behavior](https://arxiv.org/abs/2608.16323v1)** | 2026-08-17 | <details><summary>48 pa...</summary><p>48 pages. Published version: Online Social Networks and Media 50 (2025) 100336</p></details> |
+| **[When AI Rewrites, Classifiers Relax: Uncertainty-Aware Sentiment Analysis on Sarcastic and AI-Paraphrased Social Text](https://arxiv.org/abs/2608.15338v1)** | 2026-08-15 |  |
 | **[When Transparency Falls Short: Auditing Platform Moderation During a High-Stakes Election](https://arxiv.org/abs/2604.19285v2)** | 2026-08-14 |  |
 | **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v2)** | 2026-08-13 |  |
 | **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v1)** | 2026-08-13 |  |
@@ -126,7 +129,4 @@ labels: documentation
 | **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
 | **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
 | **[Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](https://arxiv.org/abs/2607.26236v1)** | 2026-07-28 | <details><summary>This ...</summary><p>This work is an extension of this conference paper: Cima, L., Miaschi, A., Trujillo, A., Avvenuti, M., Dell'Orletta, F., & Cresci, S. (2025, April). Contextualized counterspeech: Strategies for adaptation, personalization, and evaluation. In Proceedings of the ACM on Web Conference 2025 (pp. 5022-5033)</p></details> |
-| **[Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting](https://arxiv.org/abs/2607.26200v1)** | 2026-07-28 |  |
-| **[Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v3)** | 2026-07-27 |  |
-| **[Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails](https://arxiv.org/abs/2607.23739v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to the 21st International AAAI Conference on Web and Social Media (ICWSM 2027)</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,7 +76,9 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Aslema at NADI 2026: Augmentation through Fewshot for SLU](https://arxiv.org/abs/2608.18689v1)** | 2026-08-19 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
+| **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v1)** | 2026-08-24 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
+| **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by CSEE Journal of Power and Energy Systems in June 2026</p></details> |
+| **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v2)** | 2026-08-23 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v4)** | 2026-08-16 |  |
 | **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[Beyond Document Retrieval: Architectural Challenges When LLM Agents Query Structured Enterprise Data](https://arxiv.org/abs/2608.19235v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures</p></details> |
@@ -89,8 +91,6 @@ labels: documentation
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users](https://arxiv.org/abs/2606.24910v1)** | 2026-06-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), August 24-28, 2026, Kitakyushu, Japan</p></details> |
-| **[TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](https://arxiv.org/abs/2604.28076v2)** | 2026-06-17 |  |
-| **[LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence](https://arxiv.org/abs/2606.11877v1)** | 2026-06-10 | 20 pages |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,11 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gated Decoupled Compositional Bandits: A Unified Theory of Contextual Bandits with Supervised-Calibrated Action Scaling and Pre-Execution Gating](https://arxiv.org/abs/2608.21993v1)** | 2026-08-22 | 30 pages, 4 figures |
+| **[Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings](https://arxiv.org/abs/2507.12295v2)** | 2026-08-22 |  |
+| **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://arxiv.org/abs/2608.21775v1)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Track</p></details> |
+| **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v2)** | 2026-08-21 |  |
+| **[Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models](https://arxiv.org/abs/2501.13976v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ICWSM 2027 Main Conference</p></details> |
 | **[Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions](https://arxiv.org/abs/2608.20649v1)** | 2026-08-21 |  |
 | **["If It Looks Like a User": Measuring Real-Time Moderation Effects via Social Media Simulation](https://arxiv.org/abs/2608.16601v1)** | 2026-08-17 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables. Accepted for presentation at the Social Simulation Conference (SSC) 2026</p></details> |
 | **[Predicting, Evaluating, and Explaining Top Misinformation Spreaders via Archetypal User Behavior](https://arxiv.org/abs/2608.16323v1)** | 2026-08-17 | <details><summary>48 pa...</summary><p>48 pages. Published version: Online Social Networks and Media 50 (2025) 100336</p></details> |
@@ -124,9 +129,4 @@ labels: documentation
 | **[Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models](https://arxiv.org/abs/2510.27152v2)** | 2026-08-13 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
 | **[Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning](https://arxiv.org/abs/2608.11806v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society). 13 pages, 4 figures, 5 tables. This arXiv version includes the full appendix</p></details> |
-| **[Stigma and Support in Online Sexual Violence Narratives on Reddit](https://arxiv.org/abs/2608.11433v1)** | 2026-08-11 | <details><summary>37th ...</summary><p>37th ACM Conference on Hypertext (HT '26)</p></details> |
-| **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
-| **[FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models](https://arxiv.org/abs/2511.18852v2)** | 2026-08-09 |  |
-| **[Shieldstral](https://arxiv.org/abs/2607.25857v2)** | 2026-08-04 |  |
-| **[Old Tricks, New Models: How Simple Image Transformations Break Modern AI-based Content Moderation](https://arxiv.org/abs/2607.28187v1)** | 2026-07-30 |  |
 

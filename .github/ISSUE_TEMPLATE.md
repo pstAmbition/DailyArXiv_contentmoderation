@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v1)** | 2026-08-25 |  |
 | **[Gated Decoupled Compositional Bandits: A Unified Theory of Contextual Bandits with Supervised-Calibrated Action Scaling and Pre-Execution Gating](https://arxiv.org/abs/2608.21993v1)** | 2026-08-22 | 30 pages, 4 figures |
 | **[Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings](https://arxiv.org/abs/2507.12295v2)** | 2026-08-22 |  |
 | **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://arxiv.org/abs/2608.21775v1)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Track</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v1)** | 2026-08-13 |  |
 | **[Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models](https://arxiv.org/abs/2510.27152v2)** | 2026-08-13 |  |
 | **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
-| **[Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning](https://arxiv.org/abs/2608.11806v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society). 13 pages, 4 figures, 5 tables. This arXiv version includes the full appendix</p></details> |
 

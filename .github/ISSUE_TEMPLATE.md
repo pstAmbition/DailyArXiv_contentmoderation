@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -95,6 +95,7 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Dataset Stability of Expert-Informed Skill Prompting and Fine-Tuning for Chinese Metaphor Identification](https://arxiv.org/abs/2608.25579v1)** | 2026-08-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 5 tables</p></details> |
 | **[LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v2)** | 2026-07-21 |  |
 | **[A Reproducible Multi-Architecture Baseline for Token-Level Chinese Metaphor Identification under the MIPVU Framework](https://arxiv.org/abs/2605.07170v1)** | 2026-05-08 |  |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
@@ -109,7 +110,6 @@ labels: documentation
 | **[Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195v3)** | 2022-08-17 |  |
 | **[MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615v1)** | 2021-04-28 | <details><summary>In Pr...</summary><p>In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics. 11 pages</p></details> |
 | **[Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification](https://arxiv.org/abs/2104.03285v1)** | 2021-04-07 |  |
-| **[Contextual Modulation for Relation-Level Metaphor Identification](https://arxiv.org/abs/2010.05633v1)** | 2020-10-12 | <details><summary>accep...</summary><p>accepted at Findings of EMNLP 2020</p></details> |
 
 ## Content Moderation
 | **Title** | **Date** | **Comment** |

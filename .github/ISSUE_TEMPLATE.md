@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,7 +76,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v1)** | 2026-08-24 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
+| **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
+| **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222v1)** | 2026-08-26 |  |
 | **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by CSEE Journal of Power and Energy Systems in June 2026</p></details> |
 | **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v2)** | 2026-08-23 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v4)** | 2026-08-16 |  |
@@ -90,7 +91,6 @@ labels: documentation
 | **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 | **[Temporal Posed and Spontaneous Gesture Recognition from Electromyography in the Rock-Paper-Scissors Game](https://arxiv.org/abs/2606.29423v1)** | 2026-06-28 | Accepted by ACII2025 |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](https://arxiv.org/abs/2503.21477v3)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users](https://arxiv.org/abs/2606.24910v1)** | 2026-06-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), August 24-28, 2026, Kitakyushu, Japan</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v5)** | 2026-08-27 | <details><summary>47 pa...</summary><p>47 pages, 13 figures, 13 tables</p></details> |
 | **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v1)** | 2026-08-25 |  |
 | **[Gated Decoupled Compositional Bandits: A Unified Theory of Contextual Bandits with Supervised-Calibrated Action Scaling and Pre-Execution Gating](https://arxiv.org/abs/2608.21993v1)** | 2026-08-22 | 30 pages, 4 figures |
 | **[Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings](https://arxiv.org/abs/2507.12295v2)** | 2026-08-22 |  |
@@ -128,5 +129,4 @@ labels: documentation
 | **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v2)** | 2026-08-13 |  |
 | **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v1)** | 2026-08-13 |  |
 | **[Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models](https://arxiv.org/abs/2510.27152v2)** | 2026-08-13 |  |
-| **[Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](https://arxiv.org/abs/2603.13891v2)** | 2026-08-12 | <details><summary>Withd...</summary><p>Withdrawn by the author due to a confound in stimulus assignment that invalidates the main results; addressing it requires re-running the experiment with matched stimuli</p></details> |
 

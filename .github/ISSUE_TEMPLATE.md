@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
 | **[Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection](https://arxiv.org/abs/2608.29617v1)** | 2026-08-30 |  |
 | **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
 | **[Towards Safer RAG: Only Agents Capable of System 2 Thinking may Access Untrusted Documents](https://arxiv.org/abs/2608.17153v1)** | 2026-08-17 |  |
@@ -41,7 +42,6 @@ labels: documentation
 | **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
 | **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
 | **[DeLIVeR: Decomposed Learning for Information-grounded Veracity Recognition via Reinforced Knowledge Graph Exploration](https://arxiv.org/abs/2607.17935v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to 7th International Conference on Deep Learning Theory and Applications (DeLTA 2026)</p></details> |
-| **[Financial Audit Assistance using Misinformation Detection and Explanation](https://arxiv.org/abs/2607.17797v1)** | 2026-07-20 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -76,6 +76,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
 | **[SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos](https://arxiv.org/abs/2608.30716v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 11 figures, 11 tables</p></details> |
 | **[Leveraging Turn-taking Dynamics for Intent Recognition in Multi-party Conversations](https://arxiv.org/abs/2608.28926v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP Industry Track 2026</p></details> |
 | **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
@@ -90,7 +91,6 @@ labels: documentation
 | **[From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety](https://arxiv.org/abs/2510.03314v2)** | 2026-07-25 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 19th International Workshop on Human-Friendly Robotics (HFR 2026), Trento, Italy. The paper will appear in Springer's Proceedings in Advanced Robotics</p></details> |
 | **[Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance](https://arxiv.org/abs/2603.06121v2)** | 2026-07-03 | 8 pages, 6 figures |
-| **[ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion](https://arxiv.org/abs/2507.05624v2)** | 2026-07-02 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to the findings of EMNLP 2026</p></details> |
+| **[Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online](https://arxiv.org/abs/2609.00808v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026)</p></details> |
+| **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v2)** | 2026-08-31 | <details><summary>To ap...</summary><p>To appear at the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2026</p></details> |
 | **[Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment](https://arxiv.org/abs/2608.30842v1)** | 2026-08-31 | <details><summary>Publi...</summary><p>Published at ACL SRW 2026: https://aclanthology.org/2026.acl-srw.74/</p></details> |
 | **[SkillZip Pro: Execution-Aware Dynamic Compression of Progressively Loaded Skills for Self-Evolving Agents](https://arxiv.org/abs/2608.30785v1)** | 2026-08-31 |  |
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v2)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
@@ -126,7 +129,4 @@ labels: documentation
 | **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v2)** | 2026-08-21 |  |
 | **[Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models](https://arxiv.org/abs/2501.13976v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ICWSM 2027 Main Conference</p></details> |
 | **[Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions](https://arxiv.org/abs/2608.20649v1)** | 2026-08-21 |  |
-| **["If It Looks Like a User": Measuring Real-Time Moderation Effects via Social Media Simulation](https://arxiv.org/abs/2608.16601v1)** | 2026-08-17 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables. Accepted for presentation at the Social Simulation Conference (SSC) 2026</p></details> |
-| **[Predicting, Evaluating, and Explaining Top Misinformation Spreaders via Archetypal User Behavior](https://arxiv.org/abs/2608.16323v1)** | 2026-08-17 | <details><summary>48 pa...</summary><p>48 pages. Published version: Online Social Networks and Media 50 (2025) 100336</p></details> |
-| **[When AI Rewrites, Classifiers Relax: Uncertainty-Aware Sentiment Analysis on Sarcastic and AI-Paraphrased Social Text](https://arxiv.org/abs/2608.15338v1)** | 2026-08-15 |  |
 

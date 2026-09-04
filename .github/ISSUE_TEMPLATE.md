@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Criterion-Conditioned Behaviour of Large Language Models in Content Moderation](https://arxiv.org/abs/2609.03814v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP Findings 2026</p></details> |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to the findings of EMNLP 2026</p></details> |
 | **[Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online](https://arxiv.org/abs/2609.00808v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026)</p></details> |
 | **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v2)** | 2026-08-31 | <details><summary>To ap...</summary><p>To appear at the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2026</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://arxiv.org/abs/2608.21775v1)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Track</p></details> |
 | **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v2)** | 2026-08-21 |  |
 | **[Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models](https://arxiv.org/abs/2501.13976v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ICWSM 2027 Main Conference</p></details> |
-| **[Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions](https://arxiv.org/abs/2608.20649v1)** | 2026-08-21 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 06, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,12 +27,12 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v4)** | 2026-09-03 | 13 pages |
 | **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
 | **[Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection](https://arxiv.org/abs/2608.29617v1)** | 2026-08-30 |  |
 | **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
 | **[Towards Safer RAG: Only Agents Capable of System 2 Thinking may Access Untrusted Documents](https://arxiv.org/abs/2608.17153v1)** | 2026-08-17 |  |
 | **[BERTopic-Virality Prioritisation: A Scalable Framework for Thematic and Comparative Analysis of COVID-19 and Monkeypox Misinformation on Twitter](https://arxiv.org/abs/2608.15691v1)** | 2026-08-16 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables. Preprint</p></details> |
-| **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v3)** | 2026-08-12 | 13 pages |
 | **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v2)** | 2026-08-11 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
@@ -114,6 +114,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hatebench in the era of safer LLMs](https://arxiv.org/abs/2609.05169v1)** | 2026-09-04 |  |
+| **[Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets](https://arxiv.org/abs/2609.04373v1)** | 2026-09-03 | 14 pages, 4 figures |
 | **[Evaluating Criterion-Conditioned Behaviour of Large Language Models in Content Moderation](https://arxiv.org/abs/2609.03814v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP Findings 2026</p></details> |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to the findings of EMNLP 2026</p></details> |
 | **[Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online](https://arxiv.org/abs/2609.00808v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026)</p></details> |
@@ -127,6 +129,4 @@ labels: documentation
 | **[Gated Decoupled Compositional Bandits: A Unified Theory of Contextual Bandits with Supervised-Calibrated Action Scaling and Pre-Execution Gating](https://arxiv.org/abs/2608.21993v1)** | 2026-08-22 | 30 pages, 4 figures |
 | **[Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings](https://arxiv.org/abs/2507.12295v2)** | 2026-08-22 |  |
 | **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://arxiv.org/abs/2608.21775v1)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Track</p></details> |
-| **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v2)** | 2026-08-21 |  |
-| **[Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models](https://arxiv.org/abs/2501.13976v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ICWSM 2027 Main Conference</p></details> |
 

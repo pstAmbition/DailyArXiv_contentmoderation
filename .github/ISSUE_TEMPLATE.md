@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,6 +76,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v4)** | 2026-09-09 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
 | **[Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts](https://arxiv.org/abs/2609.10135v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by ISPDS 2025</p></details> |
@@ -86,7 +87,6 @@ labels: documentation
 | **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
 | **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222v1)** | 2026-08-26 |  |
 | **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by CSEE Journal of Power and Energy Systems in June 2026</p></details> |
-| **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v2)** | 2026-08-23 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v4)** | 2026-08-16 |  |
 | **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[Beyond Document Retrieval: Architectural Challenges When LLM Agents Query Structured Enterprise Data](https://arxiv.org/abs/2608.19235v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures</p></details> |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Characterizing Bluesky Content Moderation Service: From Automation of Service to Landscape of Harms](https://arxiv.org/abs/2609.11373v1)** | 2026-09-10 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 12 tables. Accepted for publication at ICWSM 2027</p></details> |
 | **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v2)** | 2026-09-09 |  |
 | **[Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](https://arxiv.org/abs/2609.10410v1)** | 2026-09-09 | <details><summary>33 pa...</summary><p>33 pages, 28 figures, 8 tables</p></details> |
 | **[Do Input-Level Defenses Transfer to Observation-Level Attacks on VideoLLMs?](https://arxiv.org/abs/2609.08331v1)** | 2026-09-08 | <details><summary>Prepr...</summary><p>Preprint. Under review at IEEE Transactions on Dependable and Secure Computing. 13 pages, 1 figure, 6 tables</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v2)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[EvoHarmBench: Breaking Content Moderation with Iterative Human-Like Evasion](https://arxiv.org/abs/2608.27844v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to the Findings of EMNLP 2026</p></details> |
 | **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v5)** | 2026-08-27 | <details><summary>47 pa...</summary><p>47 pages, 13 figures, 13 tables</p></details> |
-| **[Gated Decoupled Compositional Bandits: A Unified Theory of Contextual Bandits with Supervised-Calibrated Action Scaling and Pre-Execution Gating](https://arxiv.org/abs/2608.21993v1)** | 2026-08-22 | 30 pages, 4 figures |
 

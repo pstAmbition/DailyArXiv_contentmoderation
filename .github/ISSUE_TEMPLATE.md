@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A parameter-efficient three-branch architecture for multimodal misinformation detection with limited annotations](https://arxiv.org/abs/2512.20257v2)** | 2026-09-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at https://github.com/ALCOR-Lab-DIAG/LADLE-MM</p></details> |
 | **[Overview of ROMCIR 2026: The 6th Workshop on Reducing Online Misinformation through Credible Information Retrieval](https://arxiv.org/abs/2609.05684v1)** | 2026-09-04 |  |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v4)** | 2026-09-03 | 13 pages |
 | **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
@@ -41,7 +42,6 @@ labels: documentation
 | **[Latent States in Neural Networks: Recovering the Temporal Structure of Drifting Data from Model Weights](https://arxiv.org/abs/2607.27482v1)** | 2026-07-29 |  |
 | **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
 | **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
-| **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -95,6 +95,7 @@ labels: documentation
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AraMIP: Extending MIPVU Towards Metaphor Identification in Arabic](https://arxiv.org/abs/2609.17235v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at the Fourth Arabic Natural Language Processing Conference (ArabicNLP 2026), co-located with EMNLP 2026</p></details> |
 | **[Cross-Dataset Stability of Expert-Informed Skill Prompting and Fine-Tuning for Chinese Metaphor Identification](https://arxiv.org/abs/2608.25579v1)** | 2026-08-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 5 tables</p></details> |
 | **[LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v2)** | 2026-07-21 |  |
 | **[A Reproducible Multi-Architecture Baseline for Token-Level Chinese Metaphor Identification under the MIPVU Framework](https://arxiv.org/abs/2605.07170v1)** | 2026-05-08 |  |
@@ -109,14 +110,15 @@ labels: documentation
 | **[Adversarial Multi-task Learning for End-to-end Metaphor Detection](https://arxiv.org/abs/2305.16638v1)** | 2023-05-26 | <details><summary>Findi...</summary><p>Findings of ACL 2023 Accepted</p></details> |
 | **[Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195v3)** | 2022-08-17 |  |
 | **[MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615v1)** | 2021-04-28 | <details><summary>In Pr...</summary><p>In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics. 11 pages</p></details> |
-| **[Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification](https://arxiv.org/abs/2104.03285v1)** | 2021-04-07 |  |
 
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v2)** | 2026-09-15 |  |
+| **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v2)** | 2026-09-13 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
+| **[Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](https://arxiv.org/abs/2609.10410v2)** | 2026-09-11 | <details><summary>33 pa...</summary><p>33 pages, 28 figures, 8 tables</p></details> |
 | **[Characterizing Bluesky Content Moderation Service: From Automation of Service to Landscape of Harms](https://arxiv.org/abs/2609.11373v1)** | 2026-09-10 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 12 tables. Accepted for publication at ICWSM 2027</p></details> |
 | **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v2)** | 2026-09-09 |  |
-| **[Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](https://arxiv.org/abs/2609.10410v1)** | 2026-09-09 | <details><summary>33 pa...</summary><p>33 pages, 28 figures, 8 tables</p></details> |
 | **[Do Input-Level Defenses Transfer to Observation-Level Attacks on VideoLLMs?](https://arxiv.org/abs/2609.08331v1)** | 2026-09-08 | <details><summary>Prepr...</summary><p>Preprint. Under review at IEEE Transactions on Dependable and Secure Computing. 13 pages, 1 figure, 6 tables</p></details> |
 | **[Hatebench in the era of safer LLMs](https://arxiv.org/abs/2609.05169v1)** | 2026-09-04 |  |
 | **[Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets](https://arxiv.org/abs/2609.04373v1)** | 2026-09-03 | 14 pages, 4 figures |
@@ -127,6 +129,4 @@ labels: documentation
 | **[Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment](https://arxiv.org/abs/2608.30842v1)** | 2026-08-31 | <details><summary>Publi...</summary><p>Published at ACL SRW 2026: https://aclanthology.org/2026.acl-srw.74/</p></details> |
 | **[SkillZip Pro: Execution-Aware Dynamic Compression of Progressively Loaded Skills for Self-Evolving Agents](https://arxiv.org/abs/2608.30785v1)** | 2026-08-31 |  |
 | **[When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269v2)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
-| **[EvoHarmBench: Breaking Content Moderation with Iterative Human-Like Evasion](https://arxiv.org/abs/2608.27844v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to the Findings of EMNLP 2026</p></details> |
-| **[Understanding the Challenges and Opportunities of Generative AI Apps: An Empirical Study](https://arxiv.org/abs/2506.16453v5)** | 2026-08-27 | <details><summary>47 pa...</summary><p>47 pages, 13 figures, 13 tables</p></details> |
 

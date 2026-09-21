@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,6 +76,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v3)** | 2026-09-18 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
+| **[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars](https://arxiv.org/abs/2609.21109v1)** | 2026-09-17 |  |
 | **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v4)** | 2026-09-09 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
@@ -84,13 +86,11 @@ labels: documentation
 | **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
 | **[SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos](https://arxiv.org/abs/2608.30716v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 11 figures, 11 tables</p></details> |
 | **[Leveraging Turn-taking Dynamics for Intent Recognition in Multi-party Conversations](https://arxiv.org/abs/2608.28926v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP Industry Track 2026</p></details> |
-| **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
 | **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222v1)** | 2026-08-26 |  |
 | **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by CSEE Journal of Power and Energy Systems in June 2026</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v4)** | 2026-08-16 |  |
 | **[A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models](https://arxiv.org/abs/2608.10939v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Advanced Computer Information Technologies (ACIT 2026), https://acit.tech/</p></details> |
 | **[Beyond Document Retrieval: Architectural Challenges When LLM Agents Query Structured Enterprise Data](https://arxiv.org/abs/2608.19235v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures</p></details> |
-| **[Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition](https://arxiv.org/abs/2608.03475v1)** | 2026-08-04 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Available Guardrails: Certifying Selective Prediction across ML Systems](https://arxiv.org/abs/2609.22048v1)** | 2026-09-18 |  |
 | **[Control-Theoretic Content Moderation](https://arxiv.org/abs/2609.18822v1)** | 2026-09-16 |  |
 | **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v2)** | 2026-09-15 |  |
 | **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v2)** | 2026-09-13 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online](https://arxiv.org/abs/2609.00808v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026)</p></details> |
 | **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v2)** | 2026-08-31 | <details><summary>To ap...</summary><p>To appear at the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2026</p></details> |
 | **[Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment](https://arxiv.org/abs/2608.30842v1)** | 2026-08-31 | <details><summary>Publi...</summary><p>Published at ACL SRW 2026: https://aclanthology.org/2026.acl-srw.74/</p></details> |
-| **[SkillZip Pro: Execution-Aware Dynamic Compression of Progressively Loaded Skills for Self-Evolving Agents](https://arxiv.org/abs/2608.30785v1)** | 2026-08-31 |  |
 

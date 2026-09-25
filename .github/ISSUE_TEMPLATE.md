@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](https://arxiv.org/abs/2609.30227v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP (Main) 2026</p></details> |
 | **[A parameter-efficient three-branch architecture for multimodal misinformation detection with limited annotations](https://arxiv.org/abs/2512.20257v2)** | 2026-09-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at https://github.com/ALCOR-Lab-DIAG/LADLE-MM</p></details> |
 | **[Overview of ROMCIR 2026: The 6th Workshop on Reducing Online Misinformation through Credible Information Retrieval](https://arxiv.org/abs/2609.05684v1)** | 2026-09-04 |  |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v4)** | 2026-09-03 | 13 pages |
@@ -41,7 +42,6 @@ labels: documentation
 | **[Latent States in Neural Networks: Recovering the Temporal Structure of Drifting Data from Model Weights](https://arxiv.org/abs/2607.27482v1)** | 2026-07-29 |  |
 | **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
 | **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
-| **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v1)** | 2026-07-24 | Accepted at ICMLA |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -88,9 +88,9 @@ labels: documentation
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
 | **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
 | **[SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos](https://arxiv.org/abs/2608.30716v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 11 figures, 11 tables</p></details> |
+| **[TransCAVE-E: A distributed virtual reality testbed for adaptive external human-machine interfaces](https://arxiv.org/abs/2609.29686v1)** | 2026-08-30 |  |
 | **[Leveraging Turn-taking Dynamics for Intent Recognition in Multi-party Conversations](https://arxiv.org/abs/2608.28926v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP Industry Track 2026</p></details> |
 | **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222v1)** | 2026-08-26 |  |
-| **[One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing](https://arxiv.org/abs/2511.12484v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by CSEE Journal of Power and Energy Systems in June 2026</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Explainable DistilBERT-BiLSTM-Attention Framework for Binary and Multi-Class Hate Speech Detection](https://arxiv.org/abs/2609.28703v1)** | 2026-09-23 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 6 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v3)** | 2026-09-21 |  |
 | **[Available Guardrails: Certifying Selective Prediction across ML Systems](https://arxiv.org/abs/2609.22048v1)** | 2026-09-18 |  |
 | **[Control-Theoretic Content Moderation](https://arxiv.org/abs/2609.18822v1)** | 2026-09-16 |  |
@@ -128,5 +129,4 @@ labels: documentation
 | **[Evaluating Criterion-Conditioned Behaviour of Large Language Models in Content Moderation](https://arxiv.org/abs/2609.03814v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP Findings 2026</p></details> |
 | **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to the findings of EMNLP 2026</p></details> |
 | **[Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online](https://arxiv.org/abs/2609.00808v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026)</p></details> |
-| **["I Thought You Were The Uncensored Place": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities](https://arxiv.org/abs/2608.13659v2)** | 2026-08-31 | <details><summary>To ap...</summary><p>To appear at the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2026</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -27,6 +27,9 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Effects of Transcript Compression on LLM-based Medical Misinformation Detection in Japanese YouTube Videos](https://arxiv.org/abs/2609.30882v1)** | 2026-09-25 | <details><summary>15 pa...</summary><p>15 pages. Accepted at the 18th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2026), Multidisciplinary Track, Short Paper</p></details> |
+| **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v1)** | 2026-09-25 |  |
+| **[What Improves Multimodal Misinformation Detection? Answers from a Large-Scale Empirical Study](https://arxiv.org/abs/2609.30402v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at the Tenth Widening NLP Workshop (WiNLP), co-located with EMNLP 2026</p></details> |
 | **[To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](https://arxiv.org/abs/2609.30227v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP (Main) 2026</p></details> |
 | **[A parameter-efficient three-branch architecture for multimodal misinformation detection with limited annotations](https://arxiv.org/abs/2512.20257v2)** | 2026-09-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at https://github.com/ALCOR-Lab-DIAG/LADLE-MM</p></details> |
 | **[Overview of ROMCIR 2026: The 6th Workshop on Reducing Online Misinformation through Credible Information Retrieval](https://arxiv.org/abs/2609.05684v1)** | 2026-09-04 |  |
@@ -39,9 +42,6 @@ labels: documentation
 | **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 | **[HyperClaim: Fine-Grained Cross-Modal Hypergraph Reasoning for Video Misinformation Detection](https://arxiv.org/abs/2607.28375v1)** | 2026-07-30 | <details><summary>13 pa...</summary><p>13 pages, including supplementary material</p></details> |
 | **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2509.25991v3)** | 2026-07-30 |  |
-| **[Latent States in Neural Networks: Recovering the Temporal Structure of Drifting Data from Model Weights](https://arxiv.org/abs/2607.27482v1)** | 2026-07-29 |  |
-| **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
-| **[Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection](https://arxiv.org/abs/2607.23581v1)** | 2026-07-26 |  |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |

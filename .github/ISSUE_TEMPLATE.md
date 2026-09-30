@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -76,6 +76,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.36254v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v5)** | 2026-09-28 |  |
 | **[When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions](https://arxiv.org/abs/2609.27560v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Technical Communications. 6 pages</p></details> |
 | **[Quieter Than the Room: Representation Drift and Task Robustness in Speech Encoders](https://arxiv.org/abs/2609.27195v1)** | 2026-09-23 |  |
@@ -90,7 +91,6 @@ labels: documentation
 | **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
 | **[SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos](https://arxiv.org/abs/2608.30716v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 11 figures, 11 tables</p></details> |
 | **[TransCAVE-E: A distributed virtual reality testbed for adaptive external human-machine interfaces](https://arxiv.org/abs/2609.29686v1)** | 2026-08-30 |  |
-| **[Leveraging Turn-taking Dynamics for Intent Recognition in Multi-party Conversations](https://arxiv.org/abs/2608.28926v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP Industry Track 2026</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -114,6 +114,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v3)** | 2026-09-28 |  |
 | **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](https://arxiv.org/abs/2505.04600v3)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 interactive figures</p></details> |
 | **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v3)** | 2026-09-27 |  |
 | **[Agent Safety From Within: Detecting Harmful Trajectories from LLM Internal States](https://arxiv.org/abs/2609.33039v1)** | 2026-09-27 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 9 tables</p></details> |
@@ -128,5 +129,4 @@ labels: documentation
 | **[Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](https://arxiv.org/abs/2609.10410v2)** | 2026-09-11 | <details><summary>33 pa...</summary><p>33 pages, 28 figures, 8 tables</p></details> |
 | **[Characterizing Bluesky Content Moderation Service: From Automation of Service to Landscape of Harms](https://arxiv.org/abs/2609.11373v1)** | 2026-09-10 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 12 tables. Accepted for publication at ICWSM 2027</p></details> |
 | **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v2)** | 2026-09-09 |  |
-| **[Do Input-Level Defenses Transfer to Observation-Level Attacks on VideoLLMs?](https://arxiv.org/abs/2609.08331v1)** | 2026-09-08 | <details><summary>Prepr...</summary><p>Preprint. Under review at IEEE Transactions on Dependable and Secure Computing. 13 pages, 1 figure, 6 tables</p></details> |
 

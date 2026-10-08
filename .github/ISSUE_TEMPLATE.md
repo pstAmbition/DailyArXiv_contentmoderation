@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Harmful video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CCDF: A Benchmark Dataset for Deepfake Detection in Real-World Surveillance Footage](https://arxiv.org/abs/2610.07939v1)** | 2026-10-06 |  |
 | **[Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization](https://arxiv.org/abs/2610.02019v1)** | 2026-10-01 |  |
 | **[V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](https://arxiv.org/abs/2607.21151v2)** | 2026-07-26 |  |
 | **[The Body as Status: Muscularity, Engagement, and Body Image Risk on #GymTok](https://arxiv.org/abs/2606.29682v1)** | 2026-06-29 |  |
@@ -28,6 +29,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[No Hindsight for LLM Fact-Checkers: Measuring Leakage Channels in Misinformation Detection](https://arxiv.org/abs/2610.04888v1)** | 2026-10-04 | 11 pages, 5 figures |
+| **[Does Neural Complexity Improve Health Misinformation Detection? A Leakage-Controlled Cross-Corpus Benchmark](https://arxiv.org/abs/2610.04636v1)** | 2026-10-03 | <details><summary>18 pa...</summary><p>18 pages, 3 tables. Reproducibility materials and source code are available from the author</p></details> |
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v2)** | 2026-09-28 | <details><summary>Full ...</summary><p>Full version of the paper published at IJCNN 2026; includes additional experiments and analysis</p></details> |
 | **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Machine Learning and Applications (ICMLA 2026)</p></details> |
 | **[Effects of Transcript Compression on LLM-based Medical Misinformation Detection in Japanese YouTube Videos](https://arxiv.org/abs/2609.30882v1)** | 2026-09-25 | <details><summary>15 pa...</summary><p>15 pages. Accepted at the 18th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2026), Multidisciplinary Track, Short Paper</p></details> |
@@ -41,12 +44,11 @@ labels: documentation
 | **[Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection](https://arxiv.org/abs/2608.29617v1)** | 2026-08-30 |  |
 | **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
 | **[BERTopic-Virality Prioritisation: A Scalable Framework for Thematic and Comparative Analysis of COVID-19 and Monkeypox Misinformation on Twitter](https://arxiv.org/abs/2608.15691v1)** | 2026-08-16 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables. Preprint</p></details> |
-| **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112v2)** | 2026-08-11 | <details><summary>The p...</summary><p>The project is available at https://dang-ai.github.io/ReMMD</p></details> |
-| **[An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification](https://arxiv.org/abs/2608.02310v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, To appear in the Reimagining knowledge systems for digital transformation and sustainable development in the 21st century conference 2026, faculty of social sciences education. Federal University of Education, Zaria</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAFE-MR: Evidence Sufficiency Learning for Selective Multimodal Rumor Detection](https://arxiv.org/abs/2610.06708v1)** | 2026-10-05 |  |
 | **[Buy the Rumor, Sell the News: When Is News Priced In?](https://arxiv.org/abs/2608.14014v1)** | 2026-08-14 |  |
 | **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
 | **[Multimodal rumor detection enhanced by external evidence and forgery features](https://arxiv.org/abs/2601.14954v3)** | 2026-07-12 | 20pages,10figures |
@@ -61,7 +63,6 @@ labels: documentation
 | **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
 | **[Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained](https://arxiv.org/abs/2510.27165v1)** | 2025-10-31 | 32 pages,3 figures |
 | **[Towards Constant Time Multi-Call Rumor Spreading on Small-Set Expanders](https://arxiv.org/abs/2508.18017v2)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear at DISC 2025</p></details> |
-| **[TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities](https://arxiv.org/abs/2509.19352v1)** | 2025-09-18 |  |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -77,6 +78,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v5)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.36254v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v5)** | 2026-09-28 |  |
 | **[When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions](https://arxiv.org/abs/2609.27560v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Technical Communications. 6 pages</p></details> |
@@ -85,7 +87,6 @@ labels: documentation
 | **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v3)** | 2026-09-18 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
 | **[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars](https://arxiv.org/abs/2609.21109v1)** | 2026-09-17 |  |
 | **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
-| **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v4)** | 2026-09-09 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
 | **[Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts](https://arxiv.org/abs/2609.10135v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by ISPDS 2025</p></details> |
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
@@ -115,6 +116,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
+| **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
+| **[How Do People Challenge Racial Stereotypes Online? Counter-Story Detection Across Reddit Communities](https://arxiv.org/abs/2610.04803v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 28 pages, 12 figures, 24 tables. Content warning: this paper contains examples of racial stereotypes that may be upsetting or offensive. Code: https://github.com/UmaGunturi/counter_story_detection</p></details> |
+| **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v2)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted by IEEE JSTSP</p></details> |
 | **[Semantic Watermarking for Malicious Image Manipulation Detection](https://arxiv.org/abs/2609.39623v1)** | 2026-09-30 |  |
 | **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v2)** | 2026-09-30 |  |
 | **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v3)** | 2026-09-28 |  |
@@ -126,8 +131,4 @@ labels: documentation
 | **[An Explainable DistilBERT-BiLSTM-Attention Framework for Binary and Multi-Class Hate Speech Detection](https://arxiv.org/abs/2609.28703v1)** | 2026-09-23 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 6 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v3)** | 2026-09-21 |  |
 | **[Available Guardrails: Certifying Selective Prediction across ML Systems](https://arxiv.org/abs/2609.22048v1)** | 2026-09-18 |  |
-| **[Control-Theoretic Content Moderation](https://arxiv.org/abs/2609.18822v1)** | 2026-09-16 |  |
-| **[RMS@CC-MMD 2026: Multimodal Misogyny Detection via Geometric Interaction and Multi-View Consensus](https://arxiv.org/abs/2607.22709v2)** | 2026-09-15 |  |
-| **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v2)** | 2026-09-13 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
-| **[Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](https://arxiv.org/abs/2609.10410v2)** | 2026-09-11 | <details><summary>33 pa...</summary><p>33 pages, 28 figures, 8 tables</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -116,6 +116,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaptEvo: Adaptive Agent Learning with Evolving Supervision](https://arxiv.org/abs/2610.11354v1)** | 2026-10-08 | 21 pages, 4 figures |
 | **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
 | **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
 | **[How Do People Challenge Racial Stereotypes Online? Counter-Story Detection Across Reddit Communities](https://arxiv.org/abs/2610.04803v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 28 pages, 12 figures, 24 tables. Content warning: this paper contains examples of racial stereotypes that may be upsetting or offensive. Code: https://github.com/UmaGunturi/counter_story_detection</p></details> |
@@ -130,5 +131,4 @@ labels: documentation
 | **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v3)** | 2026-09-26 |  |
 | **[An Explainable DistilBERT-BiLSTM-Attention Framework for Binary and Multi-Class Hate Speech Detection](https://arxiv.org/abs/2609.28703v1)** | 2026-09-23 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 6 tables</p></details> |
 | **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v3)** | 2026-09-21 |  |
-| **[Available Guardrails: Certifying Selective Prediction across ML Systems](https://arxiv.org/abs/2609.22048v1)** | 2026-09-18 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 11, 2026
+title: Latest 15 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -116,6 +116,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184v3)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 14 tables</p></details> |
+| **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v2)** | 2026-10-08 |  |
 | **[AdaptEvo: Adaptive Agent Learning with Evolving Supervision](https://arxiv.org/abs/2610.11354v1)** | 2026-10-08 | 21 pages, 4 figures |
 | **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
 | **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
@@ -129,6 +131,4 @@ labels: documentation
 | **[Agent Safety From Within: Detecting Harmful Trajectories from LLM Internal States](https://arxiv.org/abs/2609.33039v1)** | 2026-09-27 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 9 tables</p></details> |
 | **[MELD: Multi-Task Equilibrated Learning Detector for AI-Generated Text](https://arxiv.org/abs/2605.06903v2)** | 2026-09-26 |  |
 | **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v3)** | 2026-09-26 |  |
-| **[An Explainable DistilBERT-BiLSTM-Attention Framework for Binary and Multi-Class Hate Speech Detection](https://arxiv.org/abs/2609.28703v1)** | 2026-09-23 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 6 tables</p></details> |
-| **[The Benefit of Collective Intelligence in Community-Based Content Moderation is Limited by Overt Political Signalling](https://arxiv.org/abs/2601.22201v3)** | 2026-09-21 |  |
 

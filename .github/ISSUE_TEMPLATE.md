@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing the Performance of AI Models in Misinformation Detection Using Predefined Social Noise Constructs](https://arxiv.org/abs/2610.17469v1)** | 2026-10-12 | <details><summary>22 pa...</summary><p>22 pages, 12 tables, 2 figures and one Appendix</p></details> |
 | **[No Hindsight for LLM Fact-Checkers: Measuring Leakage Channels in Misinformation Detection](https://arxiv.org/abs/2610.04888v1)** | 2026-10-04 | 11 pages, 5 figures |
 | **[Does Neural Complexity Improve Health Misinformation Detection? A Leakage-Controlled Cross-Corpus Benchmark](https://arxiv.org/abs/2610.04636v1)** | 2026-10-03 | <details><summary>18 pa...</summary><p>18 pages, 3 tables. Reproducibility materials and source code are available from the author</p></details> |
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v2)** | 2026-09-28 | <details><summary>Full ...</summary><p>Full version of the paper published at IJCNN 2026; includes additional experiments and analysis</p></details> |
@@ -43,7 +44,6 @@ labels: documentation
 | **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
 | **[Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection](https://arxiv.org/abs/2608.29617v1)** | 2026-08-30 |  |
 | **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
-| **[BERTopic-Virality Prioritisation: A Scalable Framework for Thematic and Comparative Analysis of COVID-19 and Monkeypox Misinformation on Twitter](https://arxiv.org/abs/2608.15691v1)** | 2026-08-16 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables. Preprint</p></details> |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -78,6 +78,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](https://arxiv.org/abs/2610.18176v1)** | 2026-10-13 |  |
+| **[OmniRobotHome: A Multi-Camera Home Platform for Real-Time Human-Robot Interaction](https://arxiv.org/abs/2604.28197v3)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Page: https://junc0ng.github.io/omnirobothome</p></details> |
 | **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v5)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.36254v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v5)** | 2026-09-28 |  |
@@ -91,8 +93,6 @@ labels: documentation
 | **[Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts](https://arxiv.org/abs/2609.10135v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by ISPDS 2025</p></details> |
 | **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
 | **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
-| **[SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos](https://arxiv.org/abs/2608.30716v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 11 figures, 11 tables</p></details> |
-| **[TransCAVE-E: A distributed virtual reality testbed for adaptive external human-machine interfaces](https://arxiv.org/abs/2609.29686v1)** | 2026-08-30 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -116,9 +116,13 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
+| **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v2)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, 4 figures; title and Figure 1 layout updated; results unchanged</p></details> |
+| **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v2)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by International Conference on Data Mining (ICDM) 2027</p></details> |
+| **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v4)** | 2026-10-11 |  |
+| **[ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages. Published at COLM 2026. Code: https://github.com/bishnubista/conformalguard-colm-2026</p></details> |
 | **[Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184v3)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 14 tables</p></details> |
 | **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v2)** | 2026-10-08 |  |
-| **[AdaptEvo: Adaptive Agent Learning with Evolving Supervision](https://arxiv.org/abs/2610.11354v1)** | 2026-10-08 | 21 pages, 4 figures |
 | **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
 | **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
 | **[How Do People Challenge Racial Stereotypes Online? Counter-Story Detection Across Reddit Communities](https://arxiv.org/abs/2610.04803v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 28 pages, 12 figures, 24 tables. Content warning: this paper contains examples of racial stereotypes that may be upsetting or offensive. Code: https://github.com/UmaGunturi/counter_story_detection</p></details> |
@@ -127,8 +131,4 @@ labels: documentation
 | **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v2)** | 2026-09-30 |  |
 | **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v3)** | 2026-09-28 |  |
 | **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](https://arxiv.org/abs/2505.04600v3)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 interactive figures</p></details> |
-| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v3)** | 2026-09-27 |  |
-| **[Agent Safety From Within: Detecting Harmful Trajectories from LLM Internal States](https://arxiv.org/abs/2609.33039v1)** | 2026-09-27 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 9 tables</p></details> |
-| **[MELD: Multi-Task Equilibrated Learning Detector for AI-Generated Text](https://arxiv.org/abs/2605.06903v2)** | 2026-09-26 |  |
-| **[SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610v3)** | 2026-09-26 |  |
 

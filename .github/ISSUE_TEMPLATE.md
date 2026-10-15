@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -116,6 +116,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v2)** | 2026-10-14 | <details><summary>This ...</summary><p>This revised version substantially extends the experimental evaluation by incorporating a Mastodon dataset, additional LLM models (both lightweight and top-tier), and including GraphNLI as an experimental baseline</p></details> |
+| **[Assessing and Refining ChatGPT's Performance in Identifying Targeting and Inappropriate Language: A Comparative Study](https://arxiv.org/abs/2505.21710v2)** | 2026-10-13 |  |
 | **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
 | **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v2)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, 4 figures; title and Figure 1 layout updated; results unchanged</p></details> |
 | **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v2)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by International Conference on Data Mining (ICDM) 2027</p></details> |
@@ -129,6 +131,4 @@ labels: documentation
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v2)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted by IEEE JSTSP</p></details> |
 | **[Semantic Watermarking for Malicious Image Manipulation Detection](https://arxiv.org/abs/2609.39623v1)** | 2026-09-30 |  |
 | **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v2)** | 2026-09-30 |  |
-| **[Responsiveness Verification: Will Predictions Change? How Much? How Often?](https://arxiv.org/abs/2507.02169v3)** | 2026-09-28 |  |
-| **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](https://arxiv.org/abs/2505.04600v3)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 interactive figures</p></details> |
 

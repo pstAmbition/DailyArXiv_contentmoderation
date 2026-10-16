@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -67,7 +67,7 @@ labels: documentation
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[M$^3$R-Bench: A Unified Benchmark for Evidence-Grounded Multimodal Metaphor Understanding](https://arxiv.org/abs/2608.05817v1)** | 2026-08-06 | <details><summary>6 fig...</summary><p>6 figures and 5 tables. Hong Jiang, Junnan Zhu, and Jingwang Huang contributed equally. Jiang Zhong and Kaiwen Wei are corresponding authors. Code and data are available at https://github.com/hongshi4/M3R-Bench</p></details> |
+| **[M$^3$R-Bench: A Unified Benchmark for Evidence-Grounded Multimodal Metaphor Understanding](https://arxiv.org/abs/2608.05817v2)** | 2026-10-15 | <details><summary>21 pa...</summary><p>21 pages, 15 figures and 11 tables (including appendices). Hong Jiang, Junnan Zhu, and Jingwang Huang contributed equally. Jiang Zhong and Kaiwen Wei are corresponding authors. Code and data are available at https://github.com/hongshi4/m3r-bench-artifact</p></details> |
 | **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v3)** | 2026-06-08 |  |
 | **[Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](https://arxiv.org/abs/2505.11237v4)** | 2026-04-17 | <details><summary>ICMR'...</summary><p>ICMR'25, June 30-July 3, 2025, Chicago, IL, USA</p></details> |
 | **[Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://arxiv.org/abs/2506.06987v1)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper has been accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Conference</p></details> |
@@ -116,10 +116,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
 | **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v2)** | 2026-10-14 | <details><summary>This ...</summary><p>This revised version substantially extends the experimental evaluation by incorporating a Mastodon dataset, additional LLM models (both lightweight and top-tier), and including GraphNLI as an experimental baseline</p></details> |
 | **[Assessing and Refining ChatGPT's Performance in Identifying Targeting and Inappropriate Language: A Comparative Study](https://arxiv.org/abs/2505.21710v2)** | 2026-10-13 |  |
 | **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
-| **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v2)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, 4 figures; title and Figure 1 layout updated; results unchanged</p></details> |
 | **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v2)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by International Conference on Data Mining (ICDM) 2027</p></details> |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v4)** | 2026-10-11 |  |
 | **[ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages. Published at COLM 2026. Code: https://github.com/bishnubista/conformalguard-colm-2026</p></details> |

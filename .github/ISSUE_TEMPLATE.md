@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 18, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -15,7 +15,8 @@ labels: documentation
 ## Harmful video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CCDF: A Benchmark Dataset for Deepfake Detection in Real-World Surveillance Footage](https://arxiv.org/abs/2610.07939v1)** | 2026-10-06 |  |
+| **[CCDF: A Benchmark Dataset for Deepfake Detection in Surveillance Footage](https://arxiv.org/abs/2610.07939v2)** | 2026-10-15 |  |
+| **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v2)** | 2026-10-14 |  |
 | **[Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization](https://arxiv.org/abs/2610.02019v1)** | 2026-10-01 |  |
 | **[V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](https://arxiv.org/abs/2607.21151v2)** | 2026-07-26 |  |
 | **[The Body as Status: Muscularity, Engagement, and Body Image Risk on #GymTok](https://arxiv.org/abs/2606.29682v1)** | 2026-06-29 |  |
@@ -24,7 +25,6 @@ labels: documentation
 | **[Jailbreaking on Text-to-Video Models via Scene Splitting Strategy](https://arxiv.org/abs/2509.22292v2)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page at https://velpegor.github.io/SceneSplit/</p></details> |
 | **[VMDT: Decoding the Trustworthiness of Video Foundation Models](https://arxiv.org/abs/2511.05682v1)** | 2025-11-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Datasets & Benchmarks</p></details> |
 | **[Protecting Young Users on Social Media: Evaluating the Effectiveness of Content Moderation and Legal Safeguards on Video Sharing Platforms](https://arxiv.org/abs/2505.11160v1)** | 2025-05-16 |  |
-| **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v1)** | 2024-11-06 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -116,7 +116,9 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v1)** | 2026-10-15 |  |
 | **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
+| **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v2)** | 2026-10-14 |  |
 | **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v2)** | 2026-10-14 | <details><summary>This ...</summary><p>This revised version substantially extends the experimental evaluation by incorporating a Mastodon dataset, additional LLM models (both lightweight and top-tier), and including GraphNLI as an experimental baseline</p></details> |
 | **[Assessing and Refining ChatGPT's Performance in Identifying Targeting and Inappropriate Language: A Comparative Study](https://arxiv.org/abs/2505.21710v2)** | 2026-10-13 |  |
 | **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
@@ -129,6 +131,4 @@ labels: documentation
 | **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
 | **[How Do People Challenge Racial Stereotypes Online? Counter-Story Detection Across Reddit Communities](https://arxiv.org/abs/2610.04803v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 28 pages, 12 figures, 24 tables. Content warning: this paper contains examples of racial stereotypes that may be upsetting or offensive. Code: https://github.com/UmaGunturi/counter_story_detection</p></details> |
 | **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v2)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted by IEEE JSTSP</p></details> |
-| **[Semantic Watermarking for Malicious Image Manipulation Detection](https://arxiv.org/abs/2609.39623v1)** | 2026-09-30 |  |
-| **[Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data](https://arxiv.org/abs/2605.11268v2)** | 2026-09-30 |  |
 

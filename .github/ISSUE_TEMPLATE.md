@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -29,6 +29,8 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v2)** | 2026-10-19 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 57 pages, 7 figures</p></details> |
+| **[Modeling Discourse Profiles in Climate Misinformation Discourse](https://arxiv.org/abs/2610.24489v1)** | 2026-10-17 |  |
 | **[Assessing the Performance of AI Models in Misinformation Detection Using Predefined Social Noise Constructs](https://arxiv.org/abs/2610.17469v1)** | 2026-10-12 | <details><summary>22 pa...</summary><p>22 pages, 12 tables, 2 figures and one Appendix</p></details> |
 | **[No Hindsight for LLM Fact-Checkers: Measuring Leakage Channels in Misinformation Detection](https://arxiv.org/abs/2610.04888v1)** | 2026-10-04 | 11 pages, 5 figures |
 | **[Does Neural Complexity Improve Health Misinformation Detection? A Leakage-Controlled Cross-Corpus Benchmark](https://arxiv.org/abs/2610.04636v1)** | 2026-10-03 | <details><summary>18 pa...</summary><p>18 pages, 3 tables. Reproducibility materials and source code are available from the author</p></details> |
@@ -42,14 +44,12 @@ labels: documentation
 | **[Overview of ROMCIR 2026: The 6th Workshop on Reducing Online Misinformation through Credible Information Retrieval](https://arxiv.org/abs/2609.05684v1)** | 2026-09-04 |  |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v4)** | 2026-09-03 | 13 pages |
 | **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
-| **[Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection](https://arxiv.org/abs/2608.29617v1)** | 2026-08-30 |  |
-| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Buy the Rumor, Sell the News: When Is News Priced In?](https://arxiv.org/abs/2608.14014v2)** | 2026-10-18 | <details><summary>Revis...</summary><p>Revised version accepted at the 3rd Workshop on LLMs and Generative AI for Finance (AI4F 2026), held in conjunction with ICAIF 2026, Milan, Italy. https://ai4f.org/</p></details> |
 | **[SAFE-MR: Evidence Sufficiency Learning for Selective Multimodal Rumor Detection](https://arxiv.org/abs/2610.06708v1)** | 2026-10-05 |  |
-| **[Buy the Rumor, Sell the News: When Is News Priced In?](https://arxiv.org/abs/2608.14014v1)** | 2026-08-14 |  |
 | **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
 | **[Multimodal rumor detection enhanced by external evidence and forgery features](https://arxiv.org/abs/2601.14954v3)** | 2026-07-12 | 20pages,10figures |
 | **[Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer](https://arxiv.org/abs/2603.22854v1)** | 2026-03-24 | 14 pages, 6 figures |
@@ -78,6 +78,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AeroIntent: A Synchronized Multimodal Benchmark for UAV Mission Intent Recognition](https://arxiv.org/abs/2610.25869v1)** | 2026-10-19 | 8 pages, 7 figures |
+| **[Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks](https://arxiv.org/abs/2610.25436v1)** | 2026-10-18 |  |
 | **[Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](https://arxiv.org/abs/2610.18176v1)** | 2026-10-13 |  |
 | **[OmniRobotHome: A Multi-Camera Home Platform for Real-Time Human-Robot Interaction](https://arxiv.org/abs/2604.28197v3)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Page: https://junc0ng.github.io/omnirobothome</p></details> |
 | **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v5)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
@@ -91,8 +93,6 @@ labels: documentation
 | **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
 | **[Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts](https://arxiv.org/abs/2609.10135v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by ISPDS 2025</p></details> |
-| **[Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context](https://arxiv.org/abs/2605.10021v2)** | 2026-09-07 |  |
-| **[DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information](https://arxiv.org/abs/2609.01120v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, and 3 tables</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
+| **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
 | **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v1)** | 2026-10-15 |  |
 | **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
 | **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v2)** | 2026-10-14 |  |
@@ -129,6 +131,4 @@ labels: documentation
 | **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v2)** | 2026-10-08 |  |
 | **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
 | **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
-| **[How Do People Challenge Racial Stereotypes Online? Counter-Story Detection Across Reddit Communities](https://arxiv.org/abs/2610.04803v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 28 pages, 12 figures, 24 tables. Content warning: this paper contains examples of racial stereotypes that may be upsetting or offensive. Code: https://github.com/UmaGunturi/counter_story_detection</p></details> |
-| **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v2)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted by IEEE JSTSP</p></details> |
 

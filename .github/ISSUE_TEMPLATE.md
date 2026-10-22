@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -78,6 +78,7 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Characterizing Social Media Behavior under Limited Observability: Retweet Link Prediction and Multimodal Intention Recognition](https://arxiv.org/abs/2610.29375v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 10 tables</p></details> |
 | **[AeroIntent: A Synchronized Multimodal Benchmark for UAV Mission Intent Recognition](https://arxiv.org/abs/2610.25869v1)** | 2026-10-19 | 8 pages, 7 figures |
 | **[Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks](https://arxiv.org/abs/2610.25436v1)** | 2026-10-18 |  |
 | **[Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](https://arxiv.org/abs/2610.18176v1)** | 2026-10-13 |  |
@@ -92,7 +93,6 @@ labels: documentation
 | **[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars](https://arxiv.org/abs/2609.21109v1)** | 2026-09-17 |  |
 | **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 | **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
-| **[Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts](https://arxiv.org/abs/2609.10135v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by ISPDS 2025</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
 | **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
 | **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v1)** | 2026-10-15 |  |
@@ -130,5 +131,4 @@ labels: documentation
 | **[Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184v3)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 14 tables</p></details> |
 | **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v2)** | 2026-10-08 |  |
 | **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
-| **[From Abusive Language Classification to Sequence Labeling Identification](https://arxiv.org/abs/2610.06287v1)** | 2026-10-05 |  |
 

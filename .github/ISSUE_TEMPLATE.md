@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -116,6 +116,8 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs](https://arxiv.org/abs/2610.31062v1)** | 2026-10-22 |  |
+| **[Interpretive Variation and Discourse Structure in Detecting Enthymemes in Controversial Political Discourse](https://arxiv.org/abs/2610.30987v1)** | 2026-10-22 |  |
 | **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
 | **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
@@ -129,6 +131,4 @@ labels: documentation
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v4)** | 2026-10-11 |  |
 | **[ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages. Published at COLM 2026. Code: https://github.com/bishnubista/conformalguard-colm-2026</p></details> |
 | **[Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184v3)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 14 tables</p></details> |
-| **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v2)** | 2026-10-08 |  |
-| **[Benchmarking System One Models in Online Moderation](https://arxiv.org/abs/2610.07953v1)** | 2026-10-06 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -78,6 +78,8 @@ labels: documentation
 ## Intent Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Profile-Driven User Simulation via Reinforcement Learning with Hierarchical Rewards for Task-Oriented Dialogues](https://arxiv.org/abs/2610.32435v1)** | 2026-10-23 |  |
+| **[CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition](https://arxiv.org/abs/2610.32022v1)** | 2026-10-23 |  |
 | **[Characterizing Social Media Behavior under Limited Observability: Retweet Link Prediction and Multimodal Intention Recognition](https://arxiv.org/abs/2610.29375v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 10 tables</p></details> |
 | **[AeroIntent: A Synchronized Multimodal Benchmark for UAV Mission Intent Recognition](https://arxiv.org/abs/2610.25869v1)** | 2026-10-19 | 8 pages, 7 figures |
 | **[Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks](https://arxiv.org/abs/2610.25436v1)** | 2026-10-18 |  |
@@ -91,8 +93,6 @@ labels: documentation
 | **[A Task-Oriented Multi-Agent Framework for Complex Wearable Health Analysis](https://arxiv.org/abs/2609.24107v1)** | 2026-09-21 | <details><summary>23 pa...</summary><p>23 pages, 4 figures. Code available at https://github.com/yangkunpeng-coder/WearableDeviceAgents-paper</p></details> |
 | **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v3)** | 2026-09-18 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
 | **[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars](https://arxiv.org/abs/2609.21109v1)** | 2026-09-17 |  |
-| **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
-| **[A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration](https://arxiv.org/abs/2609.10339v1)** | 2026-09-09 |  |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -116,8 +116,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v2)** | 2026-10-23 |  |
 | **[SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs](https://arxiv.org/abs/2610.31062v1)** | 2026-10-22 |  |
 | **[Interpretive Variation and Discourse Structure in Detecting Enthymemes in Controversial Political Discourse](https://arxiv.org/abs/2610.30987v1)** | 2026-10-22 |  |
+| **[Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability](https://arxiv.org/abs/2610.31713v1)** | 2026-10-22 |  |
 | **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
 | **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
@@ -129,6 +131,4 @@ labels: documentation
 | **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
 | **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v2)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by International Conference on Data Mining (ICDM) 2027</p></details> |
 | **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v4)** | 2026-10-11 |  |
-| **[ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages. Published at COLM 2026. Code: https://github.com/bishnubista/conformalguard-colm-2026</p></details> |
-| **[Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184v3)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 14 tables</p></details> |
 

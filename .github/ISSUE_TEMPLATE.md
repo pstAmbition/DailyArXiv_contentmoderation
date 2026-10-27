@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMFact: Simplifying Multimodal Misinformation Detection with Shared Resources and Tools](https://arxiv.org/abs/2610.34162v1)** | 2026-10-25 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 2 tables</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v2)** | 2026-10-19 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 57 pages, 7 figures</p></details> |
 | **[Modeling Discourse Profiles in Climate Misinformation Discourse](https://arxiv.org/abs/2610.24489v1)** | 2026-10-17 |  |
 | **[Assessing the Performance of AI Models in Misinformation Detection Using Predefined Social Noise Constructs](https://arxiv.org/abs/2610.17469v1)** | 2026-10-12 | <details><summary>22 pa...</summary><p>22 pages, 12 tables, 2 figures and one Appendix</p></details> |
@@ -43,7 +44,6 @@ labels: documentation
 | **[A parameter-efficient three-branch architecture for multimodal misinformation detection with limited annotations](https://arxiv.org/abs/2512.20257v2)** | 2026-09-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at https://github.com/ALCOR-Lab-DIAG/LADLE-MM</p></details> |
 | **[Overview of ROMCIR 2026: The 6th Workshop on Reducing Online Misinformation through Credible Information Retrieval](https://arxiv.org/abs/2609.05684v1)** | 2026-09-04 |  |
 | **[Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417v4)** | 2026-09-03 | 13 pages |
-| **[A Multi-Branch Feature Fusion Approach for Health Misinformation Detection and Propagation](https://arxiv.org/abs/2609.00403v1)** | 2026-08-31 | 1 figure, 8 tables |
 
 ## Rumor
 | **Title** | **Date** | **Comment** |
@@ -85,7 +85,6 @@ labels: documentation
 | **[Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks](https://arxiv.org/abs/2610.25436v1)** | 2026-10-18 |  |
 | **[Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](https://arxiv.org/abs/2610.18176v1)** | 2026-10-13 |  |
 | **[OmniRobotHome: A Multi-Camera Home Platform for Real-Time Human-Robot Interaction](https://arxiv.org/abs/2604.28197v3)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Page: https://junc0ng.github.io/omnirobothome</p></details> |
-| **[See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making](https://arxiv.org/abs/2606.03371v5)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Preprint. Revised title, manuscript, and author list</p></details> |
 | **[Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.36254v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Interaction Dynamics MPC for Knee Rehabilitation Exoskeletons: A Closed-Loop SEA Outer-Loop Study](https://arxiv.org/abs/2606.13485v5)** | 2026-09-28 |  |
 | **[When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions](https://arxiv.org/abs/2609.27560v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Technical Communications. 6 pages</p></details> |
@@ -93,6 +92,7 @@ labels: documentation
 | **[A Task-Oriented Multi-Agent Framework for Complex Wearable Health Analysis](https://arxiv.org/abs/2609.24107v1)** | 2026-09-21 | <details><summary>23 pa...</summary><p>23 pages, 4 figures. Code available at https://github.com/yangkunpeng-coder/WearableDeviceAgents-paper</p></details> |
 | **[Adaptive Hierarchical Representation Alliance for Multimodal Learning](https://arxiv.org/abs/2608.22863v3)** | 2026-09-18 | <details><summary>This ...</summary><p>This study has been accepted by EMNLP 2026 (Findings)</p></details> |
 | **[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars](https://arxiv.org/abs/2609.21109v1)** | 2026-09-17 |  |
+| **[Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling](https://arxiv.org/abs/2608.18689v3)** | 2026-09-10 | <details><summary>LLMs,...</summary><p>LLMs, Native, Arabic LLMs, Augmentation, Multilingual, Multimodal, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models, Audio Models, Omni Models, Slot Filling</p></details> |
 
 ## Metaphor Identification
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,10 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowing When to Escalate: Disagreement Patterns for Uncertainty-Aware Content Moderation](https://arxiv.org/abs/2610.35335v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026, November 7-11, 2026, Rome, Italy</p></details> |
+| **[The Policies of Programming Language Ecosystems: A "Qualitative" Analysis](https://arxiv.org/abs/2610.34187v1)** | 2026-10-25 | Submitted |
+| **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v3)** | 2026-10-24 |  |
+| **[Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation](https://arxiv.org/abs/2610.33258v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 5 tables</p></details> |
 | **[JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety](https://arxiv.org/abs/2607.19913v2)** | 2026-10-23 |  |
 | **[SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs](https://arxiv.org/abs/2610.31062v1)** | 2026-10-22 |  |
 | **[Interpretive Variation and Discourse Structure in Detecting Enthymemes in Controversial Political Discourse](https://arxiv.org/abs/2610.30987v1)** | 2026-10-22 |  |
@@ -127,8 +131,4 @@ labels: documentation
 | **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
 | **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v2)** | 2026-10-14 |  |
 | **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v2)** | 2026-10-14 | <details><summary>This ...</summary><p>This revised version substantially extends the experimental evaluation by incorporating a Mastodon dataset, additional LLM models (both lightweight and top-tier), and including GraphNLI as an experimental baseline</p></details> |
-| **[Assessing and Refining ChatGPT's Performance in Identifying Targeting and Inappropriate Language: A Comparative Study](https://arxiv.org/abs/2505.21710v2)** | 2026-10-13 |  |
-| **[Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326v1)** | 2026-10-13 |  |
-| **[ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks](https://arxiv.org/abs/2605.00513v2)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by International Conference on Data Mining (ICDM) 2027</p></details> |
-| **[The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit](https://arxiv.org/abs/2605.16428v4)** | 2026-10-11 |  |
 

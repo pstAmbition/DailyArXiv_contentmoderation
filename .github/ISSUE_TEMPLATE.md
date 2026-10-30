@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2026
+title: Latest 15 Papers - October 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -29,7 +29,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMFact: Simplifying Multimodal Misinformation Detection with Shared Resources and Tools](https://arxiv.org/abs/2610.34162v1)** | 2026-10-25 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 2 tables</p></details> |
+| **[MMFact: Simplifying Multimodal Misinformation Detection with Shared Resources and Tools](https://arxiv.org/abs/2610.34162v2)** | 2026-10-29 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 2 tables</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v2)** | 2026-10-19 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 57 pages, 7 figures</p></details> |
 | **[Modeling Discourse Profiles in Climate Misinformation Discourse](https://arxiv.org/abs/2610.24489v1)** | 2026-10-17 |  |
 | **[Assessing the Performance of AI Models in Misinformation Detection Using Predefined Social Noise Constructs](https://arxiv.org/abs/2610.17469v1)** | 2026-10-12 | <details><summary>22 pa...</summary><p>22 pages, 12 tables, 2 figures and one Appendix</p></details> |
@@ -48,6 +48,7 @@ labels: documentation
 ## Rumor
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[New Election, Same Old Story: How Tropes Form a Grammar of Election Rumors](https://arxiv.org/abs/2610.37804v1)** | 2026-10-27 |  |
 | **[Buy the Rumor, Sell the News: When Is News Priced In?](https://arxiv.org/abs/2608.14014v2)** | 2026-10-18 | <details><summary>Revis...</summary><p>Revised version accepted at the 3rd Workshop on LLMs and Generative AI for Finance (AI4F 2026), held in conjunction with ICAIF 2026, Milan, Italy. https://ai4f.org/</p></details> |
 | **[SAFE-MR: Evidence Sufficiency Learning for Selective Multimodal Rumor Detection](https://arxiv.org/abs/2610.06708v1)** | 2026-10-05 |  |
 | **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
@@ -62,7 +63,6 @@ labels: documentation
 | **[Verifying Rumors via Stance-Aware Structural Modeling](https://arxiv.org/abs/2512.13559v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, published in The 24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025), London, UK, 2025</p></details> |
 | **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
 | **[Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained](https://arxiv.org/abs/2510.27165v1)** | 2025-10-31 | 32 pages,3 figures |
-| **[Towards Constant Time Multi-Call Rumor Spreading on Small-Set Expanders](https://arxiv.org/abs/2508.18017v2)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear at DISC 2025</p></details> |
 
 ## Multimodal Metaphor
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v3)** | 2026-10-29 | <details><summary>Publi...</summary><p>Published in EMNLP 2026 Main: Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection (Firoozfar et al., EMNLP 2026) | https://aclanthology.org/2026.emnlp-main.2444/</p></details> |
 | **[Knowing When to Escalate: Disagreement Patterns for Uncertainty-Aware Content Moderation](https://arxiv.org/abs/2610.35335v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026, November 7-11, 2026, Rome, Italy</p></details> |
 | **[The Policies of Programming Language Ecosystems: A "Qualitative" Analysis](https://arxiv.org/abs/2610.34187v1)** | 2026-10-25 | Submitted |
 | **[Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures](https://arxiv.org/abs/2602.07815v3)** | 2026-10-24 |  |
@@ -130,5 +131,4 @@ labels: documentation
 | **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v1)** | 2026-10-15 |  |
 | **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
 | **[Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](https://arxiv.org/abs/2411.05854v2)** | 2026-10-14 |  |
-| **[DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks](https://arxiv.org/abs/2605.21054v2)** | 2026-10-14 | <details><summary>This ...</summary><p>This revised version substantially extends the experimental evaluation by incorporating a Mastodon dataset, additional LLM models (both lightweight and top-tier), and including GraphNLI as an experimental baseline</p></details> |
 

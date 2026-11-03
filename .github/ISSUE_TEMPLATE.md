@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -116,6 +116,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When the Text Is Silent: Memory Shortcuts and the Validity of LLM Annotation under Evidence Insufficiency](https://arxiv.org/abs/2611.02273v1)** | 2026-11-01 | 15 pages, 5 figures |
 | **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v2)** | 2026-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn because it does not meet arXiv's research content quality standards</p></details> |
 | **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v2)** | 2026-10-30 |  |
 | **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v3)** | 2026-10-29 | <details><summary>Publi...</summary><p>Published in EMNLP 2026 Main: Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection (Firoozfar et al., EMNLP 2026) | https://aclanthology.org/2026.emnlp-main.2444/</p></details> |
@@ -130,5 +131,4 @@ labels: documentation
 | **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
 | **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
-| **[AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution](https://arxiv.org/abs/2610.11354v3)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; team authorship with the full author list and affiliations in Contributors; results unchanged</p></details> |
 

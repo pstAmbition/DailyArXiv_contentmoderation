@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_contentmoderation) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v2)** | 2026-11-04 |  |
 | **[Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim](https://arxiv.org/abs/2610.41012v1)** | 2026-10-29 |  |
 | **[MMFact: Simplifying Multimodal Misinformation Detection with Shared Resources and Tools](https://arxiv.org/abs/2610.34162v2)** | 2026-10-29 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 2 tables</p></details> |
 | **[When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098v2)** | 2026-10-19 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 57 pages, 7 figures</p></details> |
@@ -39,7 +40,6 @@ labels: documentation
 | **[AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511v2)** | 2026-09-28 | <details><summary>Full ...</summary><p>Full version of the paper published at IJCNN 2026; includes additional experiments and analysis</p></details> |
 | **[When Machines Lie Differently: Detecting AI vs Human Fake News](https://arxiv.org/abs/2607.21967v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Machine Learning and Applications (ICMLA 2026)</p></details> |
 | **[Effects of Transcript Compression on LLM-based Medical Misinformation Detection in Japanese YouTube Videos](https://arxiv.org/abs/2609.30882v1)** | 2026-09-25 | <details><summary>15 pa...</summary><p>15 pages. Accepted at the 18th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2026), Multidisciplinary Track, Short Paper</p></details> |
-| **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v1)** | 2026-09-25 |  |
 | **[What Improves Multimodal Misinformation Detection? Answers from a Large-Scale Empirical Study](https://arxiv.org/abs/2609.30402v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at the Tenth Widening NLP Workshop (WiNLP), co-located with EMNLP 2026</p></details> |
 | **[To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](https://arxiv.org/abs/2609.30227v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to EMNLP (Main) 2026</p></details> |
 | **[A parameter-efficient three-branch architecture for multimodal misinformation detection with limited annotations](https://arxiv.org/abs/2512.20257v2)** | 2026-09-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at https://github.com/ALCOR-Lab-DIAG/LADLE-MM</p></details> |
@@ -116,6 +116,7 @@ labels: documentation
 ## Content Moderation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Perception of Transliterated Offensive Social Media Posts Among Banglish and Hinglish Users](https://arxiv.org/abs/2611.06226v1)** | 2026-11-04 |  |
 | **[When the Text Is Silent: Memory Shortcuts and the Validity of LLM Annotation under Evidence Insufficiency](https://arxiv.org/abs/2611.02273v1)** | 2026-11-01 | 15 pages, 5 figures |
 | **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v2)** | 2026-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn because it does not meet arXiv's research content quality standards</p></details> |
 | **[Accelerated Dataflow: scaling inference in streaming data analytics with efficiency](https://arxiv.org/abs/2610.22731v2)** | 2026-10-30 |  |
@@ -130,5 +131,4 @@ labels: documentation
 | **[Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability](https://arxiv.org/abs/2610.31713v1)** | 2026-10-22 |  |
 | **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models](https://arxiv.org/abs/2610.26226v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to JURIX 2026</p></details> |
-| **[Modeling Group Socialization in Online Communities](https://arxiv.org/abs/2610.24140v1)** | 2026-10-16 |  |
 
